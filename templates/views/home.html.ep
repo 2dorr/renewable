@@ -1,0 +1,6 @@
+% layout 'default';
+% title 'Welcome';
+
+<h2>Welcome - Please choose your option</h2>
+<p><a href="/login">Login</a></p>
+<p><a href="/signup">Sign-Up</a></p>

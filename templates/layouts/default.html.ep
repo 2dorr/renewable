@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title><%= title %></title>
+        <link href="/assets/css/bootstrap.css" rel="stylesheet">
+        <link href="/css/style.css" rel="stylesheet" type="text/css">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script src="/assets/js/bootstrap.js"></script>
+        <script src="/assets/js/bootstrap.min.js"></script>
+        <meta charset="utf-8">
+    </head>
+    <body>
+
+      <div class="navbar navbar-fixed-top" itemscope="" itemtype="http://schema.org/WPHeader" style=" margin-left:auto;margin-right:auto;">
+        <div class="navbar-inner">
+          <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" itemscope="" itemtype="http://schema.org/FoodEstablishment" href="http://www.eatfab.com">Renewable Energy</a>
+          <div class="nav-collapse">
+            <ul class="nav" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/home"><span itemprop="name">Home</span></a></li>
+              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/login"><span itemprop="name">Login</span></a></li>
+              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/signup"><span itemprop="name">Sign Up</span></a></li>
+            </ul>
+          </div>
+          </div>
+      </div>
+      </div>
+          <div class="container"><!--/.nav-collapse -->
+              <%= content %>
+          </div>
+
+
+    </body>
+</html>

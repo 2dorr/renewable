@@ -1,0 +1,21 @@
+#/usr/bin/perl
+
+use strict;
+use warnings;
+
+use DBIx::Class::Schema::Loader qw/ make_schema_at /;
+use YAML qw(LoadFile);
+
+my $conf = LoadFile('./conf/config.yaml');
+
+make_schema_at(
+    'Models::Schema',
+    { debug => 1,
+      dump_directory => './lib',
+    },
+    [
+     $conf->{database}->{dsn},
+     $conf->{database}->{user},
+     $conf->{database}->{password},
+    ],
+);

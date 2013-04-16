@@ -1,0 +1,1170 @@
+[Tue Apr  9 22:56:35 2013] [info] Listening at "http://*:3000".
+[Tue Apr  9 22:56:47 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr  9 22:56:47 2013] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr  9 22:56:47 2013] [debug] Routing to controller "Renewable::Example" and action "welcome".
+[Tue Apr  9 22:56:47 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Apr  9 22:56:47 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr  9 22:56:47 2013] [debug] 200 OK (0.065619s, 15.239/s).
+[Tue Apr  9 23:56:58 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr  9 23:56:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  9 23:56:58 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  9 23:56:58 2013] [debug] Rendering inline template.
+[Tue Apr  9 23:56:58 2013] [debug] Rendering inline template.
+[Tue Apr  9 23:56:58 2013] [debug] 404 Not Found (0.027455s, 36.423/s).
+[Tue Apr  9 23:57:41 2013] [info] Listening at "http://*:3000".
+[Tue Apr  9 23:57:45 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr  9 23:57:45 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr  9 23:57:45 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Tue Apr  9 23:57:45 2013] [debug] Rendering template "home.html.ep".
+[Tue Apr  9 23:57:45 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr  9 23:57:45 2013] [debug] 200 OK (0.011828s, 84.545/s).
+[Tue Apr  9 23:57:47 2013] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr  9 23:57:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  9 23:57:47 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  9 23:57:47 2013] [debug] Rendering inline template.
+[Tue Apr  9 23:57:47 2013] [debug] Rendering inline template.
+[Tue Apr  9 23:57:47 2013] [debug] 404 Not Found (0.028627s, 34.932/s).
+[Tue Apr  9 23:59:58 2013] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr  9 23:59:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  9 23:59:58 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  9 23:59:58 2013] [debug] Rendering cached inline template.
+[Tue Apr  9 23:59:58 2013] [debug] Rendering cached inline template.
+[Tue Apr  9 23:59:58 2013] [debug] 404 Not Found (0.007647s, 130.770/s).
+[Wed Apr 10 00:03:10 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:03:10 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:03:10 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:03:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:03:10 2013] [debug] 200 OK (0.001690s, 591.716/s).
+[Wed Apr 10 00:03:11 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:03:11 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:03:11 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:03:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:03:11 2013] [debug] 200 OK (0.004093s, 244.320/s).
+[Wed Apr 10 00:03:12 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:03:12 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:03:12 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:03:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:03:12 2013] [debug] 200 OK (0.001843s, 542.594/s).
+[Wed Apr 10 00:03:12 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:03:12 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:03:12 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:03:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:03:12 2013] [debug] 200 OK (0.001423s, 702.741/s).
+[Wed Apr 10 00:03:50 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:03:50 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:03:50 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:03:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:03:50 2013] [debug] 200 OK (0.002176s, 459.559/s).
+[Wed Apr 10 00:04:37 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:04:37 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:04:37 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:04:37 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:04:37 2013] [debug] 200 OK (0.002385s, 419.287/s).
+[Wed Apr 10 00:04:38 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:04:38 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:04:38 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:04:38 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:04:38 2013] [debug] 200 OK (0.002207s, 453.104/s).
+[Wed Apr 10 00:04:38 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:04:38 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:04:38 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:04:38 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:04:38 2013] [debug] 200 OK (0.001531s, 653.168/s).
+[Wed Apr 10 00:04:39 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:04:39 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:04:39 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:04:39 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:04:39 2013] [debug] 200 OK (0.002259s, 442.674/s).
+[Wed Apr 10 00:04:39 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:04:39 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:04:39 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:04:39 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:04:39 2013] [debug] 200 OK (0.002096s, 477.099/s).
+[Wed Apr 10 00:07:21 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:07:21 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:07:21 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:07:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:07:21 2013] [debug] 200 OK (0.004204s, 237.869/s).
+[Wed Apr 10 00:11:41 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:11:41 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:11:41 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:11:41 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:11:41 2013] [debug] 200 OK (0.001926s, 519.211/s).
+[Wed Apr 10 00:13:15 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:13:15 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:13:15 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:13:15 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:13:15 2013] [debug] 200 OK (0.002878s, 347.464/s).
+[Wed Apr 10 00:13:16 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:13:16 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:13:16 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:13:16 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:13:16 2013] [debug] 200 OK (0.003494s, 286.205/s).
+[Wed Apr 10 00:13:17 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:13:17 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:13:17 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:13:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:13:17 2013] [debug] 200 OK (0.001589s, 629.327/s).
+[Wed Apr 10 00:13:17 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:13:17 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:13:17 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:13:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:13:17 2013] [debug] 200 OK (0.001818s, 550.055/s).
+[Wed Apr 10 00:13:17 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:13:17 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:13:17 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:13:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:13:17 2013] [debug] 200 OK (0.001723s, 580.383/s).
+[Wed Apr 10 00:13:18 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:13:18 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:13:18 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:13:18 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:13:18 2013] [debug] 200 OK (0.002092s, 478.011/s).
+[Wed Apr 10 00:13:18 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:13:18 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:13:18 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:13:18 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:13:18 2013] [debug] 200 OK (0.002019s, 495.295/s).
+[Wed Apr 10 00:13:18 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:13:18 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:13:18 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:13:18 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:13:18 2013] [debug] 200 OK (0.002182s, 458.295/s).
+[Wed Apr 10 00:13:22 2013] [info] Listening at "http://*:3000".
+[Wed Apr 10 00:13:25 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr 10 00:13:25 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:13:25 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:13:25 2013] [debug] Rendering template "home.html.ep".
+[Wed Apr 10 00:13:25 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Apr 10 00:13:25 2013] [debug] 200 OK (0.018312s, 54.609/s).
+[Wed Apr 10 00:14:36 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:14:36 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:14:36 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:14:36 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:14:36 2013] [debug] 200 OK (0.010398s, 96.172/s).
+[Wed Apr 10 00:17:38 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:17:38 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:17:38 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:17:38 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:17:38 2013] [debug] 200 OK (0.005145s, 194.363/s).
+[Wed Apr 10 00:17:45 2013] [info] Listening at "http://*:3000".
+[Wed Apr 10 00:17:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr 10 00:17:48 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:17:48 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:17:48 2013] [debug] Rendering template "home.html.ep".
+[Wed Apr 10 00:17:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Apr 10 00:17:48 2013] [debug] 200 OK (0.010295s, 97.135/s).
+[Wed Apr 10 00:17:49 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:17:49 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:17:49 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:17:49 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:17:49 2013] [debug] 200 OK (0.001864s, 536.481/s).
+[Wed Apr 10 00:17:49 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:17:50 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:17:50 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:17:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:17:50 2013] [debug] 200 OK (0.002272s, 440.141/s).
+[Wed Apr 10 00:17:50 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:17:50 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:17:50 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:17:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:17:50 2013] [debug] 200 OK (0.001980s, 505.051/s).
+[Wed Apr 10 00:17:50 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:17:50 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:17:50 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:17:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:17:50 2013] [debug] 200 OK (0.004484s, 223.015/s).
+[Wed Apr 10 00:17:50 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:17:50 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:17:50 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:17:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:17:50 2013] [debug] 200 OK (0.002059s, 485.673/s).
+[Wed Apr 10 00:19:36 2013] [info] Listening at "http://*:3000".
+[Wed Apr 10 00:19:43 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr 10 00:19:43 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:19:43 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:19:43 2013] [debug] Rendering template "home.html.ep".
+[Wed Apr 10 00:19:43 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Apr 10 00:19:43 2013] [debug] 200 OK (0.016461s, 60.750/s).
+[Wed Apr 10 00:19:45 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:19:45 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:19:45 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:19:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:19:46 2013] [debug] 200 OK (0.004608s, 217.014/s).
+[Wed Apr 10 00:19:46 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:19:46 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:19:46 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:19:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:19:46 2013] [debug] 200 OK (0.001885s, 530.504/s).
+[Wed Apr 10 00:19:46 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:19:46 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:19:46 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:19:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:19:46 2013] [debug] 200 OK (0.004674s, 213.950/s).
+[Wed Apr 10 00:19:46 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:19:46 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:19:46 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:19:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:19:46 2013] [debug] 200 OK (0.001892s, 528.541/s).
+[Wed Apr 10 00:19:47 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:19:47 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:19:47 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:19:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:19:47 2013] [debug] 200 OK (0.001704s, 586.854/s).
+[Wed Apr 10 00:19:47 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:19:47 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:19:47 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:19:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:19:47 2013] [debug] 200 OK (0.002190s, 456.621/s).
+[Wed Apr 10 00:19:47 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:19:47 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:19:47 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:19:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:19:47 2013] [debug] 200 OK (0.002685s, 372.439/s).
+[Wed Apr 10 00:19:47 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:19:47 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:19:47 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:19:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:19:47 2013] [debug] 200 OK (0.002074s, 482.160/s).
+[Wed Apr 10 00:19:47 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:19:47 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:19:47 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:19:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:19:47 2013] [debug] 200 OK (0.002124s, 470.810/s).
+[Wed Apr 10 00:19:56 2013] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:19:56 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr 10 00:19:56 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr 10 00:19:56 2013] [debug] Rendering inline template.
+[Wed Apr 10 00:19:56 2013] [debug] Rendering inline template.
+[Wed Apr 10 00:19:56 2013] [debug] 404 Not Found (0.022790s, 43.879/s).
+[Wed Apr 10 00:20:00 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:20:00 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:20:00 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:20:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:20:00 2013] [debug] 200 OK (0.002842s, 351.865/s).
+[Wed Apr 10 00:22:00 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:22:00 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:22:00 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:22:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:22:00 2013] [debug] 200 OK (0.001925s, 519.481/s).
+[Wed Apr 10 00:22:01 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:22:01 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:22:01 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:22:01 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:22:01 2013] [debug] 200 OK (0.002803s, 356.761/s).
+[Wed Apr 10 00:22:07 2013] [info] Listening at "http://*:3000".
+[Wed Apr 10 00:22:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr 10 00:22:09 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:22:09 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:22:09 2013] [debug] Rendering template "home.html.ep".
+[Wed Apr 10 00:22:09 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Apr 10 00:22:09 2013] [debug] 200 OK (0.010751s, 93.015/s).
+[Wed Apr 10 00:22:34 2013] [info] Listening at "http://*:3000".
+[Wed Apr 10 00:22:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr 10 00:22:36 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:22:36 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:22:36 2013] [debug] Rendering template "home.html.ep".
+[Wed Apr 10 00:22:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Apr 10 00:22:36 2013] [debug] 200 OK (0.013496s, 74.096/s).
+[Wed Apr 10 00:23:21 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:23:21 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:23:21 2013] [debug] Rendering cached template home.html.ep.
+[Wed Apr 10 00:23:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Apr 10 00:23:21 2013] [debug] 200 OK (0.002545s, 392.927/s).
+[Wed Apr 10 00:28:59 2013] [info] Listening at "http://*:3000".
+[Wed Apr 10 00:29:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr 10 00:29:09 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:29:09 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:29:09 2013] [debug] Rendering template "home.html.ep".
+[Wed Apr 10 00:29:09 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Apr 10 00:29:09 2013] [debug] 200 OK (0.013149s, 76.051/s).
+[Wed Apr 10 00:31:22 2013] [info] Listening at "http://*:3000".
+[Wed Apr 10 00:31:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr 10 00:31:26 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:31:26 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:31:26 2013] [debug] Rendering template "home.html.ep".
+[Wed Apr 10 00:31:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Apr 10 00:31:26 2013] [debug] 200 OK (0.015635s, 63.959/s).
+[Wed Apr 10 00:32:36 2013] [info] Listening at "http://*:3000".
+[Wed Apr 10 00:32:39 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr 10 00:32:39 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:32:39 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:32:39 2013] [debug] Rendering template "home.html.ep".
+[Wed Apr 10 00:32:39 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Apr 10 00:32:39 2013] [debug] 200 OK (0.013951s, 71.679/s).
+[Wed Apr 10 00:33:36 2013] [info] Listening at "http://*:3000".
+[Wed Apr 10 00:33:38 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr 10 00:33:38 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Wed Apr 10 00:33:38 2013] [debug] Routing to controller "Renewable::Home" and action "welcome".
+[Wed Apr 10 00:33:38 2013] [debug] Rendering template "home.html.ep".
+[Wed Apr 10 00:33:38 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Apr 10 00:33:38 2013] [debug] 200 OK (0.011636s, 85.940/s).
+[Mon Apr 15 01:03:44 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 01:03:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:03:55 2013] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:03:55 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:03:55 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:03:55 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:03:55 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:03:55 2013] [debug] 404 Not Found (0.031230s, 32.020/s).
+[Mon Apr 15 01:04:02 2013] [debug] GET /homr (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:04:02 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:04:02 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:04:02 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:04:02 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:04:02 2013] [debug] 404 Not Found (0.009586s, 104.319/s).
+[Mon Apr 15 01:04:05 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:04:05 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:04:05 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:04:05 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:04:05 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:04:05 2013] [debug] 404 Not Found (0.013498s, 74.085/s).
+[Mon Apr 15 01:04:09 2013] [debug] GET /home/welcome (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:04:09 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:04:09 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:04:09 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:04:09 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:04:09 2013] [debug] 404 Not Found (0.009971s, 100.291/s).
+[Mon Apr 15 01:04:23 2013] [debug] GET /controllers/home/welcome (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:04:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:04:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:04:23 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:04:23 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:04:23 2013] [debug] 404 Not Found (0.009466s, 105.641/s).
+[Mon Apr 15 01:04:39 2013] [debug] GET /controllers/home/welcome (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:04:39 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:04:39 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:04:39 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:04:39 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:04:39 2013] [debug] 404 Not Found (0.015605s, 64.082/s).
+[Mon Apr 15 01:04:53 2013] [debug] GET /controllers/home/ (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:04:53 2013] [debug] Controller "Renewable::Home" does not exist.
+[Mon Apr 15 01:04:53 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:04:53 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:04:53 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:04:53 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:04:53 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:04:53 2013] [debug] 404 Not Found (0.034230s, 29.214/s).
+[Mon Apr 15 01:05:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:05:23 2013] [debug] GET /home/ (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:05:23 2013] [debug] Rendering template "home.html.ep".
+[Mon Apr 15 01:05:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Apr 15 01:05:23 2013] [debug] 200 OK (0.022724s, 44.006/s).
+[Mon Apr 15 01:07:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:07:53 2013] [debug] GET /home/ (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:07:53 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:07:53 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:07:53 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:07:53 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:07:53 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:07:53 2013] [debug] 404 Not Found (0.026857s, 37.234/s).
+[Mon Apr 15 01:08:05 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 01:08:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:08:08 2013] [debug] GET /home/ (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:08:08 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:08:08 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:08:08 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:08:08 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:08:08 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:08:08 2013] [debug] 404 Not Found (0.024815s, 40.298/s).
+[Mon Apr 15 01:08:46 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:08:46 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:08:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:08:46 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:08:46 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:08:46 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:08:46 2013] [debug] 404 Not Found (0.014619s, 68.404/s).
+[Mon Apr 15 01:09:44 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 01:09:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:09:48 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:09:48 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:09:48 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:09:48 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:09:48 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:09:48 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:09:48 2013] [debug] 404 Not Found (0.024690s, 40.502/s).
+[Mon Apr 15 01:09:50 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:09:50 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:09:50 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:09:50 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:09:50 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:09:50 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:09:50 2013] [debug] 404 Not Found (0.011469s, 87.192/s).
+[Mon Apr 15 01:09:50 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:09:50 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:09:50 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:09:50 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:09:50 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:09:50 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:09:50 2013] [debug] 404 Not Found (0.015093s, 66.256/s).
+[Mon Apr 15 01:09:50 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:09:50 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:09:50 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:09:50 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:09:50 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:09:50 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:09:50 2013] [debug] 404 Not Found (0.015582s, 64.177/s).
+[Mon Apr 15 01:09:51 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:09:51 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:09:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:09:51 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:09:51 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:09:51 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:09:51 2013] [debug] 404 Not Found (0.009708s, 103.008/s).
+[Mon Apr 15 01:09:51 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:09:51 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:09:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:09:51 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:09:51 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:09:51 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:09:51 2013] [debug] 404 Not Found (0.019004s, 52.621/s).
+[Mon Apr 15 01:11:05 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:11:05 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:11:05 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:11:05 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:11:05 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:11:05 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:11:05 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:11:05 2013] [debug] 404 Not Found (0.029253s, 34.185/s).
+[Mon Apr 15 01:11:05 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:11:05 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:11:05 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:11:05 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:11:05 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:05 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:06 2013] [debug] 404 Not Found (0.017254s, 57.958/s).
+[Mon Apr 15 01:11:14 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 01:11:19 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:11:19 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:11:19 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:11:19 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:11:19 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:11:19 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:11:19 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:11:19 2013] [debug] 404 Not Found (0.024325s, 41.110/s).
+[Mon Apr 15 01:11:20 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:11:20 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:11:20 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:11:20 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:11:20 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:20 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:20 2013] [debug] 404 Not Found (0.011435s, 87.451/s).
+[Mon Apr 15 01:11:21 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:11:21 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:11:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:11:21 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:11:21 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:21 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:21 2013] [debug] 404 Not Found (0.014930s, 66.979/s).
+[Mon Apr 15 01:11:22 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:11:22 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:11:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:11:22 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:11:22 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:22 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:22 2013] [debug] 404 Not Found (0.016246s, 61.554/s).
+[Mon Apr 15 01:11:23 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:11:23 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:11:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:11:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:11:23 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:23 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:23 2013] [debug] 404 Not Found (0.013718s, 72.897/s).
+[Mon Apr 15 01:11:23 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:11:23 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:11:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:11:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:11:23 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:23 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:23 2013] [debug] 404 Not Found (0.013010s, 76.864/s).
+[Mon Apr 15 01:11:23 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:11:23 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:11:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:11:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:11:23 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:23 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:11:23 2013] [debug] 404 Not Found (0.009016s, 110.914/s).
+[Mon Apr 15 01:12:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:12:15 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:12:15 2013] [debug] Template "home.html.ep" not found.
+[Mon Apr 15 01:12:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:12:15 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:12:15 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:12:15 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:12:15 2013] [debug] 404 Not Found (0.027941s, 35.790/s).
+[Mon Apr 15 01:15:05 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 01:15:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:15:15 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:15:15 2013] [debug] Controller "Renewable::Controllers/home" does not exist.
+[Mon Apr 15 01:15:15 2013] [debug] Template "controllers/home/welcome.html.ep" not found.
+[Mon Apr 15 01:15:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:15:15 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:15:15 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:15:15 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:15:15 2013] [debug] 404 Not Found (0.027335s, 36.583/s).
+[Mon Apr 15 01:16:11 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 01:16:14 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:16:14 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:16:14 2013] [debug] Controller "Renewable::Controllers#home" does not exist.
+[Mon Apr 15 01:16:14 2013] [debug] Template "controllers#home/welcome.html.ep" not found.
+[Mon Apr 15 01:16:14 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:16:14 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:16:14 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:16:14 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:16:14 2013] [debug] 404 Not Found (0.032762s, 30.523/s).
+[Mon Apr 15 01:17:01 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 01:17:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:17:08 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:17:08 2013] [debug] Controller "Renewable::Controllers/home" does not exist.
+[Mon Apr 15 01:17:08 2013] [debug] Template "controllers/home/welcome.html.ep" not found.
+[Mon Apr 15 01:17:08 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:17:08 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:17:08 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:17:08 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:17:08 2013] [debug] 404 Not Found (0.025380s, 39.401/s).
+[Mon Apr 15 01:17:09 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:17:09 2013] [debug] Controller "Renewable::Controllers/home" does not exist.
+[Mon Apr 15 01:17:09 2013] [debug] Template "controllers/home/welcome.html.ep" not found.
+[Mon Apr 15 01:17:09 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:17:09 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:17:09 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:17:09 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:17:09 2013] [debug] 404 Not Found (0.013098s, 76.348/s).
+[Mon Apr 15 01:17:10 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:17:10 2013] [debug] Controller "Renewable::Controllers/home" does not exist.
+[Mon Apr 15 01:17:10 2013] [debug] Template "controllers/home/welcome.html.ep" not found.
+[Mon Apr 15 01:17:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:17:10 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:17:10 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:17:10 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:17:10 2013] [debug] 404 Not Found (0.013264s, 75.392/s).
+[Mon Apr 15 01:17:10 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:17:10 2013] [debug] Controller "Renewable::Controllers/home" does not exist.
+[Mon Apr 15 01:17:10 2013] [debug] Template "controllers/home/welcome.html.ep" not found.
+[Mon Apr 15 01:17:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:17:10 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:17:10 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:17:10 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:17:10 2013] [debug] 404 Not Found (0.012236s, 81.726/s).
+[Mon Apr 15 01:17:10 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:17:10 2013] [debug] Controller "Renewable::Controllers/home" does not exist.
+[Mon Apr 15 01:17:10 2013] [debug] Template "controllers/home/welcome.html.ep" not found.
+[Mon Apr 15 01:17:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:17:10 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:17:10 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:17:10 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:17:10 2013] [debug] 404 Not Found (0.009092s, 109.987/s).
+[Mon Apr 15 01:21:04 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 01:21:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:21:33 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:21:33 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:21:33 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:21:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:21:33 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:21:33 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:21:33 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:21:33 2013] [debug] 404 Not Found (0.028730s, 34.807/s).
+[Mon Apr 15 01:22:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:22:33 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:22:33 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:22:33 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:22:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:22:33 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:22:33 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:22:33 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:22:33 2013] [debug] 404 Not Found (0.035386s, 28.260/s).
+[Mon Apr 15 01:22:33 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:22:33 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:22:33 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:22:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:22:33 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:22:33 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:33 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:33 2013] [debug] 404 Not Found (0.009927s, 100.735/s).
+[Mon Apr 15 01:22:41 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:22:41 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:22:41 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:22:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:22:41 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:22:41 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:41 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:41 2013] [debug] 404 Not Found (0.014726s, 67.907/s).
+[Mon Apr 15 01:22:42 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:22:42 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:22:42 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:22:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:22:42 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:22:42 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:42 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:42 2013] [debug] 404 Not Found (0.013655s, 73.233/s).
+[Mon Apr 15 01:22:43 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:22:43 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:22:43 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:22:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:22:43 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:22:43 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:43 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:43 2013] [debug] 404 Not Found (0.010618s, 94.180/s).
+[Mon Apr 15 01:22:43 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:22:43 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:22:43 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:22:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:22:43 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:22:43 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:43 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:43 2013] [debug] 404 Not Found (0.015022s, 66.569/s).
+[Mon Apr 15 01:22:43 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:22:43 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:22:43 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:22:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:22:43 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:22:43 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:43 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:43 2013] [debug] 404 Not Found (0.016901s, 59.168/s).
+[Mon Apr 15 01:22:44 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:22:44 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:22:44 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:22:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:22:44 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:22:44 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:44 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:22:44 2013] [debug] 404 Not Found (0.009826s, 101.771/s).
+[Mon Apr 15 01:25:42 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 01:25:49 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:25:49 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:25:49 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:25:49 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:25:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:25:49 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:25:49 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:25:49 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:25:49 2013] [debug] 404 Not Found (0.030075s, 33.250/s).
+[Mon Apr 15 01:25:52 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:25:52 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:25:52 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:25:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:25:52 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:25:52 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:25:52 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:25:52 2013] [debug] 404 Not Found (0.018107s, 55.227/s).
+[Mon Apr 15 01:25:53 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:25:53 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:25:53 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:25:53 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:25:53 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:25:53 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:25:53 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:25:53 2013] [debug] 404 Not Found (0.014525s, 68.847/s).
+[Mon Apr 15 01:25:53 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:25:53 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:25:53 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:25:53 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:25:53 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:25:53 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:25:53 2013] [debug] Rendering cached inline template.
+[Mon Apr 15 01:25:53 2013] [debug] 404 Not Found (0.009397s, 106.417/s).
+[Mon Apr 15 01:29:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:29:10 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:29:10 2013] [debug] Class "Renewable::Controllers::Home" is not a controller.
+[Mon Apr 15 01:29:10 2013] [debug] Template "home/welcome.html.ep" not found.
+[Mon Apr 15 01:29:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 01:29:10 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 01:29:10 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:29:10 2013] [debug] Rendering inline template.
+[Mon Apr 15 01:29:10 2013] [debug] 404 Not Found (0.027368s, 36.539/s).
+[Mon Apr 15 01:33:18 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 01:34:20 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 01:34:24 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 01:34:24 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 01:34:24 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Apr 15 01:34:24 2013] [debug] Rendering template "views/home.html.ep".
+[Mon Apr 15 01:34:24 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Apr 15 01:34:24 2013] [debug] 200 OK (0.024886s, 40.183/s).
+[Mon Apr 15 23:34:36 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 23:36:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 23:36:07 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 23:36:07 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Apr 15 23:36:07 2013] [debug] Rendering template "views/home.html.ep".
+[Mon Apr 15 23:36:08 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Apr 15 23:36:08 2013] [debug] 200 OK (0.517786s, 1.931/s).
+[Mon Apr 15 23:36:12 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 23:36:12 2013] [debug] Class "Renewable::Controllers::Signup" is not a controller.
+[Mon Apr 15 23:36:12 2013] [debug] Template "signup/add.html.ep" not found.
+[Mon Apr 15 23:36:12 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 23:36:12 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 23:36:12 2013] [debug] Rendering inline template.
+[Mon Apr 15 23:36:12 2013] [debug] Rendering inline template.
+[Mon Apr 15 23:36:12 2013] [debug] 404 Not Found (0.026812s, 37.297/s).
+[Mon Apr 15 23:36:26 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 23:36:30 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 23:36:30 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 23:36:30 2013] [debug] Class "Renewable::Controllers::Signup" is not a controller.
+[Mon Apr 15 23:36:30 2013] [debug] Template "signup/add.html.ep" not found.
+[Mon Apr 15 23:36:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Apr 15 23:36:30 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Apr 15 23:36:30 2013] [debug] Rendering inline template.
+[Mon Apr 15 23:36:30 2013] [debug] Rendering inline template.
+[Mon Apr 15 23:36:30 2013] [debug] 404 Not Found (0.030205s, 33.107/s).
+[Mon Apr 15 23:37:14 2013] [info] Listening at "http://*:3000".
+[Mon Apr 15 23:37:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 23:37:17 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 23:37:17 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Mon Apr 15 23:37:17 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Mon Apr 15 23:37:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Apr 15 23:37:17 2013] [debug] 200 OK (0.031106s, 32.148/s).
+[Mon Apr 15 23:42:34 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 23:42:34 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 23:42:34 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Mon Apr 15 23:42:34 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Mon Apr 15 23:42:34 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Apr 15 23:42:34 2013] [debug] 200 OK (0.026913s, 37.157/s).
+[Mon Apr 15 23:47:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 23:47:56 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 23:47:56 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Mon Apr 15 23:47:56 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Mon Apr 15 23:47:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Apr 15 23:47:56 2013] [debug] 200 OK (0.029199s, 34.248/s).
+[Mon Apr 15 23:50:34 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 23:50:34 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 23:50:34 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Mon Apr 15 23:50:34 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Mon Apr 15 23:50:34 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Apr 15 23:50:34 2013] [debug] 200 OK (0.025605s, 39.055/s).
+[Mon Apr 15 23:53:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Apr 15 23:53:01 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Apr 15 23:53:01 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Mon Apr 15 23:53:01 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Mon Apr 15 23:53:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Apr 15 23:53:01 2013] [debug] 200 OK (0.023859s, 41.913/s).
+[Tue Apr 16 00:01:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:01:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:01:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:01:51 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:01:51 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:01:51 2013] [debug] 200 OK (0.024545s, 40.741/s).
+[Tue Apr 16 00:02:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:02:33 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:02:33 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:02:33 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:02:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:02:33 2013] [debug] 200 OK (0.024207s, 41.310/s).
+[Tue Apr 16 00:03:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:03:44 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:03:44 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:03:44 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:03:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:03:44 2013] [debug] 200 OK (0.026705s, 37.446/s).
+[Tue Apr 16 00:03:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:03:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:03:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:03:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:03:51 2013] [debug] 200 OK (0.002915s, 343.053/s).
+[Tue Apr 16 00:03:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:03:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:03:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:03:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:03:51 2013] [debug] 200 OK (0.002927s, 341.647/s).
+[Tue Apr 16 00:03:52 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:03:52 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:03:52 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:03:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:03:52 2013] [debug] 200 OK (0.003845s, 260.078/s).
+[Tue Apr 16 00:04:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:04:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:04:04 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:04:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:04:04 2013] [debug] 200 OK (0.002845s, 351.494/s).
+[Tue Apr 16 00:05:49 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:05:49 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:05:49 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:05:49 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:05:49 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:05:49 2013] [debug] 200 OK (0.024438s, 40.920/s).
+[Tue Apr 16 00:05:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:05:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:05:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:05:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:05:51 2013] [debug] 200 OK (0.002327s, 429.738/s).
+[Tue Apr 16 00:05:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:05:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:05:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:05:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:05:51 2013] [debug] 200 OK (0.002319s, 431.220/s).
+[Tue Apr 16 00:06:30 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:06:30 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Tue Apr 16 00:06:30 2013] [debug] Rendering template "views/home.html.ep".
+[Tue Apr 16 00:06:30 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:06:30 2013] [debug] 200 OK (0.004960s, 201.613/s).
+[Tue Apr 16 00:06:32 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:06:32 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:06:32 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:06:32 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:06:32 2013] [debug] 200 OK (0.001647s, 607.165/s).
+[Tue Apr 16 00:06:45 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:06:45 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:06:45 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:06:45 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:06:45 2013] [debug] 200 OK (0.002714s, 368.460/s).
+[Tue Apr 16 00:06:46 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:06:46 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:06:46 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:06:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:06:46 2013] [debug] 200 OK (0.003264s, 306.373/s).
+[Tue Apr 16 00:07:34 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:07:34 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:07:34 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:07:34 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:07:34 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:07:34 2013] [debug] 200 OK (0.028678s, 34.870/s).
+[Tue Apr 16 00:07:44 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:07:44 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:07:44 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:07:44 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:07:44 2013] [debug] 200 OK (0.001719s, 581.734/s).
+[Tue Apr 16 00:07:56 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:07:56 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:07:56 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:07:56 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:07:56 2013] [debug] 200 OK (0.003454s, 289.519/s).
+[Tue Apr 16 00:07:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:07:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:07:57 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:07:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:07:57 2013] [debug] 200 OK (0.002899s, 344.947/s).
+[Tue Apr 16 00:07:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:07:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:07:57 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:07:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:07:57 2013] [debug] 200 OK (0.002514s, 397.772/s).
+[Tue Apr 16 00:07:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:07:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:07:57 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:07:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:07:57 2013] [debug] 200 OK (0.002733s, 365.898/s).
+[Tue Apr 16 00:07:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:07:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:07:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:07:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:07:58 2013] [debug] 200 OK (0.002673s, 374.111/s).
+[Tue Apr 16 00:08:38 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:08:38 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:08:38 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:08:38 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:08:38 2013] [debug] 200 OK (0.002835s, 352.734/s).
+[Tue Apr 16 00:09:43 2013] [info] Listening at "http://*:3000".
+[Tue Apr 16 00:09:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:09:50 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:09:50 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:09:50 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:09:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:09:50 2013] [debug] 200 OK (0.023757s, 42.093/s).
+[Tue Apr 16 00:11:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:11:23 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:11:23 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:11:23 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:11:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:11:23 2013] [debug] 200 OK (0.025011s, 39.982/s).
+[Tue Apr 16 00:11:24 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:11:24 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:11:24 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:11:24 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:11:24 2013] [debug] 200 OK (0.003620s, 276.243/s).
+[Tue Apr 16 00:11:25 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:11:25 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:11:25 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:11:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:11:25 2013] [debug] 200 OK (0.002733s, 365.898/s).
+[Tue Apr 16 00:11:25 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:11:25 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:11:25 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:11:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:11:25 2013] [debug] 200 OK (0.002305s, 433.839/s).
+[Tue Apr 16 00:11:25 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:11:25 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:11:25 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:11:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:11:25 2013] [debug] 200 OK (0.001773s, 564.016/s).
+[Tue Apr 16 00:11:25 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:11:25 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:11:25 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:11:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:11:25 2013] [debug] 200 OK (0.001966s, 508.647/s).
+[Tue Apr 16 00:11:27 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:11:27 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Tue Apr 16 00:11:27 2013] [debug] Rendering template "views/home.html.ep".
+[Tue Apr 16 00:11:27 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:11:27 2013] [debug] 200 OK (0.007779s, 128.551/s).
+[Tue Apr 16 00:11:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:11:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:11:28 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:11:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:11:28 2013] [debug] 200 OK (0.002489s, 401.768/s).
+[Tue Apr 16 00:12:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:12:36 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:12:36 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:12:36 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:12:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:12:36 2013] [debug] 200 OK (0.023871s, 41.892/s).
+[Tue Apr 16 00:14:18 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:14:18 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:14:18 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:14:18 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:14:18 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:14:18 2013] [debug] 200 OK (0.024457s, 40.888/s).
+[Tue Apr 16 00:15:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:15:50 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:15:50 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:15:50 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:15:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:15:50 2013] [debug] 200 OK (0.025430s, 39.324/s).
+[Tue Apr 16 00:15:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:15:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:15:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:15:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:15:51 2013] [debug] 200 OK (0.001979s, 505.306/s).
+[Tue Apr 16 00:15:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:15:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:15:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:15:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:15:51 2013] [debug] 200 OK (0.001960s, 510.204/s).
+[Tue Apr 16 00:15:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:15:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:15:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:15:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:15:51 2013] [debug] 200 OK (0.002596s, 385.208/s).
+[Tue Apr 16 00:15:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:15:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:15:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:15:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:15:51 2013] [debug] 200 OK (0.001621s, 616.903/s).
+[Tue Apr 16 00:16:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:16:26 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:16:26 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:16:26 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:16:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:16:26 2013] [debug] 200 OK (0.026256s, 38.087/s).
+[Tue Apr 16 00:18:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:18:48 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:18:48 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:18:48 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:18:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:18:48 2013] [debug] 200 OK (0.024607s, 40.639/s).
+[Tue Apr 16 00:22:05 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:22:05 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:22:05 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:22:05 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:22:05 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:22:05 2013] [debug] 200 OK (0.027567s, 36.275/s).
+[Tue Apr 16 00:22:06 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:22:06 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:22:06 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:22:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:22:06 2013] [debug] 200 OK (0.002676s, 373.692/s).
+[Tue Apr 16 00:22:06 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:22:06 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:22:06 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:22:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:22:06 2013] [debug] 200 OK (0.003742s, 267.237/s).
+[Tue Apr 16 00:22:07 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:22:07 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:22:07 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:22:07 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:22:07 2013] [debug] 200 OK (0.003668s, 272.628/s).
+[Tue Apr 16 00:22:26 2013] [info] Listening at "http://*:3000".
+[Tue Apr 16 00:22:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:22:36 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:22:36 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:22:36 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:22:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:22:36 2013] [debug] 200 OK (0.025328s, 39.482/s).
+[Tue Apr 16 00:22:37 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:22:37 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:22:37 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:22:37 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:22:37 2013] [debug] 200 OK (0.002870s, 348.432/s).
+[Tue Apr 16 00:22:44 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:22:44 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:22:44 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:22:44 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:22:44 2013] [debug] 200 OK (0.001751s, 571.102/s).
+[Tue Apr 16 00:22:45 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:22:45 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:22:45 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:22:45 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:22:45 2013] [debug] 200 OK (0.004083s, 244.918/s).
+[Tue Apr 16 00:23:08 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:23:08 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:23:08 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:23:08 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:23:08 2013] [debug] 200 OK (0.001606s, 622.665/s).
+[Tue Apr 16 00:23:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:23:40 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:23:40 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:23:40 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:23:40 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:23:40 2013] [debug] 200 OK (0.025064s, 39.898/s).
+[Tue Apr 16 00:24:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:24:35 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:24:35 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:24:35 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:24:35 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:24:35 2013] [debug] 200 OK (0.027433s, 36.452/s).
+[Tue Apr 16 00:25:12 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:25:12 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:25:12 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:25:12 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:25:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:25:12 2013] [debug] 200 OK (0.024737s, 40.425/s).
+[Tue Apr 16 00:44:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:44:56 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:44:56 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:44:56 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:44:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:44:56 2013] [debug] 200 OK (0.025933s, 38.561/s).
+[Tue Apr 16 00:44:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:44:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:44:57 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:44:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:44:57 2013] [debug] 200 OK (0.002582s, 387.297/s).
+[Tue Apr 16 00:45:08 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:45:08 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:45:08 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 00:45:08 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 00:45:08 2013] [debug] 200 OK (0.002441s, 409.668/s).
+[Tue Apr 16 00:46:59 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:46:59 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:46:59 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:46:59 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:46:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:46:59 2013] [debug] 200 OK (0.026638s, 37.540/s).
+[Tue Apr 16 00:47:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:47:33 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:47:33 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:47:33 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:47:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:47:33 2013] [debug] 200 OK (0.028932s, 34.564/s).
+[Tue Apr 16 00:49:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:49:48 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:49:48 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:49:48 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:49:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:49:48 2013] [debug] 200 OK (0.025515s, 39.193/s).
+[Tue Apr 16 00:51:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:51:10 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:51:10 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:51:10 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:51:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:51:10 2013] [debug] 200 OK (0.029050s, 34.423/s).
+[Tue Apr 16 00:51:34 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:51:34 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:51:34 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:51:34 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:51:34 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:51:34 2013] [debug] 200 OK (0.028400s, 35.211/s).
+[Tue Apr 16 00:54:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:54:28 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:54:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:54:28 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:54:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:54:28 2013] [debug] 200 OK (0.025602s, 39.059/s).
+[Tue Apr 16 00:56:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:56:15 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:56:15 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:56:15 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:56:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:56:15 2013] [debug] 200 OK (0.027809s, 35.960/s).
+[Tue Apr 16 00:57:34 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:57:34 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:57:34 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:57:34 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:57:34 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:57:34 2013] [debug] 200 OK (0.025078s, 39.876/s).
+[Tue Apr 16 00:59:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 00:59:28 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 00:59:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 00:59:28 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 00:59:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 00:59:28 2013] [debug] 200 OK (0.032776s, 30.510/s).
+[Tue Apr 16 01:00:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:00:09 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:00:09 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:00:09 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:00:09 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:00:09 2013] [debug] 200 OK (0.025795s, 38.767/s).
+[Tue Apr 16 01:01:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:01:33 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:01:33 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:01:33 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:01:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:01:33 2013] [debug] 200 OK (0.034805s, 28.732/s).
+[Tue Apr 16 01:01:56 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:01:56 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:01:56 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue Apr 16 01:01:56 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr 16 01:01:56 2013] [debug] 200 OK (0.002645s, 378.072/s).
+[Tue Apr 16 01:02:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:02:42 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:02:42 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:02:42 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:02:42 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:02:42 2013] [debug] 200 OK (0.027158s, 36.822/s).
+[Tue Apr 16 01:04:12 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:04:12 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:04:12 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:04:12 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:04:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:04:12 2013] [debug] 200 OK (0.030077s, 33.248/s).
+[Tue Apr 16 01:05:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:05:27 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:05:27 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:05:27 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:05:27 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:05:27 2013] [debug] 200 OK (0.030940s, 32.321/s).
+[Tue Apr 16 01:07:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:07:31 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:07:31 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:07:31 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:07:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:07:31 2013] [debug] 200 OK (0.029427s, 33.982/s).
+[Tue Apr 16 01:09:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:09:31 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:09:31 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:09:31 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:09:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:09:31 2013] [debug] 200 OK (0.029577s, 33.810/s).
+[Tue Apr 16 01:13:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:13:09 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:13:09 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:13:09 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:13:09 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:13:09 2013] [debug] 200 OK (0.028944s, 34.549/s).
+[Tue Apr 16 01:15:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:15:50 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:15:50 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:15:50 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:15:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:15:50 2013] [debug] 200 OK (0.025630s, 39.017/s).
+[Tue Apr 16 01:16:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:16:31 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:16:31 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:16:31 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:16:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:16:31 2013] [debug] 200 OK (0.026026s, 38.423/s).
+[Tue Apr 16 01:16:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:16:56 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:16:56 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:16:56 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:16:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:16:56 2013] [debug] 200 OK (0.027231s, 36.723/s).
+[Tue Apr 16 01:17:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:17:56 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:17:56 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:17:56 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:17:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:17:56 2013] [debug] 200 OK (0.025950s, 38.536/s).
+[Tue Apr 16 01:18:54 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr 16 01:18:54 2013] [debug] POST /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Apr 16 01:18:54 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue Apr 16 01:18:54 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue Apr 16 01:18:54 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr 16 01:18:54 2013] [debug] 200 OK (0.029447s, 33.959/s).
