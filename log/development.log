@@ -1168,3 +1168,1802 @@
 [Tue Apr 16 01:18:54 2013] [debug] Rendering template "views/signup/signup.html.ep".
 [Tue Apr 16 01:18:54 2013] [debug] Rendering template "layouts/default.html.ep".
 [Tue Apr 16 01:18:54 2013] [debug] 200 OK (0.029447s, 33.959/s).
+[Tue May 14 12:10:02 2013] [info] Listening at "http://*:3000".
+[Tue May 14 12:10:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 12:10:23 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:10:23 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Tue May 14 12:10:23 2013] [debug] Rendering template "views/home.html.ep".
+[Tue May 14 12:10:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 12:10:23 2013] [debug] 200 OK (0.025804s, 38.754/s).
+[Tue May 14 12:10:49 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:10:49 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:10:49 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 12:10:49 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:10:49 2013] [debug] 200 OK (0.006301s, 158.705/s).
+[Tue May 14 12:18:34 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:18:34 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:18:34 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:18:34 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:18:34 2013] [debug] 200 OK (0.001552s, 644.330/s).
+[Tue May 14 12:18:37 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:18:37 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:18:37 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:18:37 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:18:37 2013] [debug] 200 OK (0.001411s, 708.717/s).
+[Tue May 14 12:19:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 12:19:17 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:19:17 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:19:17 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 12:19:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 12:19:17 2013] [debug] 200 OK (0.021737s, 46.005/s).
+[Tue May 14 12:19:18 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:19:18 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:19:18 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:19:18 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:19:18 2013] [debug] 200 OK (0.001429s, 699.790/s).
+[Tue May 14 12:19:34 2013] [info] Listening at "http://*:3000".
+[Tue May 14 12:19:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 12:19:35 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:19:35 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:19:35 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 12:19:35 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 12:19:35 2013] [debug] 200 OK (0.024560s, 40.717/s).
+[Tue May 14 12:19:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:19:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:19:57 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:19:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:19:57 2013] [debug] 200 OK (0.001302s, 768.049/s).
+[Tue May 14 12:20:08 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:20:08 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:20:08 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:20:08 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:20:08 2013] [debug] 200 OK (0.001539s, 649.773/s).
+[Tue May 14 12:20:37 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:20:37 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:20:37 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:20:37 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:20:37 2013] [debug] 200 OK (0.001400s, 714.286/s).
+[Tue May 14 12:20:48 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:20:48 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:20:48 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:20:48 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:20:48 2013] [debug] 200 OK (0.001628s, 614.251/s).
+[Tue May 14 12:21:17 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:21:17 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:21:17 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:21:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:21:17 2013] [debug] 200 OK (0.001446s, 691.563/s).
+[Tue May 14 12:21:55 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:21:55 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:21:55 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:21:55 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:21:55 2013] [debug] 200 OK (0.001334s, 749.625/s).
+[Tue May 14 12:22:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:22:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:22:04 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:22:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:22:04 2013] [debug] 200 OK (0.001385s, 722.022/s).
+[Tue May 14 12:23:19 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:23:19 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:23:19 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:23:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:23:19 2013] [debug] 200 OK (0.001567s, 638.162/s).
+[Tue May 14 12:23:21 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:23:21 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:23:21 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:23:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:23:21 2013] [debug] 200 OK (0.001511s, 661.813/s).
+[Tue May 14 12:24:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:24:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:24:28 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:24:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:24:28 2013] [debug] 200 OK (0.001478s, 676.590/s).
+[Tue May 14 12:24:29 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:24:29 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:24:29 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:24:29 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:24:29 2013] [debug] 200 OK (0.001298s, 770.416/s).
+[Tue May 14 12:24:30 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:24:30 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:24:30 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:24:30 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:24:30 2013] [debug] 200 OK (0.001494s, 669.344/s).
+[Tue May 14 12:24:46 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:24:46 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:24:46 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:24:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:24:46 2013] [debug] 200 OK (0.001348s, 741.840/s).
+[Tue May 14 12:24:47 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:24:47 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:24:47 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:24:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:24:47 2013] [debug] 200 OK (0.001464s, 683.060/s).
+[Tue May 14 12:24:52 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:24:52 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:24:52 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:24:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:24:52 2013] [debug] 200 OK (0.001466s, 682.128/s).
+[Tue May 14 12:26:53 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:26:53 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:26:53 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:26:53 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:26:53 2013] [debug] 200 OK (0.001307s, 765.111/s).
+[Tue May 14 12:28:16 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:28:16 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:28:16 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:28:16 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:28:16 2013] [debug] 200 OK (0.001652s, 605.327/s).
+[Tue May 14 12:28:38 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:28:38 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:28:38 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:28:38 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:28:38 2013] [debug] 200 OK (0.001470s, 680.272/s).
+[Tue May 14 12:28:41 2013] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:28:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue May 14 12:28:41 2013] [debug] Template "not_found.html.ep" not found.
+[Tue May 14 12:28:41 2013] [debug] Rendering inline template.
+[Tue May 14 12:28:41 2013] [debug] Rendering inline template.
+[Tue May 14 12:28:41 2013] [debug] 404 Not Found (0.022426s, 44.591/s).
+[Tue May 14 12:28:50 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:28:50 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Tue May 14 12:28:50 2013] [debug] Rendering template "views/home.html.ep".
+[Tue May 14 12:28:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:28:50 2013] [debug] 200 OK (0.004372s, 228.728/s).
+[Tue May 14 12:28:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:28:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:28:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:28:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:28:51 2013] [debug] 200 OK (0.001212s, 825.083/s).
+[Tue May 14 12:48:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:48:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:48:04 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:48:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:48:04 2013] [debug] 200 OK (0.001535s, 651.466/s).
+[Tue May 14 12:48:05 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:48:05 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:48:05 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:48:05 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:48:05 2013] [debug] 200 OK (0.001688s, 592.417/s).
+[Tue May 14 12:48:06 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:48:06 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:48:06 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:48:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:48:06 2013] [debug] 200 OK (0.001644s, 608.273/s).
+[Tue May 14 12:48:06 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:48:06 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:48:06 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:48:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:48:06 2013] [debug] 200 OK (0.001532s, 652.742/s).
+[Tue May 14 12:48:06 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:48:06 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:48:06 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:48:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:48:06 2013] [debug] 200 OK (0.001424s, 702.247/s).
+[Tue May 14 12:48:38 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:48:38 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:48:38 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:48:38 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:48:38 2013] [debug] 200 OK (0.001352s, 739.645/s).
+[Tue May 14 12:48:39 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:48:39 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:48:39 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:48:39 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:48:39 2013] [debug] 200 OK (0.001780s, 561.798/s).
+[Tue May 14 12:48:40 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:48:40 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:48:40 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:48:40 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:48:40 2013] [debug] 200 OK (0.001527s, 654.879/s).
+[Tue May 14 12:48:40 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:48:40 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:48:40 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:48:40 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:48:40 2013] [debug] 200 OK (0.001449s, 690.131/s).
+[Tue May 14 12:48:51 2013] [info] Listening at "http://*:3000".
+[Tue May 14 12:48:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 12:48:53 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:48:53 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:48:53 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 12:48:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 12:48:53 2013] [debug] 200 OK (0.024687s, 40.507/s).
+[Tue May 14 12:49:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:49:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:49:57 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:49:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:49:57 2013] [debug] 200 OK (0.001238s, 807.754/s).
+[Tue May 14 12:50:38 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:50:38 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:50:38 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:50:38 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:50:38 2013] [debug] 200 OK (0.001307s, 765.111/s).
+[Tue May 14 12:50:39 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:50:39 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:50:39 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:50:39 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:50:39 2013] [debug] 200 OK (0.002714s, 368.460/s).
+[Tue May 14 12:50:45 2013] [info] Listening at "http://*:3000".
+[Tue May 14 12:50:46 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 12:50:46 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:50:46 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:50:46 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 12:50:46 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 12:50:46 2013] [debug] 200 OK (0.024004s, 41.660/s).
+[Tue May 14 12:52:40 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:52:40 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:52:40 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:52:40 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:52:40 2013] [debug] 200 OK (0.001343s, 744.602/s).
+[Tue May 14 12:53:14 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:53:14 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:53:14 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:53:14 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:53:14 2013] [debug] 200 OK (0.001394s, 717.360/s).
+[Tue May 14 12:58:55 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 12:58:55 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 12:58:55 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 12:58:55 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 12:58:55 2013] [debug] 200 OK (0.001342s, 745.156/s).
+[Tue May 14 13:03:27 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:03:27 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:03:27 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:03:27 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:03:27 2013] [debug] 200 OK (0.001628s, 614.251/s).
+[Tue May 14 13:03:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:03:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:03:28 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:03:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:03:28 2013] [debug] 200 OK (0.001534s, 651.890/s).
+[Tue May 14 13:06:17 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:06:17 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:06:17 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:06:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:06:17 2013] [debug] 200 OK (0.001661s, 602.047/s).
+[Tue May 14 13:06:18 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:06:18 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:06:18 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:06:18 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:06:18 2013] [debug] 200 OK (0.001280s, 781.250/s).
+[Tue May 14 13:06:19 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:06:19 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:06:19 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:06:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:06:19 2013] [debug] 200 OK (0.001458s, 685.871/s).
+[Tue May 14 13:06:19 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:06:19 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:06:19 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:06:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:06:19 2013] [debug] 200 OK (0.001487s, 672.495/s).
+[Tue May 14 13:07:03 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:07:03 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:07:03 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:07:03 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:07:03 2013] [debug] 200 OK (0.001456s, 686.813/s).
+[Tue May 14 13:07:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:07:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:07:04 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:07:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:07:04 2013] [debug] 200 OK (0.002923s, 342.114/s).
+[Tue May 14 13:07:05 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:07:05 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:07:05 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:07:05 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:07:05 2013] [debug] 200 OK (0.001418s, 705.219/s).
+[Tue May 14 13:08:01 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:08:01 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:08:01 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:08:01 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:08:01 2013] [debug] 200 OK (0.001790s, 558.659/s).
+[Tue May 14 13:39:23 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:39:23 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:39:23 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:39:23 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:39:23 2013] [debug] 200 OK (0.001539s, 649.773/s).
+[Tue May 14 13:40:02 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:40:02 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:40:02 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:40:02 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:40:02 2013] [debug] 200 OK (0.001465s, 682.594/s).
+[Tue May 14 13:40:10 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:40:10 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:40:10 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:40:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:40:10 2013] [debug] 200 OK (0.001695s, 589.971/s).
+[Tue May 14 13:40:11 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:40:11 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:40:11 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:40:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:40:11 2013] [debug] 200 OK (0.001482s, 674.764/s).
+[Tue May 14 13:40:12 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:40:12 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:40:12 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:40:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:40:12 2013] [debug] 200 OK (0.001539s, 649.773/s).
+[Tue May 14 13:40:17 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:40:17 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:40:17 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:40:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:40:17 2013] [debug] 200 OK (0.001492s, 670.241/s).
+[Tue May 14 13:40:36 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:40:36 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:40:36 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:40:36 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:40:36 2013] [debug] 200 OK (0.001523s, 656.599/s).
+[Tue May 14 13:41:20 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:41:20 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:41:20 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:41:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:41:20 2013] [debug] 200 OK (0.001223s, 817.661/s).
+[Tue May 14 13:45:46 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:45:46 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:45:46 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:45:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:45:46 2013] [debug] 200 OK (0.001969s, 507.872/s).
+[Tue May 14 13:45:47 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:45:47 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:45:47 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:45:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:45:47 2013] [debug] 200 OK (0.001424s, 702.247/s).
+[Tue May 14 13:45:48 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:45:48 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:45:48 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:45:48 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:45:48 2013] [debug] 200 OK (0.001452s, 688.705/s).
+[Tue May 14 13:46:00 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:46:00 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:46:00 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:46:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:46:00 2013] [debug] 200 OK (0.001493s, 669.792/s).
+[Tue May 14 13:46:12 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:46:12 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:46:12 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:46:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:46:12 2013] [debug] 200 OK (0.001436s, 696.379/s).
+[Tue May 14 13:46:23 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:46:23 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:46:23 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:46:23 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:46:23 2013] [debug] 200 OK (0.001411s, 708.717/s).
+[Tue May 14 13:46:45 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:46:45 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:46:45 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:46:45 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:46:45 2013] [debug] 200 OK (0.001643s, 608.643/s).
+[Tue May 14 13:46:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:46:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:46:57 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:46:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:46:57 2013] [debug] 200 OK (0.001320s, 757.576/s).
+[Tue May 14 13:47:54 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:47:54 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:47:54 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:47:54 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:47:54 2013] [debug] 200 OK (0.001530s, 653.595/s).
+[Tue May 14 13:51:10 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:51:10 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:51:10 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:51:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:51:10 2013] [debug] 200 OK (0.001540s, 649.351/s).
+[Tue May 14 13:51:52 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 13:51:52 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 13:51:52 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 13:51:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 13:51:52 2013] [debug] 200 OK (0.001836s, 544.662/s).
+[Tue May 14 14:02:13 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:02:13 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:02:13 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:02:13 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:02:13 2013] [debug] 200 OK (0.001457s, 686.342/s).
+[Tue May 14 14:05:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:05:31 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:05:31 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:05:31 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:05:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:05:31 2013] [debug] 200 OK (0.024773s, 40.367/s).
+[Tue May 14 14:07:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:07:35 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:07:35 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:07:35 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:07:35 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:07:35 2013] [debug] 200 OK (0.025691s, 38.924/s).
+[Tue May 14 14:07:49 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:07:49 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:07:49 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:07:49 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:07:49 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:07:49 2013] [debug] 200 OK (0.024793s, 40.334/s).
+[Tue May 14 14:07:50 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:07:50 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:07:50 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:07:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:07:50 2013] [debug] 200 OK (0.001411s, 708.717/s).
+[Tue May 14 14:08:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:08:53 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:08:53 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:08:53 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:08:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:08:53 2013] [debug] 200 OK (0.025412s, 39.351/s).
+[Tue May 14 14:09:24 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:09:24 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:09:24 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:09:24 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:09:24 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:09:24 2013] [debug] 200 OK (0.026162s, 38.223/s).
+[Tue May 14 14:12:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:12:27 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:12:27 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:12:27 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:12:27 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:12:27 2013] [debug] 200 OK (0.027627s, 36.196/s).
+[Tue May 14 14:17:26 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:17:26 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:17:26 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:17:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:17:26 2013] [debug] 200 OK (0.001411s, 708.717/s).
+[Tue May 14 14:17:47 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:17:47 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:17:47 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:17:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:17:47 2013] [debug] 200 OK (0.001353s, 739.098/s).
+[Tue May 14 14:18:39 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:18:39 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:18:39 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:18:39 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:18:39 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:18:39 2013] [debug] 200 OK (0.025382s, 39.398/s).
+[Tue May 14 14:19:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:19:36 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:19:36 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:19:36 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:19:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:19:36 2013] [debug] 200 OK (0.025123s, 39.804/s).
+[Tue May 14 14:20:13 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:20:13 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:20:13 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:20:13 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:20:13 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:20:13 2013] [debug] 200 OK (0.022079s, 45.292/s).
+[Tue May 14 14:20:49 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:20:49 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:20:49 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:20:49 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:20:49 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:20:49 2013] [debug] 200 OK (0.025120s, 39.809/s).
+[Tue May 14 14:25:22 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:25:22 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:25:22 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:25:22 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:25:22 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:25:22 2013] [debug] 200 OK (0.026864s, 37.225/s).
+[Tue May 14 14:25:30 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:25:30 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:25:30 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:25:30 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:25:30 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:25:30 2013] [debug] 200 OK (0.025040s, 39.936/s).
+[Tue May 14 14:25:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:25:42 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:25:42 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:25:42 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:25:42 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:25:42 2013] [debug] 200 OK (0.024550s, 40.733/s).
+[Tue May 14 14:25:54 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:25:54 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:25:54 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:25:54 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:25:54 2013] [debug] 200 OK (0.001490s, 671.141/s).
+[Tue May 14 14:29:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:29:42 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:29:42 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:29:42 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:29:42 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:29:42 2013] [debug] 200 OK (0.026254s, 38.089/s).
+[Tue May 14 14:29:52 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:29:52 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:29:52 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:29:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:29:52 2013] [debug] 200 OK (0.001607s, 622.278/s).
+[Tue May 14 14:30:02 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:30:02 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:30:02 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:30:02 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:30:02 2013] [debug] 200 OK (0.001217s, 821.693/s).
+[Tue May 14 14:30:08 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:30:08 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:30:08 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:30:08 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:30:08 2013] [debug] 200 OK (0.001324s, 755.287/s).
+[Tue May 14 14:30:40 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:30:40 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:30:40 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:30:40 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:30:40 2013] [debug] 200 OK (0.001586s, 630.517/s).
+[Tue May 14 14:32:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:32:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:32:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:32:28 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:32:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:32:28 2013] [debug] 200 OK (0.024992s, 40.013/s).
+[Tue May 14 14:32:45 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:32:45 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:32:45 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:32:45 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:32:45 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:32:45 2013] [debug] 200 OK (0.025160s, 39.746/s).
+[Tue May 14 14:33:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:33:44 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:33:44 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:33:44 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:33:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:33:44 2013] [debug] 200 OK (0.025076s, 39.879/s).
+[Tue May 14 14:34:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:34:07 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:34:07 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:34:07 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:34:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:34:07 2013] [debug] 200 OK (0.025348s, 39.451/s).
+[Tue May 14 14:34:29 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:34:29 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:34:29 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:34:29 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:34:29 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:34:29 2013] [debug] 200 OK (0.025578s, 39.096/s).
+[Tue May 14 14:34:43 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:34:43 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:34:43 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:34:43 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:34:43 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:34:43 2013] [debug] 200 OK (0.019909s, 50.229/s).
+[Tue May 14 14:34:47 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:34:47 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:34:47 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:34:47 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:34:47 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:34:47 2013] [debug] 200 OK (0.025290s, 39.541/s).
+[Tue May 14 14:35:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:35:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:35:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:35:28 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:35:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:35:28 2013] [debug] 200 OK (0.024687s, 40.507/s).
+[Tue May 14 14:35:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:35:35 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:35:35 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:35:35 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:35:35 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:35:35 2013] [debug] 200 OK (0.024976s, 40.038/s).
+[Tue May 14 14:39:49 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:39:49 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:39:49 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:39:49 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:39:49 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:39:49 2013] [debug] 200 OK (0.024867s, 40.214/s).
+[Tue May 14 14:39:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:39:56 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:39:56 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:39:56 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:39:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:39:56 2013] [debug] 200 OK (0.024978s, 40.035/s).
+[Tue May 14 14:39:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:39:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:39:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:39:57 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:39:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:39:57 2013] [debug] 200 OK (0.020178s, 49.559/s).
+[Tue May 14 14:39:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:39:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:39:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:39:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:39:58 2013] [debug] 200 OK (0.001189s, 841.043/s).
+[Tue May 14 14:40:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:40:15 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:40:15 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:40:15 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:40:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:40:15 2013] [debug] 200 OK (0.026177s, 38.201/s).
+[Tue May 14 14:40:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:40:23 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:40:23 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:40:23 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:40:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:40:23 2013] [debug] 200 OK (0.022623s, 44.203/s).
+[Tue May 14 14:40:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:40:36 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:40:36 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:40:36 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:40:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:40:36 2013] [debug] 200 OK (0.020414s, 48.986/s).
+[Tue May 14 14:45:27 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:45:27 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:45:27 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:45:27 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:45:27 2013] [debug] 200 OK (0.001365s, 732.601/s).
+[Tue May 14 14:45:46 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:45:46 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:45:46 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:45:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:45:46 2013] [debug] 200 OK (0.001524s, 656.168/s).
+[Tue May 14 14:45:47 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:45:47 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:45:47 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:45:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:45:47 2013] [debug] 200 OK (0.001532s, 652.742/s).
+[Tue May 14 14:45:47 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:45:47 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:45:47 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:45:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:45:47 2013] [debug] 200 OK (0.001464s, 683.060/s).
+[Tue May 14 14:46:20 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:46:20 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:46:20 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:46:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:46:20 2013] [debug] 200 OK (0.001413s, 707.714/s).
+[Tue May 14 14:48:41 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:48:41 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:48:41 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:48:41 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:48:41 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:48:41 2013] [debug] 200 OK (0.020012s, 49.970/s).
+[Tue May 14 14:48:42 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:48:42 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:48:42 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:48:42 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:48:42 2013] [debug] 200 OK (0.001250s, 800.000/s).
+[Tue May 14 14:48:43 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:48:43 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:48:43 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:48:43 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:48:43 2013] [debug] 200 OK (0.001417s, 705.716/s).
+[Tue May 14 14:48:44 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:48:44 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:48:44 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:48:44 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:48:44 2013] [debug] 200 OK (0.001456s, 686.813/s).
+[Tue May 14 14:50:03 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:50:03 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:50:03 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:50:03 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:50:03 2013] [debug] 200 OK (0.002040s, 490.196/s).
+[Tue May 14 14:50:07 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:50:07 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:50:07 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:50:07 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:50:07 2013] [debug] 200 OK (0.001686s, 593.120/s).
+[Tue May 14 14:52:19 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:52:19 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:52:19 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:52:19 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:52:19 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:52:19 2013] [debug] 200 OK (0.025539s, 39.156/s).
+[Tue May 14 14:52:46 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:52:46 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:52:46 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:52:46 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:52:46 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:52:46 2013] [debug] 200 OK (0.025187s, 39.703/s).
+[Tue May 14 14:52:54 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:52:54 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:52:54 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:52:54 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:52:54 2013] [debug] 200 OK (0.001783s, 560.852/s).
+[Tue May 14 14:53:17 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:53:17 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:53:17 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:53:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:53:17 2013] [debug] 200 OK (0.001316s, 759.878/s).
+[Tue May 14 14:56:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:56:53 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:56:53 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:56:53 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:56:54 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:56:54 2013] [debug] 200 OK (0.024760s, 40.388/s).
+[Tue May 14 14:57:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:57:53 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:57:53 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:57:53 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:57:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:57:53 2013] [debug] 200 OK (0.025256s, 39.595/s).
+[Tue May 14 14:57:54 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:57:54 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:57:54 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:57:54 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:57:54 2013] [debug] 200 OK (0.001463s, 683.527/s).
+[Tue May 14 14:57:54 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:57:54 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:57:54 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 14:57:54 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 14:57:54 2013] [debug] 200 OK (0.001407s, 710.732/s).
+[Tue May 14 14:58:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 14:58:09 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 14:58:09 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 14:58:09 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 14:58:09 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 14:58:09 2013] [debug] 200 OK (0.020919s, 47.803/s).
+[Tue May 14 15:01:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:01:42 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:01:42 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:01:42 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:01:42 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:01:42 2013] [debug] 200 OK (0.025635s, 39.009/s).
+[Tue May 14 15:01:43 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:01:43 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:01:43 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:01:43 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:01:43 2013] [debug] 200 OK (0.001313s, 761.615/s).
+[Tue May 14 15:01:43 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:01:43 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:01:43 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:01:43 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:01:43 2013] [debug] 200 OK (0.001398s, 715.308/s).
+[Tue May 14 15:02:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:02:09 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:02:09 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:02:09 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:02:09 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:02:09 2013] [debug] 200 OK (0.024522s, 40.780/s).
+[Tue May 14 15:04:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:04:55 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:04:55 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:04:55 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:04:55 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:04:55 2013] [debug] 200 OK (0.025768s, 38.808/s).
+[Tue May 14 15:05:00 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:05:00 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Tue May 14 15:05:00 2013] [debug] Rendering template "views/home.html.ep".
+[Tue May 14 15:05:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:05:00 2013] [debug] 200 OK (0.004298s, 232.666/s).
+[Tue May 14 15:05:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:05:33 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:05:33 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:05:33 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:05:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:05:33 2013] [debug] 200 OK (0.025187s, 39.703/s).
+[Tue May 14 15:08:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:08:42 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:08:42 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:08:42 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:08:42 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:08:42 2013] [debug] 200 OK (0.024917s, 40.133/s).
+[Tue May 14 15:10:52 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:10:52 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:10:52 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:10:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:10:52 2013] [debug] 200 OK (0.001548s, 645.995/s).
+[Tue May 14 15:10:52 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:10:52 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:10:52 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:10:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:10:52 2013] [debug] 200 OK (0.001331s, 751.315/s).
+[Tue May 14 15:12:15 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:12:15 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:12:15 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:12:15 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:12:15 2013] [debug] 200 OK (0.001577s, 634.115/s).
+[Tue May 14 15:12:34 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:12:34 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:12:34 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:12:34 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:12:34 2013] [debug] 200 OK (0.001572s, 636.132/s).
+[Tue May 14 15:13:01 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:13:01 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:13:01 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:13:01 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:13:01 2013] [debug] 200 OK (0.001384s, 722.543/s).
+[Tue May 14 15:14:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:14:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:14:04 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:14:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:14:04 2013] [debug] 200 OK (0.001393s, 717.875/s).
+[Tue May 14 15:14:06 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:14:06 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:14:06 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:14:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:14:06 2013] [debug] 200 OK (0.001540s, 649.351/s).
+[Tue May 14 15:14:12 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:14:12 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:14:12 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:14:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:14:12 2013] [debug] 200 OK (0.001615s, 619.195/s).
+[Tue May 14 15:14:13 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:14:13 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:14:13 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:14:13 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:14:13 2013] [debug] 200 OK (0.001330s, 751.880/s).
+[Tue May 14 15:19:35 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:19:35 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:19:35 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:19:35 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:19:35 2013] [debug] 200 OK (0.001346s, 742.942/s).
+[Tue May 14 15:19:43 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:19:43 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Tue May 14 15:19:43 2013] [debug] Rendering template "views/home.html.ep".
+[Tue May 14 15:19:43 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:19:43 2013] [debug] 200 OK (0.004303s, 232.396/s).
+[Tue May 14 15:19:44 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:19:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue May 14 15:19:44 2013] [debug] Template "not_found.html.ep" not found.
+[Tue May 14 15:19:44 2013] [debug] Rendering inline template.
+[Tue May 14 15:19:44 2013] [debug] Rendering inline template.
+[Tue May 14 15:19:44 2013] [debug] 404 Not Found (0.022767s, 43.923/s).
+[Tue May 14 15:19:47 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:19:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue May 14 15:19:47 2013] [debug] Template "not_found.html.ep" not found.
+[Tue May 14 15:19:47 2013] [debug] Rendering cached inline template.
+[Tue May 14 15:19:47 2013] [debug] Rendering cached inline template.
+[Tue May 14 15:19:47 2013] [debug] 404 Not Found (0.008524s, 117.316/s).
+[Tue May 14 15:19:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:19:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:19:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:19:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:19:51 2013] [debug] 200 OK (0.001372s, 728.863/s).
+[Tue May 14 15:20:29 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:20:29 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:20:29 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:20:29 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:20:29 2013] [debug] 200 OK (0.001721s, 581.058/s).
+[Tue May 14 15:22:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:22:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:22:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:22:57 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:22:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:22:57 2013] [debug] 200 OK (0.023567s, 42.432/s).
+[Tue May 14 15:22:59 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:22:59 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:22:59 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:22:59 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:22:59 2013] [debug] 200 OK (0.001411s, 708.717/s).
+[Tue May 14 15:23:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:23:23 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:23:23 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:23:23 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:23:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:23:23 2013] [debug] 200 OK (0.025149s, 39.763/s).
+[Tue May 14 15:23:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:23:33 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:23:33 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:23:33 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:23:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:23:33 2013] [debug] 200 OK (0.024828s, 40.277/s).
+[Tue May 14 15:23:35 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:23:35 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:23:35 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:23:35 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:23:35 2013] [debug] 200 OK (0.001627s, 614.628/s).
+[Tue May 14 15:23:46 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:23:46 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:23:46 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:23:46 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:23:46 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:23:46 2013] [debug] 200 OK (0.025173s, 39.725/s).
+[Tue May 14 15:23:54 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:23:54 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue May 14 15:23:54 2013] [debug] Template "not_found.html.ep" not found.
+[Tue May 14 15:23:54 2013] [debug] Rendering inline template.
+[Tue May 14 15:23:54 2013] [debug] Rendering inline template.
+[Tue May 14 15:23:54 2013] [debug] 404 Not Found (0.023044s, 43.395/s).
+[Tue May 14 15:30:46 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:30:46 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:30:46 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:30:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:30:46 2013] [debug] 200 OK (0.001687s, 592.768/s).
+[Tue May 14 15:30:47 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:30:47 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:30:47 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:30:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:30:47 2013] [debug] 200 OK (0.001509s, 662.691/s).
+[Tue May 14 15:32:06 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:32:06 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:32:06 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:32:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:32:06 2013] [debug] 200 OK (0.001218s, 821.018/s).
+[Tue May 14 15:32:07 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:32:07 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:32:07 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:32:07 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:32:07 2013] [debug] 200 OK (0.001377s, 726.216/s).
+[Tue May 14 15:33:55 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:33:55 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:33:55 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:33:55 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:33:55 2013] [debug] 200 OK (0.001289s, 775.795/s).
+[Tue May 14 15:35:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:35:11 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:35:11 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:35:11 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:35:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:35:11 2013] [debug] 200 OK (0.024862s, 40.222/s).
+[Tue May 14 15:35:47 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:35:47 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:35:47 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:35:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:35:47 2013] [debug] 200 OK (0.001588s, 629.723/s).
+[Tue May 14 15:38:21 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:38:21 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:38:21 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:38:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:38:21 2013] [debug] 200 OK (0.002107s, 474.608/s).
+[Tue May 14 15:38:22 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:38:22 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:38:22 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:38:22 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:38:22 2013] [debug] 200 OK (0.001561s, 640.615/s).
+[Tue May 14 15:38:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:38:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:38:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:38:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:38:58 2013] [debug] 200 OK (0.001451s, 689.180/s).
+[Tue May 14 15:39:39 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:39:39 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:39:39 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:39:39 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:39:39 2013] [debug] 200 OK (0.001587s, 630.120/s).
+[Tue May 14 15:41:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:41:53 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:41:53 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:41:53 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:41:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:41:53 2013] [debug] 200 OK (0.025148s, 39.765/s).
+[Tue May 14 15:42:21 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:42:21 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:42:21 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:42:21 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:42:21 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:42:21 2013] [debug] 200 OK (0.024688s, 40.506/s).
+[Tue May 14 15:44:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:44:11 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:44:11 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:44:11 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:44:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:44:11 2013] [debug] 200 OK (0.024847s, 40.246/s).
+[Tue May 14 15:44:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:44:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:44:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:44:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:44:58 2013] [debug] 200 OK (0.002020s, 495.050/s).
+[Tue May 14 15:45:15 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:45:15 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:45:15 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:45:15 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:45:15 2013] [debug] 200 OK (0.001449s, 690.131/s).
+[Tue May 14 15:45:16 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:45:16 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:45:16 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:45:16 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:45:16 2013] [debug] 200 OK (0.001394s, 717.360/s).
+[Tue May 14 15:45:17 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:45:17 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:45:17 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:45:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:45:17 2013] [debug] 200 OK (0.001658s, 603.136/s).
+[Tue May 14 15:45:50 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:45:50 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:45:50 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 15:45:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 15:45:50 2013] [debug] 200 OK (0.001753s, 570.451/s).
+[Tue May 14 15:49:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:49:23 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:49:23 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:49:23 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:49:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:49:23 2013] [debug] 200 OK (0.020220s, 49.456/s).
+[Tue May 14 15:49:34 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 15:49:34 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 15:49:34 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 15:49:34 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 15:49:34 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 15:49:34 2013] [debug] 200 OK (0.020031s, 49.923/s).
+[Tue May 14 16:00:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:00:07 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:00:07 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:00:07 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:00:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:00:07 2013] [debug] 200 OK (0.025309s, 39.512/s).
+[Tue May 14 16:00:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:00:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:00:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:00:28 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:00:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:00:28 2013] [debug] 200 OK (0.025786s, 38.781/s).
+[Tue May 14 16:00:49 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:00:49 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:00:49 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:00:49 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:00:49 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:00:49 2013] [debug] 200 OK (0.025413s, 39.350/s).
+[Tue May 14 16:07:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:07:50 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:07:50 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:07:50 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:07:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:07:50 2013] [debug] 200 OK (0.025822s, 38.727/s).
+[Tue May 14 16:08:06 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:08:06 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:08:06 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:08:06 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:08:06 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:08:06 2013] [debug] 200 OK (0.025109s, 39.826/s).
+[Tue May 14 16:08:41 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:08:41 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:08:41 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:08:41 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:08:41 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:08:41 2013] [debug] 200 OK (0.025377s, 39.406/s).
+[Tue May 14 16:09:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:09:48 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:09:48 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:09:48 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:09:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:09:48 2013] [debug] 200 OK (0.025087s, 39.861/s).
+[Tue May 14 16:10:12 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:10:12 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:10:12 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:10:12 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:10:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:10:12 2013] [debug] 200 OK (0.020054s, 49.865/s).
+[Tue May 14 16:10:13 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:10:13 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:10:13 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:10:13 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:10:13 2013] [debug] 200 OK (0.001477s, 677.048/s).
+[Tue May 14 16:10:13 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:10:13 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:10:13 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:10:13 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:10:13 2013] [debug] 200 OK (0.001245s, 803.213/s).
+[Tue May 14 16:10:14 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:10:14 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:10:14 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:10:14 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:10:14 2013] [debug] 200 OK (0.001609s, 621.504/s).
+[Tue May 14 16:10:15 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:10:15 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:10:15 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:10:15 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:10:15 2013] [debug] 200 OK (0.001334s, 749.625/s).
+[Tue May 14 16:10:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:10:26 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:10:26 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:10:26 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:10:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:10:26 2013] [debug] 200 OK (0.025377s, 39.406/s).
+[Tue May 14 16:10:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:10:38 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:10:38 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:10:38 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:10:38 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:10:38 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:10:38 2013] [debug] 200 OK (0.025166s, 39.736/s).
+[Tue May 14 16:10:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:10:53 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:10:53 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:10:53 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:10:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:10:53 2013] [debug] 200 OK (0.024942s, 40.093/s).
+[Tue May 14 16:11:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:11:07 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:11:07 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:11:07 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:11:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:11:07 2013] [debug] 200 OK (0.024975s, 40.040/s).
+[Tue May 14 16:11:20 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:11:20 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:11:20 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:11:20 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:11:20 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:11:20 2013] [debug] 200 OK (0.025575s, 39.101/s).
+[Tue May 14 16:11:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:11:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:11:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:11:28 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:11:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:11:28 2013] [debug] 200 OK (0.026421s, 37.849/s).
+[Tue May 14 16:11:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:11:39 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:11:39 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:11:39 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:11:39 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:11:39 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:11:39 2013] [debug] 200 OK (0.025601s, 39.061/s).
+[Tue May 14 16:11:39 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:11:39 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:11:39 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:11:39 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:11:39 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:11:39 2013] [debug] 200 OK (0.024975s, 40.040/s).
+[Tue May 14 16:11:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:11:55 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:11:55 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:11:55 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:11:55 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:11:55 2013] [debug] 200 OK (0.025813s, 38.740/s).
+[Tue May 14 16:12:14 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:12:14 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:12:14 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:12:14 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:12:14 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:12:14 2013] [debug] 200 OK (0.021460s, 46.598/s).
+[Tue May 14 16:12:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:12:15 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:12:15 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:12:15 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:12:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:12:15 2013] [debug] 200 OK (0.020575s, 48.603/s).
+[Tue May 14 16:13:59 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:13:59 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:13:59 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:13:59 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:13:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:13:59 2013] [debug] 200 OK (0.025588s, 39.081/s).
+[Tue May 14 16:14:07 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:14:07 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:14:07 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:14:07 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:14:07 2013] [debug] 200 OK (0.001615s, 619.195/s).
+[Tue May 14 16:14:08 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:14:08 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:14:08 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:14:08 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:14:08 2013] [debug] 200 OK (0.001675s, 597.015/s).
+[Tue May 14 16:14:08 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:14:08 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:14:08 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:14:08 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:14:08 2013] [debug] 200 OK (0.001650s, 606.061/s).
+[Tue May 14 16:14:09 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:14:09 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:14:09 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:14:09 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:14:09 2013] [debug] 200 OK (0.001723s, 580.383/s).
+[Tue May 14 16:14:10 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:14:10 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:14:10 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:14:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:14:10 2013] [debug] 200 OK (0.001530s, 653.595/s).
+[Tue May 14 16:14:16 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:14:16 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:14:16 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:14:16 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:14:16 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:14:16 2013] [debug] 200 OK (0.025409s, 39.356/s).
+[Tue May 14 16:14:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:14:26 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:14:26 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:14:26 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:14:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:14:26 2013] [debug] 200 OK (0.020585s, 48.579/s).
+[Tue May 14 16:21:37 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:21:37 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:21:37 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:21:37 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:21:37 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:21:37 2013] [debug] 200 OK (0.025672s, 38.953/s).
+[Tue May 14 16:22:26 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:22:26 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:22:26 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:22:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:22:26 2013] [debug] 200 OK (0.001712s, 584.112/s).
+[Tue May 14 16:23:12 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:23:12 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:23:12 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:23:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:23:12 2013] [debug] 200 OK (0.001271s, 786.782/s).
+[Tue May 14 16:23:13 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:23:13 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:23:13 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:23:13 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:23:13 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:23:13 2013] [debug] 200 OK (0.020802s, 48.072/s).
+[Tue May 14 16:23:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:23:36 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:23:36 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:23:36 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:23:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:23:36 2013] [debug] 200 OK (0.024798s, 40.326/s).
+[Tue May 14 16:23:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:23:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:23:57 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:23:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:23:57 2013] [debug] 200 OK (0.001250s, 800.000/s).
+[Tue May 14 16:27:49 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:27:49 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:27:49 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:27:49 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:27:49 2013] [debug] 200 OK (0.001500s, 666.667/s).
+[Tue May 14 16:27:56 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:27:56 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:27:56 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:27:56 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:27:56 2013] [debug] 200 OK (0.001488s, 672.043/s).
+[Tue May 14 16:27:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:27:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:27:57 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:27:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:27:57 2013] [debug] 200 OK (0.001647s, 607.165/s).
+[Tue May 14 16:27:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:27:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:27:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:27:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:27:58 2013] [debug] 200 OK (0.001409s, 709.723/s).
+[Tue May 14 16:27:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:27:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:27:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:27:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:27:58 2013] [debug] 200 OK (0.001599s, 625.391/s).
+[Tue May 14 16:27:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:27:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:27:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:27:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:27:58 2013] [debug] 200 OK (0.001408s, 710.227/s).
+[Tue May 14 16:27:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:27:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:27:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:27:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:27:58 2013] [debug] 200 OK (0.001739s, 575.043/s).
+[Tue May 14 16:27:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:27:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:27:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:27:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:27:58 2013] [debug] 200 OK (0.001847s, 541.419/s).
+[Tue May 14 16:28:11 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:28:11 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:28:11 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:28:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:28:11 2013] [debug] 200 OK (0.001425s, 701.754/s).
+[Tue May 14 16:28:27 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:28:27 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:28:27 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:28:27 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:28:27 2013] [debug] 200 OK (0.001299s, 769.823/s).
+[Tue May 14 16:28:34 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:28:34 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:28:34 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:28:34 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:28:34 2013] [debug] 200 OK (0.001885s, 530.504/s).
+[Tue May 14 16:29:29 2013] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:29:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue May 14 16:29:29 2013] [debug] Template "not_found.html.ep" not found.
+[Tue May 14 16:29:29 2013] [debug] Rendering inline template.
+[Tue May 14 16:29:29 2013] [debug] Rendering inline template.
+[Tue May 14 16:29:29 2013] [debug] 404 Not Found (0.023945s, 41.762/s).
+[Tue May 14 16:30:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:30:10 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:30:10 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:30:10 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:30:10 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:30:10 2013] [debug] 200 OK (0.025287s, 39.546/s).
+[Tue May 14 16:30:12 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:30:12 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:30:12 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:30:12 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:30:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:30:12 2013] [debug] 200 OK (0.025597s, 39.067/s).
+[Tue May 14 16:31:35 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:31:35 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:31:35 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:31:35 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:31:35 2013] [debug] 200 OK (0.001516s, 659.631/s).
+[Tue May 14 16:31:42 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:31:42 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:31:42 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:31:42 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:31:42 2013] [debug] 200 OK (0.001747s, 572.410/s).
+[Tue May 14 16:31:43 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:31:43 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:31:43 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:31:43 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:31:43 2013] [debug] 200 OK (0.001302s, 768.049/s).
+[Tue May 14 16:32:03 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:03 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:03 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:03 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:03 2013] [debug] 200 OK (0.001671s, 598.444/s).
+[Tue May 14 16:32:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:04 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:04 2013] [debug] 200 OK (0.001261s, 793.021/s).
+[Tue May 14 16:32:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:04 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:04 2013] [debug] 200 OK (0.001337s, 747.943/s).
+[Tue May 14 16:32:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:04 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:04 2013] [debug] 200 OK (0.001371s, 729.395/s).
+[Tue May 14 16:32:05 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:05 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:05 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:05 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:05 2013] [debug] 200 OK (0.001710s, 584.795/s).
+[Tue May 14 16:32:05 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:05 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:05 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:05 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:05 2013] [debug] 200 OK (0.001657s, 603.500/s).
+[Tue May 14 16:32:26 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:26 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:26 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:26 2013] [debug] 200 OK (0.001338s, 747.384/s).
+[Tue May 14 16:32:27 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:27 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:27 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:27 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:27 2013] [debug] 200 OK (0.001302s, 768.049/s).
+[Tue May 14 16:32:27 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:27 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:27 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:27 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:27 2013] [debug] 200 OK (0.001292s, 773.994/s).
+[Tue May 14 16:32:27 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:27 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:27 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:27 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:27 2013] [debug] 200 OK (0.001592s, 628.141/s).
+[Tue May 14 16:32:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:28 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:28 2013] [debug] 200 OK (0.001702s, 587.544/s).
+[Tue May 14 16:32:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:28 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:32:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:32:28 2013] [debug] 200 OK (0.001507s, 663.570/s).
+[Tue May 14 16:32:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:32:55 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:32:55 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:32:55 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:32:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:32:56 2013] [debug] 200 OK (0.025398s, 39.373/s).
+[Tue May 14 16:33:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:33:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:33:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:33:04 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:33:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:33:04 2013] [debug] 200 OK (0.024656s, 40.558/s).
+[Tue May 14 16:33:54 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:33:54 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:33:54 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:33:54 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:33:54 2013] [debug] 200 OK (0.002294s, 435.920/s).
+[Tue May 14 16:35:44 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:35:44 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:35:44 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:35:44 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:35:44 2013] [debug] 200 OK (0.001642s, 609.013/s).
+[Tue May 14 16:35:45 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:35:45 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:35:45 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:35:45 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:35:45 2013] [debug] 200 OK (0.001545s, 647.249/s).
+[Tue May 14 16:35:45 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:35:45 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:35:45 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:35:45 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:35:45 2013] [debug] 200 OK (0.001549s, 645.578/s).
+[Tue May 14 16:35:52 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:35:52 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:35:52 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:35:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:35:52 2013] [debug] 200 OK (0.001602s, 624.220/s).
+[Tue May 14 16:38:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 16:38:08 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:38:08 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:38:08 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 16:38:08 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 16:38:08 2013] [debug] 200 OK (0.025986s, 38.482/s).
+[Tue May 14 16:38:08 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:38:08 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:38:08 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:38:08 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:38:08 2013] [debug] 200 OK (0.001677s, 596.303/s).
+[Tue May 14 16:39:47 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:39:47 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:39:47 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:39:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:39:47 2013] [debug] 200 OK (0.001582s, 632.111/s).
+[Tue May 14 16:39:55 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 16:39:55 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 16:39:55 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 16:39:55 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 16:39:55 2013] [debug] 200 OK (0.001326s, 754.148/s).
+[Tue May 14 17:22:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:22:01 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:22:01 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:22:01 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:22:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:22:01 2013] [debug] 200 OK (0.025487s, 39.236/s).
+[Tue May 14 17:24:10 2013] [debug] GET /blank.gif (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:24:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue May 14 17:24:10 2013] [debug] Template "not_found.html.ep" not found.
+[Tue May 14 17:24:10 2013] [debug] Rendering inline template.
+[Tue May 14 17:24:10 2013] [debug] Rendering inline template.
+[Tue May 14 17:24:11 2013] [debug] 404 Not Found (0.024009s, 41.651/s).
+[Tue May 14 17:26:00 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:26:00 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:26:00 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:26:00 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:26:00 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:26:00 2013] [debug] 200 OK (0.025199s, 39.684/s).
+[Tue May 14 17:26:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:26:11 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:26:11 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:26:11 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:26:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:26:11 2013] [debug] 200 OK (0.025283s, 39.552/s).
+[Tue May 14 17:26:13 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:26:13 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:26:13 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:26:13 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:26:13 2013] [debug] 200 OK (0.001307s, 765.111/s).
+[Tue May 14 17:27:49 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:27:49 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:27:49 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:27:49 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:27:49 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:27:49 2013] [debug] 200 OK (0.025340s, 39.463/s).
+[Tue May 14 17:29:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:29:08 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:29:08 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:29:08 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:29:08 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:29:08 2013] [debug] 200 OK (0.025134s, 39.787/s).
+[Tue May 14 17:29:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:29:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:29:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:29:28 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:29:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:29:28 2013] [debug] 200 OK (0.024889s, 40.178/s).
+[Tue May 14 17:31:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:31:40 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:31:40 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:31:40 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:31:40 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:31:40 2013] [debug] 200 OK (0.025058s, 39.907/s).
+[Tue May 14 17:32:23 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:32:23 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:32:23 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:32:23 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:32:23 2013] [debug] 200 OK (0.001610s, 621.118/s).
+[Tue May 14 17:32:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:32:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:32:28 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:32:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:32:28 2013] [debug] 200 OK (0.001294s, 772.798/s).
+[Tue May 14 17:35:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:35:11 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:35:11 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:35:11 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:35:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:35:11 2013] [debug] 200 OK (0.025335s, 39.471/s).
+[Tue May 14 17:36:29 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:36:29 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:36:29 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:36:29 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:36:29 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:36:29 2013] [debug] 200 OK (0.025437s, 39.313/s).
+[Tue May 14 17:37:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:37:33 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:37:33 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:37:33 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:37:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:37:33 2013] [debug] 200 OK (0.025539s, 39.156/s).
+[Tue May 14 17:37:53 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:37:53 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:37:53 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:37:53 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:37:53 2013] [debug] 200 OK (0.001579s, 633.312/s).
+[Tue May 14 17:37:55 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:37:55 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:37:55 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:37:55 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:37:55 2013] [debug] 200 OK (0.001277s, 783.085/s).
+[Tue May 14 17:38:06 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:38:06 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:38:06 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:38:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:38:06 2013] [debug] 200 OK (0.001665s, 600.601/s).
+[Tue May 14 17:38:14 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:38:14 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:38:14 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:38:14 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:38:14 2013] [debug] 200 OK (0.001472s, 679.348/s).
+[Tue May 14 17:38:47 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:38:47 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:38:47 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:38:47 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:38:47 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:38:47 2013] [debug] 200 OK (0.025212s, 39.664/s).
+[Tue May 14 17:39:59 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:39:59 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:39:59 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:39:59 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:39:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:39:59 2013] [debug] 200 OK (0.025534s, 39.163/s).
+[Tue May 14 17:40:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:40:53 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:40:53 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:40:53 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:40:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:40:53 2013] [debug] 200 OK (0.025789s, 38.776/s).
+[Tue May 14 17:42:18 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:42:18 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:42:18 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:42:18 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:42:18 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:42:18 2013] [debug] 200 OK (0.025982s, 38.488/s).
+[Tue May 14 17:46:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:46:36 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:46:36 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:46:36 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:46:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:46:36 2013] [debug] 200 OK (0.026590s, 37.608/s).
+[Tue May 14 17:46:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:46:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:46:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:46:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:46:51 2013] [debug] 200 OK (0.001401s, 713.776/s).
+[Tue May 14 17:46:51 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:46:51 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:46:51 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:46:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:46:51 2013] [debug] 200 OK (0.001511s, 661.813/s).
+[Tue May 14 17:46:52 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:46:52 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:46:52 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:46:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:46:52 2013] [debug] 200 OK (0.001608s, 621.891/s).
+[Tue May 14 17:47:52 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:47:52 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:47:52 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:47:52 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:47:52 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:47:52 2013] [debug] 200 OK (0.027406s, 36.488/s).
+[Tue May 14 17:48:12 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:48:12 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:48:12 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:48:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:48:12 2013] [debug] 200 OK (0.001302s, 768.049/s).
+[Tue May 14 17:48:25 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:48:25 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:48:25 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:48:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:48:25 2013] [debug] 200 OK (0.001480s, 675.676/s).
+[Tue May 14 17:48:37 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:48:37 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:48:37 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:48:37 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:48:37 2013] [debug] 200 OK (0.001445s, 692.042/s).
+[Tue May 14 17:49:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:49:35 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:49:35 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:49:35 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:49:35 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:49:35 2013] [debug] 200 OK (0.026488s, 37.753/s).
+[Tue May 14 17:50:03 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:50:03 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:50:03 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:50:03 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:50:03 2013] [debug] 200 OK (0.001271s, 786.782/s).
+[Tue May 14 17:51:19 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:51:19 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:51:19 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:51:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:51:19 2013] [debug] 200 OK (0.001909s, 523.834/s).
+[Tue May 14 17:51:26 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:51:26 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:51:26 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:51:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:51:26 2013] [debug] 200 OK (0.001632s, 612.745/s).
+[Tue May 14 17:51:59 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:51:59 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:51:59 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:51:59 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:51:59 2013] [debug] 200 OK (0.001499s, 667.111/s).
+[Tue May 14 17:52:00 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:52:00 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:52:00 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:52:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:52:00 2013] [debug] 200 OK (0.001461s, 684.463/s).
+[Tue May 14 17:53:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:53:15 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:53:15 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:53:15 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:53:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:53:15 2013] [debug] 200 OK (0.027408s, 36.486/s).
+[Tue May 14 17:53:16 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:53:16 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:53:16 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:53:16 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:53:16 2013] [debug] 200 OK (0.002062s, 484.966/s).
+[Tue May 14 17:53:22 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:53:22 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:53:22 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:53:22 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:53:22 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:53:22 2013] [debug] 200 OK (0.027009s, 37.025/s).
+[Tue May 14 17:53:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:53:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:53:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:53:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:53:58 2013] [debug] 200 OK (0.001439s, 694.927/s).
+[Tue May 14 17:55:18 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:55:18 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:55:18 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:55:18 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:55:18 2013] [debug] 200 OK (0.001292s, 773.994/s).
+[Tue May 14 17:56:32 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:56:32 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:56:32 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:56:32 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:56:32 2013] [debug] 200 OK (0.001285s, 778.210/s).
+[Tue May 14 17:57:02 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:57:02 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:57:02 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:57:02 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:57:02 2013] [debug] 200 OK (0.001661s, 602.047/s).
+[Tue May 14 17:57:07 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:57:07 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:57:07 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:57:07 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:57:07 2013] [debug] 200 OK (0.002484s, 402.576/s).
+[Tue May 14 17:57:17 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:57:17 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:57:17 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:57:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:57:17 2013] [debug] 200 OK (0.001365s, 732.601/s).
+[Tue May 14 17:59:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 17:59:26 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:59:26 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:59:26 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 17:59:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 17:59:26 2013] [debug] 200 OK (0.027705s, 36.095/s).
+[Tue May 14 17:59:27 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:59:27 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:59:27 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:59:27 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:59:27 2013] [debug] 200 OK (0.001477s, 677.048/s).
+[Tue May 14 17:59:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:59:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:59:28 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:59:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:59:28 2013] [debug] 200 OK (0.001559s, 641.437/s).
+[Tue May 14 17:59:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:59:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:59:28 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:59:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:59:28 2013] [debug] 200 OK (0.001729s, 578.369/s).
+[Tue May 14 17:59:48 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:59:48 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:59:48 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:59:48 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:59:48 2013] [debug] 200 OK (0.001529s, 654.022/s).
+[Tue May 14 17:59:49 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:59:49 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:59:49 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:59:49 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:59:49 2013] [debug] 200 OK (0.001542s, 648.508/s).
+[Tue May 14 17:59:59 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 17:59:59 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 17:59:59 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 17:59:59 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 17:59:59 2013] [debug] 200 OK (0.001416s, 706.215/s).
+[Tue May 14 18:00:00 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:00:00 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:00:00 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:00:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:00:00 2013] [debug] 200 OK (0.001834s, 545.256/s).
+[Tue May 14 18:00:00 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:00:00 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:00:00 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:00:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:00:00 2013] [debug] 200 OK (0.001646s, 607.533/s).
+[Tue May 14 18:01:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 18:01:11 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:01:11 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:01:11 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 18:01:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 18:01:11 2013] [debug] 200 OK (0.026740s, 37.397/s).
+[Tue May 14 18:01:12 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:01:12 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:01:12 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:01:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:01:12 2013] [debug] 200 OK (0.001616s, 618.812/s).
+[Tue May 14 18:01:13 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:01:13 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:01:13 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:01:13 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:01:13 2013] [debug] 200 OK (0.001383s, 723.066/s).
+[Tue May 14 18:01:13 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:01:13 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:01:13 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:01:13 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:01:13 2013] [debug] 200 OK (0.001599s, 625.391/s).
+[Tue May 14 18:01:30 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:01:30 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:01:30 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:01:30 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:01:30 2013] [debug] 200 OK (0.001661s, 602.047/s).
+[Tue May 14 18:01:31 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:01:31 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:01:31 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:01:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:01:31 2013] [debug] 200 OK (0.001211s, 825.764/s).
+[Tue May 14 18:02:26 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:02:26 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:02:26 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:02:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:02:26 2013] [debug] 200 OK (0.001488s, 672.043/s).
+[Tue May 14 18:04:31 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:04:31 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:04:31 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:04:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:04:31 2013] [debug] 200 OK (0.001595s, 626.959/s).
+[Tue May 14 18:04:36 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:04:36 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:04:36 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:04:36 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:04:36 2013] [debug] 200 OK (0.001562s, 640.205/s).
+[Tue May 14 18:05:03 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue May 14 18:05:03 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:05:03 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:05:03 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Tue May 14 18:05:03 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue May 14 18:05:03 2013] [debug] 200 OK (0.026381s, 37.906/s).
+[Tue May 14 18:05:03 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:05:03 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:05:03 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:05:03 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:05:03 2013] [debug] 200 OK (0.001624s, 615.764/s).
+[Tue May 14 18:05:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:05:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:05:04 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:05:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:05:04 2013] [debug] 200 OK (0.001668s, 599.520/s).
+[Tue May 14 18:05:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:05:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:05:04 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:05:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:05:04 2013] [debug] 200 OK (0.001512s, 661.376/s).
+[Tue May 14 18:05:04 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:05:04 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:05:04 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:05:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:05:04 2013] [debug] 200 OK (0.001900s, 526.316/s).
+[Tue May 14 18:05:27 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:05:27 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:05:27 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:05:27 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:05:27 2013] [debug] 200 OK (0.001319s, 758.150/s).
+[Tue May 14 18:05:31 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:05:31 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:05:31 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:05:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:05:31 2013] [debug] 200 OK (0.001792s, 558.036/s).
+[Tue May 14 18:07:13 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:07:13 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:07:13 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:07:13 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:07:13 2013] [debug] 200 OK (0.001643s, 608.643/s).
+[Tue May 14 18:09:23 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:09:23 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Tue May 14 18:09:23 2013] [debug] Rendering template "views/home.html.ep".
+[Tue May 14 18:09:23 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:09:23 2013] [debug] 200 OK (0.005082s, 196.773/s).
+[Tue May 14 18:09:28 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:09:28 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:09:28 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:09:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:09:28 2013] [debug] 200 OK (0.001368s, 730.994/s).
+[Tue May 14 18:09:29 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:09:29 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Tue May 14 18:09:29 2013] [debug] Rendering cached template views/home.html.ep.
+[Tue May 14 18:09:29 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:09:29 2013] [debug] 200 OK (0.001372s, 728.863/s).
+[Tue May 14 18:09:36 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue May 14 18:09:36 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Tue May 14 18:09:36 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Tue May 14 18:09:36 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue May 14 18:09:36 2013] [debug] 200 OK (0.001215s, 823.045/s).

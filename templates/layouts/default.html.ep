@@ -5,13 +5,10 @@
         <link href="/assets/css/bootstrap.css" rel="stylesheet">
         <link href="/css/style.css" rel="stylesheet" type="text/css">
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-        <script src="/assets/js/bootstrap.js"></script>
-        <script src="/assets/js/bootstrap.min.js"></script>
         <meta charset="utf-8">
     </head>
     <body>
-
-      <div class="navbar navbar-fixed-top" itemscope="" itemtype="http://schema.org/WPHeader" style=" margin-left:auto;margin-right:auto;">
+      <div class="navbar navbar-fixed-top" itemscope="" itemtype="http://schema.org/WPHeader" >
         <div class="navbar-inner">
           <div class="container">
           <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -21,19 +18,29 @@
           </a>
           <a class="brand" itemscope="" itemtype="http://schema.org/FoodEstablishment" href="http://www.eatfab.com">Renewable Energy</a>
           <div class="nav-collapse">
-            <ul class="nav" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+            <ul class="nav nav-pills" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
               <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/home"><span itemprop="name">Home</span></a></li>
-              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/login"><span itemprop="name">Login</span></a></li>
-              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/signup"><span itemprop="name">Sign Up</span></a></li>
+              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/activity"><span itemprop="name">Activity</span></a></li>
+              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/photo"><span itemprop="name">Photo Gallery</span></a></li>
+              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/contact"><span itemprop="name">Contact</span></a></li>
+              <li class="separate-login" itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url">
+                    <a itemprop="url" href="/login"><span itemprop="name">Login</span></a>
+                    <a itemprop="url" href="/signup"><span itemprop="name">Sign Up</span></a>
+              </li>
             </ul>
           </div>
           </div>
       </div>
       </div>
+        <div>
+        <img src="/assets/img/background.png" style="margin-top:0px;padding-bottom:0px; border-top:0px; width:2000px; height:120px;">
+        </div>
+
           <div class="container"><!--/.nav-collapse -->
               <%= content %>
           </div>
 
-
+    <script src="/assets/js/bootstrap.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
     </body>
 </html>

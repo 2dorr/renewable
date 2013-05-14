@@ -1,25 +1,66 @@
 % layout 'default';
-% title 'Welcome';
+% title 'Sign Up';
 
-<h2>Sign-up</h2>
-</br>
-<form id="add_user_form" name="add_user_form" action="#" method="post">
-    <div class="sign_up">
+<div class="center">
+<form class="form-horizontal" id="add_user_form" name="add_user_form" action="#" method="post">
+    <div class="sign-up-login">
         <input type="hidden" name="ok_insert" value="1">
-        <label for="first_name">First Name: </label><input type="text" id="first_name" name="first_name">
-        <label for="last_name">Last Name: </label><input type="text" id="last_name" name="last_name">
-        <label for="email">Email: </label><input type="text" id="email" name="email">
-        <label for="group">Group: </label><input type="text" id="group" name="group">
-        <label for="year">Year: </label><input type="text" id="year" name="year">
-        <div id="pass"><label for="passwd">Password: </label><input type="password" id="passwd" name="passwd"></div>
-        <label for="conpasswd">Confirm Password: </label><input type="password" id="conpasswd" name="conpasswd">
-        <div id="check_pass"></div>
-        <div>
-            <input type="button" id="add_user" value="Create Account">
+        <div class="control-group">
+            <label class="control-label" for="first_name">First Name: </label>
+            <div class="controls">
+                <input type="text" id="first_name" name="first_name">
+            </div>
         </div>
+        
+        <div class="control-group">
+            <label class="control-label" for="last_name">Last Name: </label>
+            <div class="controls">
+                <input type="text" id="last_name" name="last_name">
+            </div>
+        </div>
+        
+        <div class="control-group">
+            <label class="control-label" for="email">Email: </label>
+            <div class="controls">
+                <input type="text" id="email" name="email">
+            </div>
+        </div>
+        
+        <div class="control-group">
+            <label class="control-label" for="group">Group: </label>
+            <div class="controls">
+                <input type="text" id="group" name="group">
+            </div>
+        </div>
+        
+        <div class="control-group">
+            <label class="control-label" for="year">Year: </label>
+            <div class="controls">
+                <input type="text" id="year" name="year">
+            </div>
+        </div>
+        
+        <div class="control-group">
+            <div id="pass"><label class="control-label" for="passwd">Password: </label>
+            <div class="controls">
+                <input type="password" id="passwd" name="passwd"></div>
+            </div>
+        </div>
+        
+        <div class="control-group">
+            <label class="control-label" for="conpasswd">Confirm Password: </label>
+            <div class="controls">
+                <div id="check_pass"></div><input type="password" id="conpasswd" name="conpasswd">
+            </div>
+        </div>
+            
+            <div>
+                <input type="button" class="btn btn-primary" id="add_user" value="Create Account">
+            </div>
+        
     </div>
 </form>
-
+</div>
 <script type="text/javascript">
     $('#add_user').click(function() {
         $("#add_user_form").submit();

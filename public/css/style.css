@@ -1,5 +1,25 @@
-.sign_up {
+.separate-login {
+    padding-left:100px;
+}
+
+.sign-up-login{
+    background: #fff;
+    /*padding: 20px;*/
+    /*display: table;*/
+    -webkit-box-shadow: 0 2px 5px #a1a1a1;
+    -moz-box-shadow: 0 2px 5px #a1a1a1;
+    box-shadow: 0 2px 5px #a1a1a1;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin: 50px 0 18px;
+    padding: 15px;
     display:inline-block;
-    text-align:left;
-    margin-left:10px;
+    text-align:center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
