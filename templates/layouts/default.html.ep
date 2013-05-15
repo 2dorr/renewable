@@ -4,7 +4,6 @@
         <title><%= title %></title>
         <link href="/assets/css/bootstrap.css" rel="stylesheet">
         <link href="/css/style.css" rel="stylesheet" type="text/css">
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
         <meta charset="utf-8">
     </head>
     <body>
@@ -33,14 +32,16 @@
       </div>
       </div>
         <div>
-        <img src="/assets/img/background.png" style="margin-top:0px;padding-bottom:0px; border-top:0px; width:2000px; height:120px;">
+            <img src="/assets/img/background.png" style="margin-top:0px;padding-bottom:0px; border-top:0px; width:100%; height:120px;">
         </div>
 
-          <div class="container"><!--/.nav-collapse -->
-              <%= content %>
-          </div>
-
-    <script src="/assets/js/bootstrap.js"></script>
-    <script src="/assets/js/bootstrap.min.js"></script>
+        <div class="container"><!--/.nav-collapse -->
+            <%= content %>
+        </div>
+        
+        <div id="footer" class="footer"> 
+        </div>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
     </body>
 </html>
