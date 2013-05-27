@@ -16,6 +16,7 @@ sub startup {
   $r->namespaces(['Renewable::Controllers']);
   $r->route('/home')->to( 'home#welcome' );
   $r->route('/signup')->to( 'signup#add' );
+  $r->route('/activity')->to( 'activity#index' );
 }
 
 1;
