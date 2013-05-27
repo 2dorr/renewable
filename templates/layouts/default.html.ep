@@ -39,8 +39,32 @@
             <%= content %>
         </div>
         
-        <div id="footer" class="footer"> 
-        </div>
+		<div class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="span3">
+						<h5>Main Menu</h5>
+						<ul>
+							<li><a href="/home">Home</li>
+							<li><a href="/activity">Activity</a></li>
+							<li><a href="/photo">Photo Gallery</a></li>
+							<li><a href="/contact">Contact</a></li>
+						</ul>
+					</div>
+					<div class="span4">
+						<h5>Connect with us</h5>
+						<ul>
+							<li>
+								<a href="www.facebook.com">
+									<img src="/assets/img/logo_facebook.png" alt="Facebook Logo" title="Connect with us on facebook"/>
+									<b>Connect with us on</b> facebook
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
         <script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
     </body>

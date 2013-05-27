@@ -3508,3 +3508,482 @@
 [Wed May 15 18:36:31 2013] [debug] Rendering cached template views/home.html.ep.
 [Wed May 15 18:36:31 2013] [debug] Rendering cached template layouts/default.html.ep.
 [Wed May 15 18:36:31 2013] [debug] 200 OK (0.001711s, 584.454/s).
+[Fri May 17 20:02:57 2013] [info] Listening at "http://*:3000".
+[Fri May 17 20:03:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri May 17 20:03:07 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Fri May 17 20:03:07 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Fri May 17 20:03:07 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Fri May 17 20:03:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri May 17 20:03:07 2013] [debug] 200 OK (0.466027s, 2.146/s).
+[Fri May 17 20:03:21 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Fri May 17 20:03:21 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Fri May 17 20:03:21 2013] [debug] Rendering template "views/home.html.ep".
+[Fri May 17 20:03:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Fri May 17 20:03:21 2013] [debug] 200 OK (0.050651s, 19.743/s).
+[Fri May 17 20:03:30 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Fri May 17 20:03:30 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Fri May 17 20:03:30 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Fri May 17 20:03:30 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Fri May 17 20:03:30 2013] [debug] 200 OK (0.003383s, 295.596/s).
+[Fri May 17 20:05:52 2013] [info] Listening at "http://*:3000".
+[Fri May 17 20:05:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri May 17 20:05:56 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Fri May 17 20:05:56 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Fri May 17 20:05:56 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Fri May 17 20:05:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri May 17 20:05:56 2013] [debug] 200 OK (0.027320s, 36.603/s).
+[Fri May 17 20:05:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Fri May 17 20:05:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Fri May 17 20:05:57 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Fri May 17 20:05:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Fri May 17 20:05:57 2013] [debug] 200 OK (0.003530s, 283.286/s).
+[Fri May 17 20:05:57 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Fri May 17 20:05:57 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Fri May 17 20:05:57 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Fri May 17 20:05:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Fri May 17 20:05:57 2013] [debug] 200 OK (0.001747s, 572.410/s).
+[Fri May 17 20:05:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Fri May 17 20:05:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Fri May 17 20:05:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Fri May 17 20:05:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Fri May 17 20:05:58 2013] [debug] 200 OK (0.002024s, 494.071/s).
+[Fri May 17 20:05:58 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Fri May 17 20:05:58 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Fri May 17 20:05:58 2013] [debug] Rendering cached template views/signup/signup.html.ep.
+[Fri May 17 20:05:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Fri May 17 20:05:58 2013] [debug] 200 OK (0.001709s, 585.138/s).
+[Fri May 17 20:06:06 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Fri May 17 20:06:06 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Fri May 17 20:06:06 2013] [debug] Rendering template "views/home.html.ep".
+[Fri May 17 20:06:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Fri May 17 20:06:06 2013] [debug] 200 OK (0.006746s, 148.236/s).
+[Mon May 27 11:37:01 2013] [info] Listening at "http://*:3000".
+[Mon May 27 11:37:16 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon May 27 11:37:16 2013] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:16 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:16 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:16 2013] [debug] Rendering inline template.
+[Mon May 27 11:37:16 2013] [debug] Rendering inline template.
+[Mon May 27 11:37:16 2013] [debug] 404 Not Found (0.029346s, 34.076/s).
+[Mon May 27 11:37:20 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:20 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon May 27 11:37:20 2013] [debug] Rendering template "views/home.html.ep".
+[Mon May 27 11:37:20 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon May 27 11:37:20 2013] [debug] 200 OK (0.070644s, 14.155/s).
+[Mon May 27 11:37:21 2013] [debug] GET /assets/img/solar_panels.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] 404 Not Found (0.008416s, 118.821/s).
+[Mon May 27 11:37:21 2013] [debug] GET /assets/img/new_partners.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] 404 Not Found (0.009572s, 104.471/s).
+[Mon May 27 11:37:21 2013] [debug] GET /assets/img/renewable-energy_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] 404 Not Found (0.010717s, 93.310/s).
+[Mon May 27 11:37:21 2013] [debug] GET /assets/img/who_are_we.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] 404 Not Found (0.009771s, 102.344/s).
+[Mon May 27 11:37:21 2013] [debug] GET /assets/img/atmel_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] 404 Not Found (0.009753s, 102.533/s).
+[Mon May 27 11:37:21 2013] [debug] GET /assets/img/avr_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] 404 Not Found (0.009990s, 100.100/s).
+[Mon May 27 11:37:21 2013] [debug] GET /assets/img/microchip_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] 404 Not Found (0.009955s, 100.452/s).
+[Mon May 27 11:37:21 2013] [debug] GET /assets/img/logo_facebook.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:21 2013] [debug] 404 Not Found (0.008158s, 122.579/s).
+[Mon May 27 11:37:22 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:22 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon May 27 11:37:22 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon May 27 11:37:22 2013] [debug] 200 OK (0.002820s, 354.610/s).
+[Mon May 27 11:37:22 2013] [debug] GET /assets/img/renewable-energy_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] 404 Not Found (0.010837s, 92.276/s).
+[Mon May 27 11:37:22 2013] [debug] GET /assets/img/new_partners.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] 404 Not Found (0.012750s, 78.431/s).
+[Mon May 27 11:37:22 2013] [debug] GET /assets/img/who_are_we.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] 404 Not Found (0.008897s, 112.397/s).
+[Mon May 27 11:37:22 2013] [debug] GET /assets/img/atmel_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] 404 Not Found (0.008787s, 113.804/s).
+[Mon May 27 11:37:22 2013] [debug] GET /assets/img/avr_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] 404 Not Found (0.009702s, 103.072/s).
+[Mon May 27 11:37:22 2013] [debug] GET /assets/img/solar_panels.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] 404 Not Found (0.008720s, 114.679/s).
+[Mon May 27 11:37:22 2013] [debug] GET /assets/img/microchip_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] 404 Not Found (0.008796s, 113.688/s).
+[Mon May 27 11:37:22 2013] [debug] GET /assets/img/logo_facebook.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:22 2013] [debug] 404 Not Found (0.008931s, 111.970/s).
+[Mon May 27 11:37:23 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:23 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon May 27 11:37:23 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon May 27 11:37:23 2013] [debug] 200 OK (0.002080s, 480.769/s).
+[Mon May 27 11:37:23 2013] [debug] GET /assets/img/solar_panels.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] 404 Not Found (0.009460s, 105.708/s).
+[Mon May 27 11:37:23 2013] [debug] GET /assets/img/renewable-energy_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] 404 Not Found (0.009178s, 108.956/s).
+[Mon May 27 11:37:23 2013] [debug] GET /assets/img/who_are_we.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] 404 Not Found (0.013412s, 74.560/s).
+[Mon May 27 11:37:23 2013] [debug] GET /assets/img/atmel_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] 404 Not Found (0.009285s, 107.701/s).
+[Mon May 27 11:37:23 2013] [debug] GET /assets/img/avr_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] 404 Not Found (0.007983s, 125.266/s).
+[Mon May 27 11:37:23 2013] [debug] GET /assets/img/logo_facebook.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] 404 Not Found (0.007762s, 128.833/s).
+[Mon May 27 11:37:23 2013] [debug] GET /assets/img/microchip_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] 404 Not Found (0.007836s, 127.616/s).
+[Mon May 27 11:37:23 2013] [debug] GET /assets/img/new_partners.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:23 2013] [debug] 404 Not Found (0.008078s, 123.793/s).
+[Mon May 27 11:37:24 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:24 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon May 27 11:37:24 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon May 27 11:37:24 2013] [debug] 200 OK (0.002720s, 367.647/s).
+[Mon May 27 11:37:24 2013] [debug] GET /assets/img/solar_panels.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] 404 Not Found (0.011656s, 85.793/s).
+[Mon May 27 11:37:24 2013] [debug] GET /assets/img/renewable-energy_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] 404 Not Found (0.007855s, 127.307/s).
+[Mon May 27 11:37:24 2013] [debug] GET /assets/img/who_are_we.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] 404 Not Found (0.013458s, 74.305/s).
+[Mon May 27 11:37:24 2013] [debug] GET /assets/img/new_partners.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] 404 Not Found (0.008261s, 121.051/s).
+[Mon May 27 11:37:24 2013] [debug] GET /assets/img/atmel_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] 404 Not Found (0.009700s, 103.093/s).
+[Mon May 27 11:37:24 2013] [debug] GET /assets/img/microchip_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] 404 Not Found (0.010369s, 96.441/s).
+[Mon May 27 11:37:24 2013] [debug] GET /assets/img/avr_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] 404 Not Found (0.009254s, 108.061/s).
+[Mon May 27 11:37:24 2013] [debug] GET /assets/img/logo_facebook.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:24 2013] [debug] 404 Not Found (0.008875s, 112.676/s).
+[Mon May 27 11:37:25 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon May 27 11:37:25 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon May 27 11:37:25 2013] [debug] 200 OK (0.002698s, 370.645/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/renewable-energy_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.009052s, 110.473/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/solar_panels.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.008297s, 120.525/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/who_are_we.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.009237s, 108.260/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/new_partners.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.008700s, 114.943/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/atmel_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.009293s, 107.608/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/avr_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.008818s, 113.404/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/microchip_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.009987s, 100.130/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/logo_facebook.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.009174s, 109.004/s).
+[Mon May 27 11:37:25 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon May 27 11:37:25 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon May 27 11:37:25 2013] [debug] 200 OK (0.002447s, 408.664/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/renewable-energy_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.015832s, 63.163/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/solar_panels.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.008908s, 112.259/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/who_are_we.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.009181s, 108.921/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/new_partners.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.009068s, 110.278/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/atmel_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.008628s, 115.902/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/microchip_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.008774s, 113.973/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/avr_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.009238s, 108.249/s).
+[Mon May 27 11:37:25 2013] [debug] GET /assets/img/logo_facebook.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:25 2013] [debug] 404 Not Found (0.009436s, 105.977/s).
+[Mon May 27 11:37:25 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:25 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon May 27 11:37:25 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon May 27 11:37:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon May 27 11:37:25 2013] [debug] 200 OK (0.001874s, 533.618/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/who_are_we.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.014389s, 69.498/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/solar_panels.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.010322s, 96.880/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/renewable-energy_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.008052s, 124.193/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/new_partners.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.008614s, 116.090/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/microchip_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.009268s, 107.898/s).
+[Mon May 27 11:37:26 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon May 27 11:37:26 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon May 27 11:37:26 2013] [debug] 200 OK (0.001625s, 615.385/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/who_are_we.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.010924s, 91.542/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/renewable-energy_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.007961s, 125.612/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/solar_panels.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.008663s, 115.433/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/new_partners.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.009437s, 105.966/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/atmel_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.009460s, 105.708/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/avr_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.008907s, 112.271/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/microchip_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.009998s, 100.020/s).
+[Mon May 27 11:37:26 2013] [debug] GET /assets/img/logo_facebook.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:37:26 2013] [debug] 404 Not Found (0.009668s, 103.434/s).
+[Mon May 27 11:40:32 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:40:32 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon May 27 11:40:32 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon May 27 11:40:32 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon May 27 11:40:32 2013] [debug] 200 OK (0.002061s, 485.201/s).
+[Mon May 27 11:41:03 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:41:03 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Mon May 27 11:41:03 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Mon May 27 11:41:03 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon May 27 11:41:03 2013] [debug] 200 OK (0.038284s, 26.121/s).
+[Mon May 27 11:41:04 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon May 27 11:41:04 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon May 27 11:41:04 2013] [debug] Template "not_found.html.ep" not found.
+[Mon May 27 11:41:04 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:41:04 2013] [debug] Rendering cached inline template.
+[Mon May 27 11:41:04 2013] [debug] 404 Not Found (0.009893s, 101.082/s).

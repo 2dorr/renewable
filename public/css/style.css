@@ -23,8 +23,20 @@
 }
 
 .home-text {
-    width: 300px;
+    width: 250px;
     float: left;
     font: 15px/130% 'Proxima', Arial, sans-serif;
-    margin-right: 30px;
+    margin-right: 5px;
 }
+.footer {
+	background: repeat-x 0 0 #575757;
+	text-shadow: 0 -1px 0 #232323;
+	-webkit-box-shadow: inset 0px 10px 20px #232323;
+	box-shadow: inset 0px 10px 20px #232323;
+	margin-top: 90px;
+}
+.footer ul {
+	list-style:none;
+}
+
+
