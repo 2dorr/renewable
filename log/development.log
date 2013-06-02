@@ -6192,3 +6192,829 @@
 [Mon May 27 18:52:31 2013] [debug] Rendering cached template views/activity.html.ep.
 [Mon May 27 18:52:31 2013] [debug] Rendering cached template layouts/default.html.ep.
 [Mon May 27 18:52:31 2013] [debug] 200 OK (0.002397s, 417.188/s).
+[Sun Jun  2 23:11:03 2013] [info] Listening at "http://*:3000".
+[Sun Jun  2 23:11:32 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  2 23:11:32 2013] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  2 23:11:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jun  2 23:11:32 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jun  2 23:11:32 2013] [debug] Rendering inline template.
+[Sun Jun  2 23:11:32 2013] [debug] Rendering inline template.
+[Sun Jun  2 23:11:32 2013] [debug] 404 Not Found (0.028427s, 35.178/s).
+[Sun Jun  2 23:11:36 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  2 23:11:36 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  2 23:11:36 2013] [debug] Rendering template "views/home.html.ep".
+[Sun Jun  2 23:11:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  2 23:11:36 2013] [debug] 200 OK (0.389744s, 2.566/s).
+[Sun Jun  2 23:11:41 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  2 23:11:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jun  2 23:11:41 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jun  2 23:11:41 2013] [debug] Rendering cached inline template.
+[Sun Jun  2 23:11:41 2013] [debug] Rendering cached inline template.
+[Sun Jun  2 23:11:41 2013] [debug] 404 Not Found (0.010336s, 96.749/s).
+[Sun Jun  2 23:11:44 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  2 23:11:44 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  2 23:11:44 2013] [debug] Rendering template "views/activity.html.ep".
+[Sun Jun  2 23:11:44 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  2 23:11:44 2013] [debug] 200 OK (0.031444s, 31.803/s).
+[Sun Jun  2 23:17:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  2 23:17:44 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  2 23:17:44 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  2 23:17:44 2013] [debug] Rendering template "views/home.html.ep".
+[Sun Jun  2 23:17:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  2 23:17:44 2013] [debug] 200 OK (0.030771s, 32.498/s).
+[Sun Jun  2 23:19:14 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  2 23:19:14 2013] [debug] Template "not_found.development.html.ep" not found.
+[Sun Jun  2 23:19:14 2013] [debug] Template "not_found.html.ep" not found.
+[Sun Jun  2 23:19:14 2013] [debug] Rendering inline template.
+[Sun Jun  2 23:19:14 2013] [debug] Rendering inline template.
+[Sun Jun  2 23:19:14 2013] [debug] 404 Not Found (0.022312s, 44.819/s).
+[Sun Jun  2 23:19:19 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  2 23:19:19 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  2 23:19:19 2013] [debug] Rendering template "views/activity.html.ep".
+[Sun Jun  2 23:19:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  2 23:19:19 2013] [debug] 200 OK (0.028177s, 35.490/s).
+[Sun Jun  2 23:19:20 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  2 23:19:20 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  2 23:19:20 2013] [debug] Rendering cached template views/home.html.ep.
+[Sun Jun  2 23:19:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  2 23:19:20 2013] [debug] 200 OK (0.005365s, 186.393/s).
+[Sun Jun  2 23:19:21 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  2 23:19:21 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  2 23:19:21 2013] [debug] Rendering cached template views/activity.html.ep.
+[Sun Jun  2 23:19:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  2 23:19:21 2013] [debug] 200 OK (0.002525s, 396.040/s).
+[Sun Jun  2 23:45:47 2013] [info] Listening at "http://*:3000".
+[Sun Jun  2 23:47:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  2 23:47:50 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  2 23:47:50 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  2 23:47:50 2013] [debug] Rendering template "views/home.html.ep".
+[Sun Jun  2 23:47:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  2 23:47:50 2013] [debug] 200 OK (0.545827s, 1.832/s).
+[Sun Jun  2 23:50:44 2013] [info] Listening at "http://*:3000".
+[Sun Jun  2 23:53:12 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  2 23:53:12 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  2 23:53:12 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  2 23:53:12 2013] [debug] Rendering template "views/home.html.ep".
+[Sun Jun  2 23:53:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  2 23:53:12 2013] [debug] 200 OK (0.030040s, 33.289/s).
+[Mon Jun  3 00:01:16 2013] [info] Listening at "http://*:3000".
+[Mon Jun  3 00:01:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:01:27 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:01:27 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:01:27 2013] [debug] Rendering template "views/home.html.ep".
+[Mon Jun  3 00:01:27 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:01:27 2013] [debug] 200 OK (0.027790s, 35.984/s).
+[Mon Jun  3 00:01:27 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:01:27 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:01:27 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon Jun  3 00:01:27 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:01:27 2013] [debug] 200 OK (0.003828s, 261.233/s).
+[Mon Jun  3 00:01:28 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:01:28 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:01:28 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon Jun  3 00:01:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:01:28 2013] [debug] 200 OK (0.001628s, 614.251/s).
+[Mon Jun  3 00:01:31 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:01:31 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:01:31 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:01:31 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:01:31 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:01:31 2013] [debug] Rendering inline template.
+[Mon Jun  3 00:01:31 2013] [debug] Rendering inline template.
+[Mon Jun  3 00:01:31 2013] [debug] 404 Not Found (0.030340s, 32.960/s).
+[Mon Jun  3 00:02:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:02:35 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:35 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:35 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:35 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:35 2013] [debug] Rendering inline template.
+[Mon Jun  3 00:02:35 2013] [debug] Rendering inline template.
+[Mon Jun  3 00:02:35 2013] [debug] 404 Not Found (0.026599s, 37.595/s).
+[Mon Jun  3 00:02:36 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:36 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:36 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:36 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:36 2013] [debug] 404 Not Found (0.014116s, 70.842/s).
+[Mon Jun  3 00:02:36 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:36 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:36 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:36 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:36 2013] [debug] 404 Not Found (0.015840s, 63.131/s).
+[Mon Jun  3 00:02:36 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:36 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:36 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:36 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:36 2013] [debug] 404 Not Found (0.015845s, 63.111/s).
+[Mon Jun  3 00:02:36 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:36 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:36 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:36 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:36 2013] [debug] 404 Not Found (0.015466s, 64.658/s).
+[Mon Jun  3 00:02:36 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:36 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:36 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:36 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:36 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:36 2013] [debug] 404 Not Found (0.010034s, 99.661/s).
+[Mon Jun  3 00:02:37 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:37 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:37 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:37 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:37 2013] [debug] 404 Not Found (0.015718s, 63.621/s).
+[Mon Jun  3 00:02:37 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:37 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:37 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:37 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:37 2013] [debug] 404 Not Found (0.013932s, 71.777/s).
+[Mon Jun  3 00:02:37 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:37 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:37 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:37 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:37 2013] [debug] 404 Not Found (0.014302s, 69.920/s).
+[Mon Jun  3 00:02:37 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:37 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:37 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:37 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:37 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:37 2013] [debug] 404 Not Found (0.016294s, 61.372/s).
+[Mon Jun  3 00:02:38 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:38 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:38 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:38 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:38 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:38 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:38 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:38 2013] [debug] 404 Not Found (0.010578s, 94.536/s).
+[Mon Jun  3 00:02:38 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:02:38 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:02:38 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:02:38 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:02:38 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:02:38 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:38 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:02:38 2013] [debug] 404 Not Found (0.016538s, 60.467/s).
+[Mon Jun  3 00:03:50 2013] [info] Listening at "http://*:3000".
+[Mon Jun  3 00:04:22 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:04:22 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:22 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:22 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:22 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:22 2013] [debug] Rendering inline template.
+[Mon Jun  3 00:04:22 2013] [debug] Rendering inline template.
+[Mon Jun  3 00:04:22 2013] [debug] 404 Not Found (0.033879s, 29.517/s).
+[Mon Jun  3 00:04:23 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:23 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:23 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:23 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:23 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:23 2013] [debug] 404 Not Found (0.016740s, 59.737/s).
+[Mon Jun  3 00:04:23 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:23 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:23 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:23 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:23 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:23 2013] [debug] 404 Not Found (0.018221s, 54.882/s).
+[Mon Jun  3 00:04:23 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:23 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:23 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:23 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:23 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:23 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:23 2013] [debug] 404 Not Found (0.014846s, 67.358/s).
+[Mon Jun  3 00:04:24 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:24 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:24 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:24 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:24 2013] [debug] 404 Not Found (0.010775s, 92.807/s).
+[Mon Jun  3 00:04:24 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:24 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:24 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:24 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:24 2013] [debug] 404 Not Found (0.018190s, 54.975/s).
+[Mon Jun  3 00:04:24 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:24 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:24 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:24 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:24 2013] [debug] 404 Not Found (0.012697s, 78.759/s).
+[Mon Jun  3 00:04:24 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:24 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:24 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:24 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:24 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:25 2013] [debug] 404 Not Found (0.016869s, 59.280/s).
+[Mon Jun  3 00:04:25 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:25 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:25 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:25 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:25 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:25 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:25 2013] [debug] 404 Not Found (0.017824s, 56.104/s).
+[Mon Jun  3 00:04:33 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:33 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:33 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:33 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:33 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:33 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:33 2013] [debug] 404 Not Found (0.011531s, 86.723/s).
+[Mon Jun  3 00:04:34 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:34 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:34 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:34 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:34 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:34 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:34 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:34 2013] [debug] 404 Not Found (0.021924s, 45.612/s).
+[Mon Jun  3 00:04:34 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:34 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:34 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:34 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:34 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:34 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:34 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:34 2013] [debug] 404 Not Found (0.016101s, 62.108/s).
+[Mon Jun  3 00:04:35 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:35 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:35 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] 404 Not Found (0.017668s, 56.600/s).
+[Mon Jun  3 00:04:35 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:35 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:35 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] 404 Not Found (0.009739s, 102.680/s).
+[Mon Jun  3 00:04:35 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:35 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:35 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] 404 Not Found (0.009950s, 100.503/s).
+[Mon Jun  3 00:04:35 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:35 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:35 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] 404 Not Found (0.014708s, 67.990/s).
+[Mon Jun  3 00:04:35 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:35 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:35 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] 404 Not Found (0.010255s, 97.513/s).
+[Mon Jun  3 00:04:35 2013] [debug] GET /photo (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:04:35 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:04:35 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] Rendering cached inline template.
+[Mon Jun  3 00:04:35 2013] [debug] 404 Not Found (0.010752s, 93.006/s).
+[Mon Jun  3 00:07:21 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:07:21 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:07:21 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:07:21 2013] [debug] Rendering template "views/home.html.ep".
+[Mon Jun  3 00:07:21 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:07:21 2013] [debug] 200 OK (0.037772s, 26.475/s).
+[Mon Jun  3 00:07:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:07:50 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:07:50 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:07:50 2013] [debug] Rendering template "views/home.html.ep".
+[Mon Jun  3 00:07:50 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:07:50 2013] [debug] 200 OK (0.030076s, 33.249/s).
+[Mon Jun  3 00:08:25 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:08:25 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:25 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:08:25 2013] [debug] Rendering template "views/home.html.ep".
+[Mon Jun  3 00:08:25 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:08:25 2013] [debug] 200 OK (0.032310s, 30.950/s).
+[Mon Jun  3 00:08:26 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:26 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:08:26 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon Jun  3 00:08:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:08:26 2013] [debug] 200 OK (0.002810s, 355.872/s).
+[Mon Jun  3 00:08:26 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:26 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:08:26 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon Jun  3 00:08:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:08:26 2013] [debug] 200 OK (0.002037s, 490.918/s).
+[Mon Jun  3 00:08:26 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:26 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:08:26 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon Jun  3 00:08:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:08:26 2013] [debug] 200 OK (0.001709s, 585.138/s).
+[Mon Jun  3 00:08:26 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:26 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:08:26 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon Jun  3 00:08:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:08:26 2013] [debug] 200 OK (0.002424s, 412.541/s).
+[Mon Jun  3 00:08:26 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:26 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:08:26 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon Jun  3 00:08:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:08:26 2013] [debug] 200 OK (0.002475s, 404.040/s).
+[Mon Jun  3 00:08:28 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:28 2013] [debug] Controller "Renewable::Controllers::Photogallery" does not exist.
+[Mon Jun  3 00:08:28 2013] [debug] Template "photogallery/index.html.ep" not found.
+[Mon Jun  3 00:08:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Mon Jun  3 00:08:28 2013] [debug] Template "not_found.html.ep" not found.
+[Mon Jun  3 00:08:28 2013] [debug] Rendering inline template.
+[Mon Jun  3 00:08:28 2013] [debug] Rendering inline template.
+[Mon Jun  3 00:08:28 2013] [debug] 404 Not Found (0.026011s, 38.445/s).
+[Mon Jun  3 00:08:58 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:08:58 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:58 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:08:58 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun  3 00:08:58 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:08:58 2013] [debug] 200 OK (0.027492s, 36.374/s).
+[Mon Jun  3 00:08:59 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:59 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:08:59 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:08:59 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:08:59 2013] [debug] 200 OK (0.002891s, 345.901/s).
+[Mon Jun  3 00:08:59 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:59 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:08:59 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:08:59 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:08:59 2013] [debug] 200 OK (0.004130s, 242.131/s).
+[Mon Jun  3 00:08:59 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:59 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:08:59 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:08:59 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:08:59 2013] [debug] 200 OK (0.003240s, 308.642/s).
+[Mon Jun  3 00:08:59 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:08:59 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:08:59 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:08:59 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:08:59 2013] [debug] 200 OK (0.002570s, 389.105/s).
+[Mon Jun  3 00:12:30 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:12:30 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:30 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:30 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun  3 00:12:30 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:12:30 2013] [debug] 200 OK (0.034227s, 29.217/s).
+[Mon Jun  3 00:12:31 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:31 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:31 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:12:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:12:31 2013] [debug] 200 OK (0.001789s, 558.971/s).
+[Mon Jun  3 00:12:31 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:31 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:31 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:12:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:12:31 2013] [debug] 200 OK (0.002939s, 340.252/s).
+[Mon Jun  3 00:12:31 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:31 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:31 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:12:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:12:31 2013] [debug] 200 OK (0.003165s, 315.956/s).
+[Mon Jun  3 00:12:32 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:32 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:32 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:12:32 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:12:32 2013] [debug] 200 OK (0.002300s, 434.783/s).
+[Mon Jun  3 00:12:32 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:32 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:32 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:12:32 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:12:32 2013] [debug] 200 OK (0.002461s, 406.339/s).
+[Mon Jun  3 00:12:32 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:32 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:32 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:12:32 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:12:32 2013] [debug] 200 OK (0.002658s, 376.223/s).
+[Mon Jun  3 00:12:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:12:51 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:51 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:51 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun  3 00:12:51 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:12:51 2013] [debug] 200 OK (0.037708s, 26.520/s).
+[Mon Jun  3 00:12:51 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:51 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:51 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:12:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:12:51 2013] [debug] 200 OK (0.002686s, 372.301/s).
+[Mon Jun  3 00:12:52 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:52 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:52 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:12:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:12:52 2013] [debug] 200 OK (0.003096s, 322.997/s).
+[Mon Jun  3 00:12:52 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:52 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:52 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:12:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:12:52 2013] [debug] 200 OK (0.002686s, 372.301/s).
+[Mon Jun  3 00:12:52 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:52 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:52 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:12:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:12:52 2013] [debug] 200 OK (0.002705s, 369.686/s).
+[Mon Jun  3 00:12:52 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:12:52 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:12:52 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:12:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:12:52 2013] [debug] 200 OK (0.003120s, 320.513/s).
+[Mon Jun  3 00:13:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:13:17 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:17 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:17 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun  3 00:13:18 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:13:18 2013] [debug] 200 OK (0.037956s, 26.346/s).
+[Mon Jun  3 00:13:18 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:18 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:18 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:18 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:18 2013] [debug] 200 OK (0.003166s, 315.856/s).
+[Mon Jun  3 00:13:18 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:18 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:18 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:18 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:18 2013] [debug] 200 OK (0.003582s, 279.174/s).
+[Mon Jun  3 00:13:19 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:19 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:19 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:19 2013] [debug] 200 OK (0.001890s, 529.101/s).
+[Mon Jun  3 00:13:19 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:19 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:19 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:19 2013] [debug] 200 OK (0.002510s, 398.406/s).
+[Mon Jun  3 00:13:19 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:19 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:19 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:19 2013] [debug] 200 OK (0.002565s, 389.864/s).
+[Mon Jun  3 00:13:19 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:19 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:19 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:19 2013] [debug] 200 OK (0.001987s, 503.271/s).
+[Mon Jun  3 00:13:29 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:29 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:29 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:29 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:29 2013] [debug] 200 OK (0.003667s, 272.702/s).
+[Mon Jun  3 00:13:30 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:30 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:30 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:30 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:30 2013] [debug] 200 OK (0.002547s, 392.619/s).
+[Mon Jun  3 00:13:30 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:30 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:30 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:30 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:30 2013] [debug] 200 OK (0.002525s, 396.040/s).
+[Mon Jun  3 00:13:46 2013] [info] Listening at "http://*:3000".
+[Mon Jun  3 00:13:49 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:13:49 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:49 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:49 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun  3 00:13:49 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:13:49 2013] [debug] 200 OK (0.033684s, 29.688/s).
+[Mon Jun  3 00:13:49 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:49 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:49 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:49 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:49 2013] [debug] 200 OK (0.001607s, 622.278/s).
+[Mon Jun  3 00:13:50 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:50 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:50 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:50 2013] [debug] 200 OK (0.001950s, 512.821/s).
+[Mon Jun  3 00:13:50 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:50 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:50 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:50 2013] [debug] 200 OK (0.002606s, 383.730/s).
+[Mon Jun  3 00:13:50 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:50 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:50 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:50 2013] [debug] 200 OK (0.002234s, 447.628/s).
+[Mon Jun  3 00:13:57 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:57 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:57 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:57 2013] [debug] 200 OK (0.003010s, 332.226/s).
+[Mon Jun  3 00:13:58 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:58 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] 200 OK (0.003591s, 278.474/s).
+[Mon Jun  3 00:13:58 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:58 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] 200 OK (0.002810s, 355.872/s).
+[Mon Jun  3 00:13:58 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:58 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] 200 OK (0.002347s, 426.076/s).
+[Mon Jun  3 00:13:58 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:58 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] 200 OK (0.002189s, 456.830/s).
+[Mon Jun  3 00:13:58 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:58 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] 200 OK (0.001706s, 586.166/s).
+[Mon Jun  3 00:13:58 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:58 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:58 2013] [debug] 200 OK (0.002439s, 410.004/s).
+[Mon Jun  3 00:13:59 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:13:59 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:13:59 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:13:59 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:13:59 2013] [debug] 200 OK (0.001881s, 531.632/s).
+[Mon Jun  3 00:14:08 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:08 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:08 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:08 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:08 2013] [debug] 200 OK (0.002675s, 373.832/s).
+[Mon Jun  3 00:14:09 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:09 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:09 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:09 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:09 2013] [debug] 200 OK (0.003201s, 312.402/s).
+[Mon Jun  3 00:14:09 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:09 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:09 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:09 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:09 2013] [debug] 200 OK (0.002286s, 437.445/s).
+[Mon Jun  3 00:14:09 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:09 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:09 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:09 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:09 2013] [debug] 200 OK (0.002818s, 354.862/s).
+[Mon Jun  3 00:14:10 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:10 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] 200 OK (0.002711s, 368.868/s).
+[Mon Jun  3 00:14:10 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:10 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] 200 OK (0.001874s, 533.618/s).
+[Mon Jun  3 00:14:10 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:10 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] 200 OK (0.001743s, 573.723/s).
+[Mon Jun  3 00:14:10 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:10 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] 200 OK (0.002450s, 408.163/s).
+[Mon Jun  3 00:14:10 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:10 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] 200 OK (0.002673s, 374.111/s).
+[Mon Jun  3 00:14:10 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:10 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] 200 OK (0.003479s, 287.439/s).
+[Mon Jun  3 00:14:10 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:10 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:10 2013] [debug] 200 OK (0.002861s, 349.528/s).
+[Mon Jun  3 00:14:11 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:11 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] 200 OK (0.003038s, 329.164/s).
+[Mon Jun  3 00:14:11 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:11 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] 200 OK (0.002777s, 360.101/s).
+[Mon Jun  3 00:14:11 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:11 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] 200 OK (0.002385s, 419.287/s).
+[Mon Jun  3 00:14:11 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:11 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] 200 OK (0.002869s, 348.554/s).
+[Mon Jun  3 00:14:11 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:11 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] 200 OK (0.003019s, 331.236/s).
+[Mon Jun  3 00:14:11 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:14:11 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:14:11 2013] [debug] 200 OK (0.002702s, 370.096/s).
+[Mon Jun  3 00:15:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:15:04 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:15:04 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:15:04 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun  3 00:15:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:15:04 2013] [debug] 200 OK (0.032978s, 30.323/s).
+[Mon Jun  3 00:15:05 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:15:05 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:15:05 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:15:05 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:15:05 2013] [debug] 200 OK (0.002262s, 442.087/s).
+[Mon Jun  3 00:15:05 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:15:05 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:15:05 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:15:05 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:15:05 2013] [debug] 200 OK (0.002799s, 357.270/s).
+[Mon Jun  3 00:24:46 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:24:46 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:24:46 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:24:46 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun  3 00:24:46 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:24:46 2013] [debug] 200 OK (0.031704s, 31.542/s).
+[Mon Jun  3 00:26:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:26:17 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:26:17 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:26:17 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun  3 00:26:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:26:17 2013] [debug] 200 OK (0.028287s, 35.352/s).
+[Mon Jun  3 00:30:45 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:30:45 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:30:45 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:30:45 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun  3 00:30:45 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:30:45 2013] [debug] 200 OK (0.029024s, 34.454/s).
+[Mon Jun  3 00:30:46 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:30:46 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:30:46 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:30:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:30:46 2013] [debug] 200 OK (0.003987s, 250.815/s).
+[Mon Jun  3 00:31:24 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:31:24 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:31:24 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:31:24 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:31:24 2013] [debug] 200 OK (0.002997s, 333.667/s).
+[Mon Jun  3 00:31:25 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:31:25 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:31:25 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:31:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:31:25 2013] [debug] 200 OK (0.002320s, 431.034/s).
+[Mon Jun  3 00:31:25 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:31:25 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:31:25 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:31:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:31:25 2013] [debug] 200 OK (0.002708s, 369.276/s).
+[Mon Jun  3 00:31:25 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:31:25 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:31:25 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:31:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:31:25 2013] [debug] 200 OK (0.002475s, 404.040/s).
+[Mon Jun  3 00:31:25 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:31:25 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:31:25 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:31:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:31:25 2013] [debug] 200 OK (0.002463s, 406.009/s).
+[Mon Jun  3 00:31:25 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:31:25 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:31:25 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:31:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:31:25 2013] [debug] 200 OK (0.001547s, 646.412/s).
+[Mon Jun  3 00:31:59 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:31:59 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:31:59 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:31:59 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun  3 00:31:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:31:59 2013] [debug] 200 OK (0.030823s, 32.443/s).
+[Mon Jun  3 00:31:59 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:31:59 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:31:59 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:31:59 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:31:59 2013] [debug] 200 OK (0.002494s, 400.962/s).
+[Mon Jun  3 00:32:00 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:32:00 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:32:00 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:32:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:32:00 2013] [debug] 200 OK (0.002507s, 398.883/s).
+[Mon Jun  3 00:32:04 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:32:04 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:32:04 2013] [debug] Rendering template "views/home.html.ep".
+[Mon Jun  3 00:32:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:32:04 2013] [debug] 200 OK (0.014337s, 69.750/s).
+[Mon Jun  3 00:32:14 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:32:14 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:32:14 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:32:14 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:32:14 2013] [debug] 200 OK (0.002601s, 384.468/s).
+[Mon Jun  3 00:32:19 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:32:19 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Mon Jun  3 00:32:19 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Mon Jun  3 00:32:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:32:19 2013] [debug] 200 OK (0.042749s, 23.392/s).
+[Mon Jun  3 00:32:31 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:32:31 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:32:31 2013] [debug] Rendering cached template views/home.html.ep.
+[Mon Jun  3 00:32:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:32:31 2013] [debug] 200 OK (0.002543s, 393.236/s).
+[Mon Jun  3 00:33:35 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:33:35 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:33:35 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Mon Jun  3 00:33:35 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:33:35 2013] [debug] 200 OK (0.002374s, 421.230/s).
+[Mon Jun  3 00:33:43 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:33:43 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Mon Jun  3 00:33:43 2013] [debug] Rendering template "views/activity.html.ep".
+[Mon Jun  3 00:33:43 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:33:43 2013] [debug] 200 OK (0.026133s, 38.266/s).
+[Mon Jun  3 00:34:46 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun  3 00:34:46 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:34:46 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Mon Jun  3 00:34:46 2013] [debug] Rendering template "views/activity.html.ep".
+[Mon Jun  3 00:34:46 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun  3 00:34:46 2013] [debug] 200 OK (0.045169s, 22.139/s).
+[Mon Jun  3 00:34:46 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:34:46 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Mon Jun  3 00:34:46 2013] [debug] Rendering cached template views/activity.html.ep.
+[Mon Jun  3 00:34:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:34:46 2013] [debug] 200 OK (0.004103s, 243.724/s).
+[Mon Jun  3 00:34:47 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:34:47 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Mon Jun  3 00:34:47 2013] [debug] Rendering cached template views/activity.html.ep.
+[Mon Jun  3 00:34:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:34:47 2013] [debug] 200 OK (0.003681s, 271.665/s).
+[Mon Jun  3 00:34:58 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:34:58 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun  3 00:34:58 2013] [debug] Rendering template "views/home.html.ep".
+[Mon Jun  3 00:34:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:34:58 2013] [debug] 200 OK (0.013607s, 73.492/s).
+[Mon Jun  3 00:35:05 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:35:05 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Mon Jun  3 00:35:05 2013] [debug] Rendering cached template views/activity.html.ep.
+[Mon Jun  3 00:35:05 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:35:05 2013] [debug] 200 OK (0.004838s, 206.697/s).
+[Mon Jun  3 00:35:14 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun  3 00:35:14 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun  3 00:35:14 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun  3 00:35:14 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun  3 00:35:14 2013] [debug] 200 OK (0.009852s, 101.502/s).

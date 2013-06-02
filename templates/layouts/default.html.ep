@@ -17,12 +17,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" itemscope="" itemtype="http://schema.org/FoodEstablishment" href="http://www.eatfab.com">Renewable Energy</a>
+          <a class="brand" itemscope="" itemtype="http://schema.org/FoodEstablishment" href="http://www.renewable-energy.utcluj.ro">Renewable Energy</a>
           <div class="nav-collapse">
             <ul class="nav nav-pills" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
               <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/home"><span itemprop="name">Home</span></a></li>
               <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/activity"><span itemprop="name">Activity</span></a></li>
-              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/photo"><span itemprop="name">Photo Gallery</span></a></li>
+              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/photogallery"><span itemprop="name">Photo Gallery</span></a></li>
               <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/contact"><span itemprop="name">Contact</span></a></li>
               <li class="separate-login" itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url">
                     <a itemprop="url" href="/login"><span itemprop="name">Login</span></a>

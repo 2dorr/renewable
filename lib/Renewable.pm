@@ -17,6 +17,7 @@ sub startup {
   $r->route('/home')->to( 'home#welcome' );
   $r->route('/signup')->to( 'signup#add' );
   $r->route('/activity')->to( 'activity#index' );
+  $r->route('/photogallery')->to( 'PhotoGallery#index' );
 }
 
 1;
