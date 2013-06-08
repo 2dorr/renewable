@@ -18,6 +18,7 @@ sub startup {
   $r->route('/signup')->to( 'signup#add' );
   $r->route('/activity')->to( 'activity#index' );
   $r->route('/photogallery')->to( 'PhotoGallery#index' );
+  $r->route('/contact')->to( 'contact#index' );
 }
 
 1;
