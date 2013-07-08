@@ -1,6 +1,39 @@
 % layout 'default';
 % title 'Contact';
 
-<div style="margin-top:40px;">
+<style type="text/css">
+    p{
+        margin-bottom:0;
+    }
+</style>
+<h3>Contact</h3>
+
+<div class="pull-left" style="margin-top:10px">
     <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=ro&amp;geocode=&amp;q=Strada+Gheorghe+Bari%C5%A3iu+26,+Cluj-Napoca,+Rom%C3%A2nia&amp;aq=&amp;sll=46.577123,23.77053&amp;sspn=0.006401,0.015965&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Strada+George+Bari%C5%A3iu+26-28,+Cluj-Napoca,+Cluj+400027,+Rom%C3%A2nia&amp;ll=46.772731,23.584814&amp;spn=0.028217,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=ro&amp;geocode=&amp;q=Strada+Gheorghe+Bari%C5%A3iu+26,+Cluj-Napoca,+Rom%C3%A2nia&amp;aq=&amp;sll=46.577123,23.77053&amp;sspn=0.006401,0.015965&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Strada+George+Bari%C5%A3iu+26-28,+Cluj-Napoca,+Cluj+400027,+Rom%C3%A2nia&amp;ll=46.772731,23.584814&amp;spn=0.028217,0.054932&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Vizualizare hartă mărită</a></small>
+
+</div>
+<div class="pull-left" style="margin-left:30px;">
+    <h5 style="border-bottom: 1px solid rgb(162, 220, 231);">Adresa principala</h5>
+    <p><small>Universitatea Tehnica Cluj-Napoca</small></p>
+    <!--<p><small>Facultatea de Electronica, Telecomunicatii si Tehnologia Informatiei</small></p>-->
+    <p><small>Str. George Baritiu nr. 26-28</small></p>
+    <p><small>400027 Cluj-Napoca, Romania</small></p>
+    <p><small>Sala 330</small></p>
+    <p><small>Telefon: 0264-401415</small></p>
+    
+    <h5 style="border-bottom: 1px solid rgb(162, 220, 231);">Personal</h5>
+    <small>
+        <b>Conducator stiintific</b>
+        <ul>
+            <li>dorin.petreus@ael.utcluj.ro</li>
+        </ul>
+        <b>Echipa</b>
+        <ul>
+            <li>niculaie.palaghita@ael.utcluj.ro</li>
+            <li>cristian.farcas@ael.utcluj.ro</li>
+            <li>ionut.ciocan@ael.utcluj.ro</li>
+            <li>adina.rusu@ael.utcluj.ro</li>
+            <li>dorin.cadar@ael.utcluj.ro</li>
+        </ul>
+    </small>
 </div>

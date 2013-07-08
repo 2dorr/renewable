@@ -7258,3 +7258,541 @@
 [Sat Jun  8 11:32:21 2013] [debug] Rendering template "views/contact.html.ep".
 [Sat Jun  8 11:32:21 2013] [debug] Rendering template "layouts/default.html.ep".
 [Sat Jun  8 11:32:21 2013] [debug] 200 OK (0.029148s, 34.308/s).
+[Sun Jun  9 14:38:33 2013] [info] Listening at "http://*:3000".
+[Sun Jun  9 14:38:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 14:38:44 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:38:44 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  9 14:38:44 2013] [debug] Rendering template "views/home.html.ep".
+[Sun Jun  9 14:38:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 14:38:44 2013] [debug] 200 OK (0.495011s, 2.020/s).
+[Sun Jun  9 14:38:53 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:38:53 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 14:38:53 2013] [debug] Rendering template "views/activity.html.ep".
+[Sun Jun  9 14:38:53 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:38:53 2013] [debug] 200 OK (0.060135s, 16.629/s).
+[Sun Jun  9 14:38:55 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:38:55 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 14:38:55 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Sun Jun  9 14:38:55 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:38:55 2013] [debug] 200 OK (0.136663s, 7.317/s).
+[Sun Jun  9 14:38:59 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:38:59 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 14:38:59 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 14:38:59 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:38:59 2013] [debug] 200 OK (0.008568s, 116.713/s).
+[Sun Jun  9 14:39:42 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:39:42 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 14:39:42 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 14:39:42 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:39:42 2013] [debug] 200 OK (0.002877s, 347.584/s).
+[Sun Jun  9 14:39:43 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:39:43 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 14:39:43 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Sun Jun  9 14:39:43 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:39:43 2013] [debug] 200 OK (0.002698s, 370.645/s).
+[Sun Jun  9 14:39:43 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:39:43 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 14:39:43 2013] [debug] Rendering cached template views/activity.html.ep.
+[Sun Jun  9 14:39:43 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:39:43 2013] [debug] 200 OK (0.003696s, 270.563/s).
+[Sun Jun  9 14:39:44 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:39:44 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  9 14:39:44 2013] [debug] Rendering cached template views/home.html.ep.
+[Sun Jun  9 14:39:44 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:39:44 2013] [debug] 200 OK (0.002447s, 408.664/s).
+[Sun Jun  9 14:39:45 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:39:45 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 14:39:45 2013] [debug] Rendering cached template views/activity.html.ep.
+[Sun Jun  9 14:39:45 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:39:45 2013] [debug] 200 OK (0.004037s, 247.709/s).
+[Sun Jun  9 14:39:46 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:39:46 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 14:39:46 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Sun Jun  9 14:39:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:39:46 2013] [debug] 200 OK (0.002411s, 414.766/s).
+[Sun Jun  9 14:39:47 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:39:47 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 14:39:47 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 14:39:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:39:47 2013] [debug] 200 OK (0.002410s, 414.938/s).
+[Sun Jun  9 14:39:49 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:39:49 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 14:39:49 2013] [debug] Rendering cached template views/activity.html.ep.
+[Sun Jun  9 14:39:49 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:39:49 2013] [debug] 200 OK (0.002942s, 339.905/s).
+[Sun Jun  9 14:40:00 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:40:00 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 14:40:00 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 14:40:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:40:00 2013] [debug] 200 OK (0.001827s, 547.345/s).
+[Sun Jun  9 14:42:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 14:42:57 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:42:57 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 14:42:57 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 14:42:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 14:42:57 2013] [debug] 200 OK (0.037279s, 26.825/s).
+[Sun Jun  9 14:43:08 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:43:08 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  9 14:43:08 2013] [debug] Rendering template "views/home.html.ep".
+[Sun Jun  9 14:43:08 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:43:08 2013] [debug] 200 OK (0.012178s, 82.115/s).
+[Sun Jun  9 14:43:09 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:43:09 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 14:43:09 2013] [debug] Rendering template "views/activity.html.ep".
+[Sun Jun  9 14:43:09 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:43:09 2013] [debug] 200 OK (0.031748s, 31.498/s).
+[Sun Jun  9 14:43:10 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:43:10 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 14:43:10 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Sun Jun  9 14:43:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:43:10 2013] [debug] 200 OK (0.011101s, 90.082/s).
+[Sun Jun  9 14:43:35 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 14:43:35 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:43:35 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 14:43:35 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Sun Jun  9 14:43:35 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 14:43:35 2013] [debug] 200 OK (0.025881s, 38.638/s).
+[Sun Jun  9 14:43:47 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:43:47 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 14:43:47 2013] [debug] Rendering template "views/activity.html.ep".
+[Sun Jun  9 14:43:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:43:47 2013] [debug] 200 OK (0.025506s, 39.206/s).
+[Sun Jun  9 14:46:00 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:46:00 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 14:46:00 2013] [debug] Rendering cached template views/activity.html.ep.
+[Sun Jun  9 14:46:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:46:00 2013] [debug] 200 OK (0.002184s, 457.875/s).
+[Sun Jun  9 14:46:01 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:46:01 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 14:46:01 2013] [debug] Rendering cached template views/activity.html.ep.
+[Sun Jun  9 14:46:01 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:46:01 2013] [debug] 200 OK (0.002067s, 483.793/s).
+[Sun Jun  9 14:46:01 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:46:01 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 14:46:01 2013] [debug] Rendering cached template views/activity.html.ep.
+[Sun Jun  9 14:46:01 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:46:01 2013] [debug] 200 OK (0.002130s, 469.484/s).
+[Sun Jun  9 14:46:48 2013] [debug] GET /signup (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:46:48 2013] [debug] Routing to controller "Renewable::Controllers::Signup" and action "add".
+[Sun Jun  9 14:46:48 2013] [debug] Rendering template "views/signup/signup.html.ep".
+[Sun Jun  9 14:46:48 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:46:48 2013] [debug] 200 OK (0.048500s, 20.619/s).
+[Sun Jun  9 14:49:04 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:49:04 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 14:49:04 2013] [debug] Rendering cached template views/activity.html.ep.
+[Sun Jun  9 14:49:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:49:04 2013] [debug] 200 OK (0.003196s, 312.891/s).
+[Sun Jun  9 14:49:05 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:49:05 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 14:49:05 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Sun Jun  9 14:49:05 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:49:05 2013] [debug] 200 OK (0.002600s, 384.615/s).
+[Sun Jun  9 14:49:08 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:49:08 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 14:49:08 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 14:49:08 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:49:08 2013] [debug] 200 OK (0.009798s, 102.062/s).
+[Sun Jun  9 14:49:23 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:49:23 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 14:49:23 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Sun Jun  9 14:49:23 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:49:23 2013] [debug] 200 OK (0.002920s, 342.466/s).
+[Sun Jun  9 14:49:33 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:49:33 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 14:49:33 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Sun Jun  9 14:49:33 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:49:33 2013] [debug] 200 OK (0.001616s, 618.812/s).
+[Sun Jun  9 14:49:35 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 14:49:35 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 14:49:35 2013] [debug] Rendering cached template views/activity.html.ep.
+[Sun Jun  9 14:49:35 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 14:49:35 2013] [debug] 200 OK (0.003538s, 282.646/s).
+[Sun Jun  9 15:03:35 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:03:35 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:03:35 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:03:35 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:03:35 2013] [debug] 200 OK (0.002563s, 390.168/s).
+[Sun Jun  9 15:14:59 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:14:59 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:14:59 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:14:59 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:14:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:14:59 2013] [debug] 200 OK (0.087683s, 11.405/s).
+[Sun Jun  9 15:15:00 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:15:00 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:15:00 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:15:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:15:00 2013] [debug] 200 OK (0.003025s, 330.579/s).
+[Sun Jun  9 15:16:22 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:16:22 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:16:22 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:16:22 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:16:22 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:16:22 2013] [debug] 200 OK (0.028247s, 35.402/s).
+[Sun Jun  9 15:16:24 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:16:24 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:16:24 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:16:24 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:16:24 2013] [debug] 200 OK (0.002100s, 476.190/s).
+[Sun Jun  9 15:17:18 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:17:18 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:17:18 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:17:18 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:17:18 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:17:18 2013] [debug] 200 OK (0.028542s, 35.036/s).
+[Sun Jun  9 15:18:05 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:18:05 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:18:05 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:18:05 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:18:05 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:18:05 2013] [debug] 200 OK (0.033097s, 30.214/s).
+[Sun Jun  9 15:18:06 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:18:06 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:18:06 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:18:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:18:06 2013] [debug] 200 OK (0.002755s, 362.976/s).
+[Sun Jun  9 15:18:06 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:18:06 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:18:06 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:18:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:18:06 2013] [debug] 200 OK (0.002902s, 344.590/s).
+[Sun Jun  9 15:18:07 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:18:07 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:18:07 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:18:07 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:18:07 2013] [debug] 200 OK (0.001919s, 521.105/s).
+[Sun Jun  9 15:18:07 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:18:07 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:18:07 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:18:07 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:18:07 2013] [debug] 200 OK (0.002157s, 463.607/s).
+[Sun Jun  9 15:18:07 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:18:07 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:18:07 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:18:07 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:18:07 2013] [debug] 200 OK (0.001721s, 581.058/s).
+[Sun Jun  9 15:18:07 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:18:07 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:18:07 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:18:07 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:18:07 2013] [debug] 200 OK (0.002706s, 369.549/s).
+[Sun Jun  9 15:20:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:20:27 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:20:27 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:20:27 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:20:27 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:20:27 2013] [debug] 200 OK (0.028228s, 35.426/s).
+[Sun Jun  9 15:21:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:21:17 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:21:17 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:21:17 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:21:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:21:17 2013] [debug] 200 OK (0.028153s, 35.520/s).
+[Sun Jun  9 15:22:05 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:22:05 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  9 15:22:05 2013] [debug] Rendering template "views/home.html.ep".
+[Sun Jun  9 15:22:05 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:22:05 2013] [debug] 200 OK (0.007782s, 128.502/s).
+[Sun Jun  9 15:22:13 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:22:13 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:22:13 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:22:13 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:22:13 2013] [debug] 200 OK (0.002564s, 390.016/s).
+[Sun Jun  9 15:22:14 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:22:14 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 15:22:14 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Sun Jun  9 15:22:14 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:22:14 2013] [debug] 200 OK (0.010984s, 91.042/s).
+[Sun Jun  9 15:22:17 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:22:17 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 15:22:17 2013] [debug] Rendering template "views/activity.html.ep".
+[Sun Jun  9 15:22:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:22:17 2013] [debug] 200 OK (0.026862s, 37.227/s).
+[Sun Jun  9 15:22:17 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:22:17 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:22:17 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:22:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:22:17 2013] [debug] 200 OK (0.002706s, 369.549/s).
+[Sun Jun  9 15:22:18 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:22:18 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 15:22:18 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Sun Jun  9 15:22:18 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:22:18 2013] [debug] 200 OK (0.002874s, 347.947/s).
+[Sun Jun  9 15:24:24 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:24:24 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:24:24 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:24:24 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:24:24 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:24:24 2013] [debug] 200 OK (0.038154s, 26.210/s).
+[Sun Jun  9 15:26:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:26:15 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:26:15 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:26:15 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:26:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:26:15 2013] [debug] 200 OK (0.030250s, 33.058/s).
+[Sun Jun  9 15:26:16 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:26:16 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:26:16 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:26:16 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:26:16 2013] [debug] 200 OK (0.003023s, 330.797/s).
+[Sun Jun  9 15:28:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:28:07 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:28:07 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:28:07 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:28:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:28:07 2013] [debug] 200 OK (0.029309s, 34.119/s).
+[Sun Jun  9 15:28:09 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:28:09 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:28:09 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:28:09 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:28:09 2013] [debug] 200 OK (0.002601s, 384.468/s).
+[Sun Jun  9 15:28:09 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:28:09 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:28:09 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:28:09 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:28:09 2013] [debug] 200 OK (0.002885s, 346.620/s).
+[Sun Jun  9 15:28:09 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:28:09 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:28:09 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:28:09 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:28:09 2013] [debug] 200 OK (0.001998s, 500.501/s).
+[Sun Jun  9 15:29:25 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:29:25 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:29:25 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:29:25 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:29:25 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:29:25 2013] [debug] 200 OK (0.029372s, 34.046/s).
+[Sun Jun  9 15:30:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:30:15 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:30:15 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:30:15 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:30:16 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:30:16 2013] [debug] 200 OK (0.032608s, 30.667/s).
+[Sun Jun  9 15:30:17 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:30:17 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:30:17 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:30:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:30:17 2013] [debug] 200 OK (0.002513s, 397.931/s).
+[Sun Jun  9 15:31:29 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:31:29 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:31:29 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:31:29 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:31:29 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:31:29 2013] [debug] 200 OK (0.030413s, 32.881/s).
+[Sun Jun  9 15:31:31 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:31:31 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:31:31 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:31:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:31:31 2013] [debug] 200 OK (0.002436s, 410.509/s).
+[Sun Jun  9 15:31:31 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:31:31 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:31:31 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:31:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:31:31 2013] [debug] 200 OK (0.002568s, 389.408/s).
+[Sun Jun  9 15:31:40 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:31:40 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:31:40 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:31:40 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:31:40 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:31:40 2013] [debug] 200 OK (0.034252s, 29.195/s).
+[Sun Jun  9 15:31:41 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:31:41 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:31:41 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 15:31:41 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:31:41 2013] [debug] 200 OK (0.002649s, 377.501/s).
+[Sun Jun  9 15:32:22 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:32:22 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:32:22 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:32:22 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:32:22 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:32:22 2013] [debug] 200 OK (0.029643s, 33.735/s).
+[Sun Jun  9 15:35:16 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:35:16 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:35:16 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:35:16 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:35:16 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:35:16 2013] [debug] 200 OK (0.031927s, 31.321/s).
+[Sun Jun  9 15:36:12 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:36:12 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:36:12 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:36:12 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:36:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:36:12 2013] [debug] 200 OK (0.030526s, 32.759/s).
+[Sun Jun  9 15:42:13 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:42:13 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:42:13 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:42:13 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:42:13 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:42:13 2013] [debug] 200 OK (0.028806s, 34.715/s).
+[Sun Jun  9 15:43:32 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:43:32 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:43:32 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:43:32 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:43:32 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:43:32 2013] [debug] 200 OK (0.030319s, 32.983/s).
+[Sun Jun  9 15:44:45 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:44:45 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:44:45 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:44:45 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:44:45 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:44:45 2013] [debug] 200 OK (0.034462s, 29.017/s).
+[Sun Jun  9 15:45:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:45:11 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:45:11 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:45:11 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:45:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:45:11 2013] [debug] 200 OK (0.029715s, 33.653/s).
+[Sun Jun  9 15:45:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:45:57 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:45:57 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:45:57 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:45:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:45:57 2013] [debug] 200 OK (0.029480s, 33.921/s).
+[Sun Jun  9 15:47:46 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:47:46 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:47:46 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:47:46 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:47:46 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:47:46 2013] [debug] 200 OK (0.029943s, 33.397/s).
+[Sun Jun  9 15:49:24 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:49:24 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  9 15:49:24 2013] [debug] Rendering template "views/home.html.ep".
+[Sun Jun  9 15:49:24 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:49:24 2013] [debug] 200 OK (0.011502s, 86.941/s).
+[Sun Jun  9 15:51:51 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:51:51 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  9 15:51:51 2013] [debug] Rendering cached template views/home.html.ep.
+[Sun Jun  9 15:51:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:51:51 2013] [debug] 200 OK (0.001949s, 513.084/s).
+[Sun Jun  9 15:54:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 15:54:36 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:54:36 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  9 15:54:36 2013] [debug] Rendering template "views/home.html.ep".
+[Sun Jun  9 15:54:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 15:54:36 2013] [debug] 200 OK (0.028171s, 35.497/s).
+[Sun Jun  9 15:55:04 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:55:04 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 15:55:04 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 15:55:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:55:04 2013] [debug] 200 OK (0.012094s, 82.686/s).
+[Sun Jun  9 15:55:14 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 15:55:14 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 15:55:14 2013] [debug] Rendering template "views/activity.html.ep".
+[Sun Jun  9 15:55:14 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 15:55:14 2013] [debug] 200 OK (0.022343s, 44.757/s).
+[Sun Jun  9 23:17:31 2013] [info] Listening at "http://*:3000".
+[Sun Jun  9 23:17:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sun Jun  9 23:17:55 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 23:17:55 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  9 23:17:55 2013] [debug] Rendering template "views/home.html.ep".
+[Sun Jun  9 23:17:55 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sun Jun  9 23:17:55 2013] [debug] 200 OK (0.422317s, 2.368/s).
+[Sun Jun  9 23:18:18 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 23:18:18 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  9 23:18:18 2013] [debug] Rendering cached template views/home.html.ep.
+[Sun Jun  9 23:18:18 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 23:18:18 2013] [debug] 200 OK (0.001702s, 587.544/s).
+[Sun Jun  9 23:18:26 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 23:18:26 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 23:18:26 2013] [debug] Rendering template "views/activity.html.ep".
+[Sun Jun  9 23:18:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 23:18:26 2013] [debug] 200 OK (0.047351s, 21.119/s).
+[Sun Jun  9 23:18:35 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 23:18:35 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 23:18:35 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Sun Jun  9 23:18:35 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 23:18:35 2013] [debug] 200 OK (0.030680s, 32.595/s).
+[Sun Jun  9 23:18:45 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 23:18:45 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 23:18:45 2013] [debug] Rendering template "views/contact.html.ep".
+[Sun Jun  9 23:18:45 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 23:18:45 2013] [debug] 200 OK (0.040723s, 24.556/s).
+[Sun Jun  9 23:19:06 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 23:19:06 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sun Jun  9 23:19:06 2013] [debug] Rendering cached template views/home.html.ep.
+[Sun Jun  9 23:19:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 23:19:06 2013] [debug] 200 OK (0.002867s, 348.797/s).
+[Sun Jun  9 23:19:20 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 23:19:20 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Sun Jun  9 23:19:20 2013] [debug] Rendering cached template views/activity.html.ep.
+[Sun Jun  9 23:19:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 23:19:20 2013] [debug] 200 OK (0.003796s, 263.435/s).
+[Sun Jun  9 23:19:31 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 23:19:31 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Sun Jun  9 23:19:31 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Sun Jun  9 23:19:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 23:19:31 2013] [debug] 200 OK (0.001687s, 592.768/s).
+[Sun Jun  9 23:19:46 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sun Jun  9 23:19:46 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sun Jun  9 23:19:46 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sun Jun  9 23:19:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sun Jun  9 23:19:46 2013] [debug] 200 OK (0.002855s, 350.263/s).
+[Mon Jun 10 10:49:30 2013] [info] Listening at "http://*:3000".
+[Mon Jun 10 10:49:45 2013] [debug] Your secret passphrase needs to be changed!!!
+[Mon Jun 10 10:49:45 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun 10 10:49:45 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Mon Jun 10 10:49:45 2013] [debug] Rendering template "views/home.html.ep".
+[Mon Jun 10 10:49:45 2013] [debug] Rendering template "layouts/default.html.ep".
+[Mon Jun 10 10:49:45 2013] [debug] 200 OK (0.586877s, 1.704/s).
+[Mon Jun 10 10:51:22 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun 10 10:51:22 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Mon Jun 10 10:51:22 2013] [debug] Rendering template "views/activity.html.ep".
+[Mon Jun 10 10:51:22 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun 10 10:51:22 2013] [debug] 200 OK (0.039277s, 25.460/s).
+[Mon Jun 10 10:51:52 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun 10 10:51:52 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Mon Jun 10 10:51:52 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Mon Jun 10 10:51:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun 10 10:51:52 2013] [debug] 200 OK (0.027866s, 35.886/s).
+[Mon Jun 10 10:52:03 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun 10 10:52:03 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Mon Jun 10 10:52:03 2013] [debug] Rendering template "views/contact.html.ep".
+[Mon Jun 10 10:52:03 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun 10 10:52:03 2013] [debug] 200 OK (0.071164s, 14.052/s).
+[Mon Jun 10 10:53:12 2013] [debug] GET /activity (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Mon Jun 10 10:53:12 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Mon Jun 10 10:53:12 2013] [debug] Rendering cached template views/activity.html.ep.
+[Mon Jun 10 10:53:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Mon Jun 10 10:53:12 2013] [debug] 200 OK (0.003244s, 308.261/s).
+[Sat Jul  6 23:36:27 2013] [info] Listening at "http://*:3000".
+[Sat Jul  6 23:36:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Jul  6 23:36:44 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sat Jul  6 23:36:44 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Sat Jul  6 23:36:45 2013] [debug] Rendering template "views/home.html.ep".
+[Sat Jul  6 23:36:45 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Jul  6 23:36:45 2013] [debug] 200 OK (0.728629s, 1.372/s).
+[Sat Jul  6 23:36:54 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sat Jul  6 23:36:54 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sat Jul  6 23:36:54 2013] [debug] Rendering template "views/contact.html.ep".
+[Sat Jul  6 23:36:54 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sat Jul  6 23:36:54 2013] [debug] 200 OK (0.043433s, 23.024/s).
+[Sat Jul  6 23:38:52 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sat Jul  6 23:38:52 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sat Jul  6 23:38:52 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sat Jul  6 23:38:52 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sat Jul  6 23:38:52 2013] [debug] 200 OK (0.002934s, 340.832/s).
+[Sat Jul  6 23:38:53 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sat Jul  6 23:38:53 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sat Jul  6 23:38:53 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sat Jul  6 23:38:53 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sat Jul  6 23:38:53 2013] [debug] 200 OK (0.003486s, 286.862/s).
+[Sat Jul  6 23:38:53 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sat Jul  6 23:38:53 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sat Jul  6 23:38:53 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sat Jul  6 23:38:53 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sat Jul  6 23:38:53 2013] [debug] 200 OK (0.002017s, 495.786/s).
+[Sat Jul  6 23:38:54 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sat Jul  6 23:38:54 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sat Jul  6 23:38:54 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sat Jul  6 23:38:54 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sat Jul  6 23:38:54 2013] [debug] 200 OK (0.002787s, 358.809/s).
+[Sat Jul  6 23:38:54 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sat Jul  6 23:38:54 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sat Jul  6 23:38:54 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sat Jul  6 23:38:54 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sat Jul  6 23:38:54 2013] [debug] 200 OK (0.002855s, 350.263/s).
+[Sat Jul  6 23:39:11 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Sat Jul  6 23:39:11 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Sat Jul  6 23:39:11 2013] [debug] Rendering cached template views/contact.html.ep.
+[Sat Jul  6 23:39:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Sat Jul  6 23:39:11 2013] [debug] 200 OK (0.002871s, 348.311/s).

@@ -1,6 +1,13 @@
 % layout 'default';
 % title 'Home';
 
+<style type="text/css">
+    .item img {
+        margin-right:auto;
+        margin-left:auto;
+    }
+</style>
+
 <div id="carousel" class="carousel slide">
   <ol class="carousel-indicators">
     <li data-target="#carousel" data-slide-to="0" class="active"></li>
