@@ -7796,3 +7796,432 @@
 [Sat Jul  6 23:39:11 2013] [debug] Rendering cached template views/contact.html.ep.
 [Sat Jul  6 23:39:11 2013] [debug] Rendering cached template layouts/default.html.ep.
 [Sat Jul  6 23:39:11 2013] [debug] 200 OK (0.002871s, 348.311/s).
+[Tue Jul  9 00:17:13 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:17:25 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:17:25 2013] [debug] GET /home (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:17:25 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Tue Jul  9 00:17:25 2013] [debug] Rendering template "views/home.html.ep".
+[Tue Jul  9 00:17:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:17:26 2013] [debug] 200 OK (0.463107s, 2.159/s).
+[Tue Jul  9 00:17:41 2013] [debug] GET /contact (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:17:41 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Tue Jul  9 00:17:41 2013] [debug] Rendering template "views/contact.html.ep".
+[Tue Jul  9 00:17:41 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Jul  9 00:17:41 2013] [debug] 200 OK (0.036220s, 27.609/s).
+[Tue Jul  9 00:18:12 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:18:12 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:18:12 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:18:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Jul  9 00:18:12 2013] [debug] 200 OK (0.034859s, 28.687/s).
+[Tue Jul  9 00:28:29 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:28:36 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:28:36 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:28:36 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:28:36 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:28:36 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:28:36 2013] [debug] 200 OK (0.072475s, 13.798/s).
+[Tue Jul  9 00:28:36 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_4.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:28:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:28:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:28:36 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:28:36 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:28:36 2013] [debug] 404 Not Found (0.033721s, 29.655/s).
+[Tue Jul  9 00:28:36 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_5.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:28:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:28:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:28:36 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:28:36 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:28:36 2013] [debug] 404 Not Found (0.012125s, 82.474/s).
+[Tue Jul  9 00:32:57 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:33:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:33:01 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:33:01 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:33:01 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:33:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:33:01 2013] [debug] 200 OK (0.028473s, 35.121/s).
+[Tue Jul  9 00:34:13 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:34:16 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:34:16 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:34:16 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:34:16 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:34:16 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:34:16 2013] [debug] 200 OK (0.033469s, 29.878/s).
+[Tue Jul  9 00:34:27 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:34:32 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:34:32 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:34:32 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:34:32 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:34:32 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:34:32 2013] [debug] 200 OK (0.029378s, 34.039/s).
+[Tue Jul  9 00:34:42 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:34:42 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:34:42 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Tue Jul  9 00:34:42 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Jul  9 00:34:42 2013] [debug] 200 OK (0.003310s, 302.115/s).
+[Tue Jul  9 00:34:42 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:34:42 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:34:42 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Tue Jul  9 00:34:42 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Jul  9 00:34:42 2013] [debug] 200 OK (0.002563s, 390.168/s).
+[Tue Jul  9 00:34:42 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:34:42 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:34:42 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Tue Jul  9 00:34:42 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Jul  9 00:34:42 2013] [debug] 200 OK (0.002395s, 417.537/s).
+[Tue Jul  9 00:34:43 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:34:43 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:34:43 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Tue Jul  9 00:34:43 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Jul  9 00:34:43 2013] [debug] 200 OK (0.002589s, 386.250/s).
+[Tue Jul  9 00:35:09 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:35:14 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:35:14 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:35:14 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:35:14 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:35:14 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:35:14 2013] [debug] 200 OK (0.027894s, 35.850/s).
+[Tue Jul  9 00:35:57 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:36:03 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:36:03 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:36:03 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:36:03 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:36:03 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:36:03 2013] [debug] 200 OK (0.033605s, 29.757/s).
+[Tue Jul  9 00:36:54 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:37:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:37:08 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:37:08 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:37:08 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:37:08 2013] [error] Compilation error at /usr/share/perl/5.14/utf8_heavy.pl line 447.
+442:                     return $found;
+443:                 }
+444: 
+445:                 local $@;
+446:                 local $!;
+447:                 $list = do $file; die $@ if $@;
+448:             }
+449: 
+450:             $ListSorted = 1; ## we know that these lists are sorted
+451:         }
+452: 
+
+[Tue Jul  9 00:37:08 2013] [debug] Template "exception.development.html.ep" not found.
+[Tue Jul  9 00:37:08 2013] [debug] Template "exception.html.ep" not found.
+[Tue Jul  9 00:37:08 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:37:08 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:37:08 2013] [debug] 500 Internal Server Error (0.089202s, 11.211/s).
+[Tue Jul  9 00:37:58 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:38:02 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:38:02 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:38:02 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:38:02 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:38:02 2013] [error] Undefined subroutine &Mojo::Template::SandBox::Dumper called at template views/photogallery.html.ep line 5.
+BEGIN failed--compilation aborted at template views/photogallery.html.ep line 5.
+
+[Tue Jul  9 00:38:02 2013] [debug] Template "exception.development.html.ep" not found.
+[Tue Jul  9 00:38:02 2013] [debug] Template "exception.html.ep" not found.
+[Tue Jul  9 00:38:02 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:38:02 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:38:02 2013] [debug] 500 Internal Server Error (0.052370s, 19.095/s).
+[Tue Jul  9 00:38:15 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:38:24 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:38:24 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:38:24 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:38:24 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:38:24 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:38:24 2013] [debug] 200 OK (0.031333s, 31.915/s).
+[Tue Jul  9 00:39:51 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:39:55 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:39:55 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:39:55 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:39:55 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:39:55 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:39:55 2013] [debug] 200 OK (0.026334s, 37.974/s).
+[Tue Jul  9 00:39:55 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_3.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:39:55 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:39:55 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:39:55 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:39:55 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:39:55 2013] [debug] 404 Not Found (0.023603s, 42.367/s).
+[Tue Jul  9 00:39:55 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_5.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:39:55 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:39:55 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:39:55 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:39:55 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:39:55 2013] [debug] 404 Not Found (0.009865s, 101.368/s).
+[Tue Jul  9 00:39:55 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_2.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:39:55 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:39:55 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:39:55 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:39:55 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:39:55 2013] [debug] 404 Not Found (0.009244s, 108.178/s).
+[Tue Jul  9 00:39:55 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_1.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:39:55 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:39:55 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:39:55 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:39:55 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:39:55 2013] [debug] 404 Not Found (0.009933s, 100.675/s).
+[Tue Jul  9 00:39:55 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_4.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:39:55 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:39:55 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:39:55 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:39:55 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:39:55 2013] [debug] 404 Not Found (0.009577s, 104.417/s).
+[Tue Jul  9 00:40:44 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:40:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:40:48 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:48 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:40:48 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:40:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:40:48 2013] [debug] 200 OK (0.027601s, 36.231/s).
+[Tue Jul  9 00:40:49 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_3.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:40:49 2013] [debug] 404 Not Found (0.026037s, 38.407/s).
+[Tue Jul  9 00:40:49 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_5.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] 404 Not Found (0.009206s, 108.625/s).
+[Tue Jul  9 00:40:49 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_2.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] 404 Not Found (0.009322s, 107.273/s).
+[Tue Jul  9 00:40:49 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_1.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] 404 Not Found (0.014119s, 70.827/s).
+[Tue Jul  9 00:40:49 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_4.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] 404 Not Found (0.012873s, 77.682/s).
+[Tue Jul  9 00:40:49 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:49 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Jul  9 00:40:49 2013] [debug] 200 OK (0.002767s, 361.402/s).
+[Tue Jul  9 00:40:49 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_3.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] 404 Not Found (0.011436s, 87.443/s).
+[Tue Jul  9 00:40:49 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_5.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] 404 Not Found (0.008681s, 115.194/s).
+[Tue Jul  9 00:40:49 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_2.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] 404 Not Found (0.009118s, 109.673/s).
+[Tue Jul  9 00:40:49 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_1.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] 404 Not Found (0.012961s, 77.155/s).
+[Tue Jul  9 00:40:49 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_4.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:49 2013] [debug] 404 Not Found (0.010034s, 99.661/s).
+[Tue Jul  9 00:40:50 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:50 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Jul  9 00:40:50 2013] [debug] 200 OK (0.002286s, 437.445/s).
+[Tue Jul  9 00:40:50 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_3.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:50 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:50 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:50 2013] [debug] 404 Not Found (0.012844s, 77.857/s).
+[Tue Jul  9 00:40:50 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_5.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:50 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:50 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:50 2013] [debug] 404 Not Found (0.011789s, 84.825/s).
+[Tue Jul  9 00:40:50 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_4.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:50 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:50 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:50 2013] [debug] 404 Not Found (0.012665s, 78.958/s).
+[Tue Jul  9 00:40:50 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_1.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:50 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:50 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:50 2013] [debug] 404 Not Found (0.011350s, 88.106/s).
+[Tue Jul  9 00:40:50 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_2.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:40:50 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:40:50 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:50 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:40:50 2013] [debug] 404 Not Found (0.008789s, 113.779/s).
+[Tue Jul  9 00:41:53 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:41:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:41:56 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:56 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:41:56 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:41:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:41:56 2013] [debug] 200 OK (0.026053s, 38.383/s).
+[Tue Jul  9 00:41:56 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_3.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:56 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:56 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:56 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:41:56 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:41:56 2013] [debug] 404 Not Found (0.033883s, 29.513/s).
+[Tue Jul  9 00:41:56 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_5.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:56 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:56 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:56 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:56 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:56 2013] [debug] 404 Not Found (0.012050s, 82.988/s).
+[Tue Jul  9 00:41:56 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_2.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:56 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:56 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:56 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:56 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:56 2013] [debug] 404 Not Found (0.012480s, 80.128/s).
+[Tue Jul  9 00:41:57 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_1.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] 404 Not Found (0.009067s, 110.290/s).
+[Tue Jul  9 00:41:57 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_4.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] 404 Not Found (0.008727s, 114.587/s).
+[Tue Jul  9 00:41:57 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:57 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Jul  9 00:41:57 2013] [debug] 200 OK (0.004126s, 242.365/s).
+[Tue Jul  9 00:41:57 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_3.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] 404 Not Found (0.012626s, 79.202/s).
+[Tue Jul  9 00:41:57 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_5.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] 404 Not Found (0.009135s, 109.469/s).
+[Tue Jul  9 00:41:57 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_2.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] 404 Not Found (0.009712s, 102.965/s).
+[Tue Jul  9 00:41:57 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_1.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] 404 Not Found (0.009146s, 109.337/s).
+[Tue Jul  9 00:41:57 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_4.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:57 2013] [debug] 404 Not Found (0.008461s, 118.189/s).
+[Tue Jul  9 00:41:57 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:57 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached template views/photogallery.html.ep.
+[Tue Jul  9 00:41:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Jul  9 00:41:57 2013] [debug] 200 OK (0.003095s, 323.102/s).
+[Tue Jul  9 00:41:58 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_3.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:58 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:58 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:58 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:58 2013] [debug] 404 Not Found (0.012175s, 82.136/s).
+[Tue Jul  9 00:41:58 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_5.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:58 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:58 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:58 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:58 2013] [debug] 404 Not Found (0.008300s, 120.482/s).
+[Tue Jul  9 00:41:58 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_4.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:58 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:58 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:58 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:58 2013] [debug] 404 Not Found (0.008234s, 121.448/s).
+[Tue Jul  9 00:41:58 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_1.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:58 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:58 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:58 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:58 2013] [debug] 404 Not Found (0.010668s, 93.738/s).
+[Tue Jul  9 00:41:58 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_2.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:41:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:41:58 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:41:58 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:58 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:41:58 2013] [debug] 404 Not Found (0.014628s, 68.362/s).
+[Tue Jul  9 00:44:33 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:44:41 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:44:41 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:44:41 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:44:41 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:44:41 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:44:41 2013] [debug] 200 OK (0.029994s, 33.340/s).
+[Tue Jul  9 00:44:41 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_3.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:44:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:44:41 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:44:41 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:44:41 2013] [debug] Rendering inline template.
+[Tue Jul  9 00:44:41 2013] [debug] 404 Not Found (0.027088s, 36.917/s).
+[Tue Jul  9 00:44:41 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_5.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:44:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:44:41 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:44:41 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:44:41 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:44:41 2013] [debug] 404 Not Found (0.008785s, 113.830/s).
+[Tue Jul  9 00:44:41 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_2.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:44:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:44:41 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:44:41 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:44:41 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:44:41 2013] [debug] 404 Not Found (0.011251s, 88.881/s).
+[Tue Jul  9 00:44:41 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_1.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:44:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:44:41 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:44:41 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:44:41 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:44:41 2013] [debug] 404 Not Found (0.009138s, 109.433/s).
+[Tue Jul  9 00:44:41 2013] [debug] GET /assets/img/photo_gallery/renewable_pg_4.png.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:44:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jul  9 00:44:41 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jul  9 00:44:41 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:44:41 2013] [debug] Rendering cached inline template.
+[Tue Jul  9 00:44:41 2013] [debug] 404 Not Found (0.008564s, 116.768/s).
+[Tue Jul  9 00:46:35 2013] [info] Listening at "http://*:3000".
+[Tue Jul  9 00:46:38 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jul  9 00:46:38 2013] [debug] GET /photogallery (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Safari/537.22).
+[Tue Jul  9 00:46:38 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Tue Jul  9 00:46:38 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Tue Jul  9 00:46:38 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jul  9 00:46:38 2013] [debug] 200 OK (0.026370s, 37.922/s).
