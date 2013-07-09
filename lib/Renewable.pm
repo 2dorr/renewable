@@ -9,11 +9,24 @@ sub startup {
   # Documentation browser under "/perldoc"
   $self->plugin('PODRenderer');
 
+  #setup config file
+  $self->plugin( 'config' );
+  
+  # set-up db connection
+  has schema => sub {
+    return Models::Schema->connect(
+          $self->{config}->{database}->{dsn},
+          $self->{config}->{database}->{user},
+          $self->{config}->{password}
+    );
+  };
+  
   # Router
   my $r = $self->routes;
 
   # Normal route to controller
   $r->namespaces(['Renewable::Controllers']);
+  $r->route('/')->to( 'home#welcome' );
   $r->route('/home')->to( 'home#welcome' );
   $r->route('/signup')->to( 'signup#add' );
   $r->route('/activity')->to( 'activity#index' );
