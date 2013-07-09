@@ -1,0 +1,17 @@
+Solve MySQL connection to localhost issue
+
+To restore it:
+
+Stop mysqld deamons.
+$ sudo service mysql stop
+Go  to  mysql/bin directory
+$ cd /usr/bin
+Start a mysql deamon with this option:
+$ sudo mysqld_safe --skip-grant-tables
+Open another terminal and open a mysql session to execute this:
+$ mysql
+mysql> use mysql;
+mysql> UPDATE user SET password=PASSWORD('YOUR_NEW_PASSWORD_HERE') WHERE user = 'root';
+mysql> exit;
+Now kill the mysqld_safe process and restart mysqld normally:
+$ sudo service mysql start

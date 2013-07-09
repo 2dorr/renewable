@@ -24,248 +24,27 @@
       <div class="span3 bs-docs-sidebar">
         <div class="nav nav-list bs-docs-sidenav affix-top">
             <ul id="sidebar" class="nav nav-list">
-              <li class="active"><a href="#articles"><i class="icon-chevron-right"></i> Articole</a></li>
-              <li class=""><a href="#ci_res"><i class="icon-chevron-right"></i> Contracte internaţionale-responsabil</a></li>
-              <li class=""><a href="#cn_dir"><i class="icon-chevron-right"></i> Contracte naţionale-director</a></li>
-              <li class=""><a href="#ci_mem"><i class="icon-chevron-right"></i> Contracte internaţionale-membru</a></li>
-              <li class=""><a href="#cn_mem"><i class="icon-chevron-right"></i> Contracte naţionale-membru</a></li>
-              <li class=""><a href="#br_inv"><i class="icon-chevron-right"></i> Brevete de inventie</a></li>
+            %foreach my $article_type( sort { $a cmp $b } keys %{ $response_data } ) {
+                %my ( $id, $name ) = split /\_/, $article_type; 
+                <li class="active"><a href="#<%= $id%>a"><i class="icon-chevron-right"></i> <%= $name%></a></li>
+            %}
             </ul>
         </div>
       </div>
       <div class="span9" style="margin-top:30px;">
-        <section id="articles">
-            <div class="page-header">
-                <h4>Articole</h4>
-            </div>
-                <p>
-                    M. Munteanu, C. Rusu, L. Vladareanu, D. Petreus, V. Rusu, and M. Dobra, EKG Analysis Using STFT Phase,
-                    Meditech 2009, IFMBE Proceeding 26, pp.231-234, 2009, www.sprigerlink.com
-                </p>
-                <p>
-                    Cadar, D.; Petreus, D.; Ciocan, I.; Dobra, P, An improvement on empirical modelling of the batteries,
-                    32nd International Spring Seminar on Electronics Technology, 2009, 13-17 May 2009, ISSN 978-1-42444260-7
-                </p>
-                <p>
-                    Rusu, A.; Petreus, D.; Ciocan, I.; Moga, D., A quasi real time simulator for Maximum Power Point
-                    Tracking algorithms, 32nd International Spring Seminar on Electronics Technology, 2009, 13-17 May 2009,
-                    ISSN 978-1-42444260-7
-                </p>
-                <p>
-                    Grama, A.; Petreus, D.; Borza, P.; Grama, L., Experimental determination of Equivalent Series Resistance
-                    of a supercapacitor, 32nd International Spring Seminar on Electronics Technology, 2009, 13-17 May 2009,
-                    ISSN 978-1-42444260-7
-                </p>
-                <p>
-                    Lungu, S.; Grama, A.; Petreus, D.; Taut, A., Simulation and design of a Class E power amplifier,
-                    32nd International Spring Seminar on Electronics Technology, 2009, 13-17 May 2009, ISSN 978-1-42444260-7
-                </p>
-                <p>
-                    C. Fărcaş, D. Petreuş, N. Palaghiţă and I. Ciocan, Modeling and Simulation of Supercapacitors,
-                    SIITME 2009 – International Symposium for Design and Technology of Electronic Packages, 15th Edition,
-                    17-20 September 2009, Gyula, Hungary, 978-1-4244-50330309 ©2009 IEEE, pp. 195-200.
-                </p>
-                <p>
-                    R.Arsinte, D. Petreus, Comparative Behavior of Bipolar and MOSFET Transistors Used in Power Stages
-                    of a Controlled Current Amplifier, SIITME 2009 – International Symposium for Design and Technology
-                    of Electronic Packages, 15th Edition, 17-20 September 2009, Gyula, Hungary, 978-1-4244-50330309 ©2009
-                    IEEE, pp. 245-249.
-                </p>
-                <p>
-                    Dorin V. Cadar, Dorin M. Petreuş, Cristian A. Orian, A Method of Determining a Lithium-ion Battery’s
-                    State of Charge, SIITME 2009 – International Symposium for Design and Technology of Electronic Packages,
-                    15th Edition, 17-20 September 2009, Gyula, Hungary, 978-1-4244-50330309 ©2009 IEEE, pp. 257-260.
-                </p>
-                <p>
-                    Dorin Petreus, E. Plaian, and A. Grama, Plasma Generator Designed with Class E Power Amplifier,
-                    SIITME 2009 – International Symposium for Design and Technology of Electronic Packages,
-                    15th Edition, 17-20 September 2009, Gyula, Hungary, 978-1-4244-50330309 ©2009 IEEE, pp. 261-265.
-                </p>
-                <p>
-                    Adina Rusu, D. Petreuş, and T. Pătărău, Power Management Application using Small Solar Panels,
-                    SIITME 2009 – International Symposium for Design and Technology of Electronic Packages,
-                    15th Edition, 17-20 September 2009, Gyula, Hungary, 978-1-4244-50330309 ©2009 IEEE, pp. 271-276.
-                </p>
-                <p>
-                    C. Fărcaş, N. Palaghiţă, D. Petreuş and O. Pop, Virtual Laboratory of Materials for Electronics,
-                    SIITME 2009 – International Symposium for Design and Technology of Electronic Packages, 15th Edition,
-                    17-20 September 2009, Gyula, Hungary, 978-1-4244-50330309 ©2009 IEEE, pp. 455-458.
-                </p>
-                <p>
-                    Grama, A.; Grama, L.; Petreus, D.; Rusu, C.; Supercapacitor modelling using experimental measurements,
-                    International Symposium on Signals, Circuits and Systems, 2009 - ISSCS 2009.  , 9-10 July 2009 pp: 565-568
-                    ,IEEE Catalog Number: CFP09816-PRT, ISBN 978-1-4244-3784-9.
-                </p>
-        </section>
-        
-        <section id="ci_res">
-            <div class="page-header">
-                <h4>Contracte internaţionale - responsabil</h4>
-            </div>
-                <p>
-                    Methods and techniques for water flow measurements – contract  cu Analog Devices, Irlanda, 2002,
-                    cu prelungire 2003.val 6000EUR
-                </p>
-                <p>
-                    Optimierung von Bauelementen bei Solar-Umrichter (Optimizarea pierderilor într-un invertor solar),
-                    încheiat între UTCN şi Siemens AG Osterreich (Austria), prin filiala din Sibiu SC SIMEA Sibiu SRL
-                    (nr. 53/17.04.2007), 6000 EUR + TVA.
-                </p>
-                <p>
-                    Optimierungen an Schaltungen fur Stromversorgungen (Optimizări la circuitele pentru surse de current
-                    încheiat între UTCN şi Siemens AG Osterreich (Austria), prin filiala din Sibiu SC SIMEA Sibiu SRL
-                    (nr. 53/17.04.2007), Act aditional nr. 20703/29.06.2008, 15000 RON+TVA
-                </p>
-        </section>
-        
-        <section id="cn_dir">
-            <div class="page-header">
-                <h4>Contracte naţionale - director</h4>
-            </div>
-                <p>
-                    Sistem inteligent de încărcare a bateriilor bazat pe algoritmi optimizaţi pentru transferal maxim
-                    de putere de la instalaţiile solare de alimentare, Contract nr.79/1.10.2007, Program Idei,
-                    valoare 233000lei(RON) - Competie
-                </p>
-                <p>
-                    Echipament optoelectronic si metoda inovativa de inalta precizie si sensibilitate bazate pe
-                    spectrometrie neconventionala de fluorescenta destinate testarii si controlului unor factori de
-                    mediu- (Fluorospec)- Contract nr. 71019/2007 (Program parteneriate-Director din partea UTCN)-valoare
-                    UTCN 400000 lei (RON)- Competitie
-                </p>
-                <p>
-                    Proiectarea, realizarea şi punerea în funcţiune a unui sistem pentru transmiterea la distanţă a datelor,
-                    încheiat între UTCN şi Frosys (partener Siemens), (nr. 109/17.11.2006) suma 1000 EUR + TVA
-                </p>
-                <p>
-                    Contract de colaborare încheiat între UTCN şi Vitacom Electronics SRL împreună cu Microchip Tehnology,
-                    (nr. 5989/27.11.2006) (5400USD).
-                </p>
-                <p>
-                    Instrument virtual pentru diagnosticarea vibraţiilor din turbine, Director contract: Dorin Petreuş,
-                    contract de cercetare tip A nr. 33385/2004, nr. temă A30, cod CNCSIS 910, valoare 200.000.000 lei.
-                    Membri: Lungu Ş, Pitică D., Palaghiţă N., Fărcaş C., Mureşan M.
-                </p>
-                <p>
-                    Sistem de măsură, vizualizare şi diagnosticare a vibraţiilor pentru turbine, contract de cercetare
-                    tip AT nr. 34970/2001, nr. temă 7, cod CNCSIS 234, valoare 50.000.000 lei. continuat în 2002 .
-                </p>
-                <p>
-                    Instrument virtual de analiza a calităţii puterii absorbite - contract de cercetare tip T nr. 5217/1999,
-                    nr. temă B11 (ANSTI), valoare 15.000.000 lei şi continuat în 2000, tema nr. A10, valoare 38.000.000 lei.
-                </p>
-        </section>
- 
-        <section id="ci_mem">
-            <div class="page-header">
-                <h4 id="ci_mem">Contracte internaţionale - membru</h4>
-            </div>
-                <p>
-                    Programul COST -542-190309-05216- Lisabona, Portugalia- Tehnologia Supercapacitoarelor
-                </p>
-                <p>
-                    Research on Test Compression and LBIST, Contract de cercetare  nr.23800/21.12.2005 UTCN-Philips
-                    Semiconductors, 2005-2007,  în valoare încasată de 10.000 EURO pe anul 2006 Director contract Daniel Moga
-                </p>
-                <p>
-                    Contract cercetare dezvoltare Tetraco International Holland -Universitatea Tehnica Cluj,
-                    nr.1595/31.01.2005 Director: A. Vlaicu, responsabil grup de lucru: D.Petreus
-                </p>
-                <p>
-                    Consultancy in the field of analogue and digital electronics, telecommunications, information
-                    technologies and software engineering – contract cu Tetraco International, Olanda.
-                    Membru in colectiv (Director contract Aurel Vlaicu).
-                </p>
-                <p>
-                    P15. Studiul si optimizarea proprietatilor magnetice a substantelor metalice, fabricarea de filme
-                    groase ceramice si supraconductoare prin metode chimice, Contractul nr. 98/32/LEHNO/88/1999 cu ENEA
-                    (Italia); valoare 180.000.000 lire it. (responsabil contract: conf.dr.ing. Traian Petrişor)
-                </p>
-                <p>
-                    Dezvoltarea prin doctorat si studii aprofundate a domeniului compatibilităţii electromagnetice in
-                    conformitate cu exigenţele comunităţii europene, contract de tip D cu CNCSU, 60.000 USD,
-                    1998-2001 (responsabil contract prof. dr. ing, Şerban Lungu).
-                </p>
-        </section>
- 
-        <section id="cn_mem">
-            <div class="page-header">
-                <h4>Contracte naţionale - membru</h4>
-            </div>
-                <p>
-                    Programul ELAN -Proiect cofinanţat din Fondul Social European prin
-                </p>
-                <p>
-                    Programul Operaţional Sectorial Dezvoltarea Resurselor Umane 2007-2013 –CETTI -UPB
-                </p>
-                <p>
-                    Sisteme electrice optimizate energetic pentru trasportul terestru utilizând baterii şi
-                    super-condensatori “Trans-supercap” contract 21-018/14.09.2007 membru colectiv UTCN
-                    (valoare UTCN-360000 lei(RON)) - competitie
-                </p>
-                <p>
-                    Sistem de control şi monitorizare la distanţă a clădirilor inteligente ;CEEX – INFOSOC
-                    60/2006 – COMODICI-director A.Vlaicu(1125000 RON)- competitie
-                </p>
-                <p>
-                    Studiul metodelor de control a temperaturii şi a umidităţii într-o incintă,
-                    contract de cercetare nr. 61/2005, încheiat cu S.C. TehCom S.R.L., valoare 11.900.000 lei.
-                    Membru in colectiv.
-                </p>
-                <p>
-                    Fiabilizare sistem de monitorizare semnalizari/protecţii şi telecomenzi şi realizare echipamente
-                    specifice, contract 894-2000, beneficiar S.C. ELECTRICA Zalău, 210.000 mii lei,
-                    2000 ( responsabil conf. dr. ing. Pitică Dan).
-                </p>
-                <p>
-                    Studiu de fezabilitate privind sistemul informatic la SDE Zalau, contract 1134-2000, beneficiar
-                    S.C. ELECTRICA Zalău, 33.500 mii lei, 2000 ( responsabil conf. dr. ing. Pitică Dan).
-                </p>
-                <p>
-                    Sisteme inteligente de monitorizare şi control a  încărcării acumulatorilor, utilizând ca
-                    sursă primară de energie, energia solară,., contract de cercetare tip C nr. 6113/2000,
-                    nr. temă B11 cod valoare 20.000.000 lei ( responsabil contract prof.dr. ing. Miron Costin).- competitie
-                </p>
-                <p>
-                    Cercetari privind compatibilitatea electromagnetică în reteaua electrică de joasa tensiune
-                    / Research Concerning Electromagnetic Compatibility in Low Voltage Electrical Network.,
-                    contract tip A nr. 33830/1999, tema nr. 69, cod CNCSIS 651 (CNCSIS – MEN),
-                    valoare 70.000.000 lei şi continuat în 2000, tema nr. 5, cod CNCSIS 641,
-                    valoare 45.000.000 lei (responsabil contract conf. dr. ing. Pitică Dan).
-                </p>
-                <p>
-                    Algoritmi genetici pentru controlul robust cu aplicatii în surse în comutatie /
-                    Genetics Algorithms. Applications in Power Supply Circuits, contract tip A nr.
-                    33830/1999, tema 21, 1999, cod CNCSIS 652 (CNCSIS – MEN), valoare 60.000.000 lei
-                    şi continuat în 2000, tema nr. 42, cod CNCSIS 619, valoare 45.000.000 lei.
-                    ( responsabil prof. dr.ing. Lungu Serban). competitie
-                </p>
-                <p>
-                    Sistem de monitorizare semnalizări, protecţii şi telecomenzi, contract 110-1999, beneficiar
-                    S.C. ELECTRICA Zalău, 175.000 mii lei, 1999 (responsabil conf. dr. ing. Pitică Dan).
-                </p>
-                <p>
-                    Sisteme flexibile pentru monitorizarea şi analiza calităţii mediului, contract tip C cu CNCSU,
-                    60.000 USD, 1999-2002 (responsabil contract prof. dr. ing, Şerban Lungu)
-                </p>
-                <p>
-                    Modernizare, măsură şi telesemnalizări plecări din staţia Zalău, cu legătură a DEJ Sălaj,
-                    contract 71-1998, beneficiar S.C. ELECTRICA Zalău, 525.000 mii lei, 1998 (responsabil conf.
-                    dr. ing. Pitică Dan).
-                </p>
-        </section>
-        
-        <section id="br_inv">
-            <div class="page-header">
-                <h4>Brevete de invenţie</h4>
-            </div>
-                <p>
-                    Medalia de aur la Salonul de Inventica(Eureka) Bruxel 2007, pentru lucrarea: „System for monotoring
-                    the progressive loading of lower limb in post-traumatic rehabilitation”.
-                    Aceeasi lucrare a obtinut medalii de aur la mai multe saloane de inventica:Geneva, Agepi,
-                    Inventika Bucureşti 2008, Polonia 2007 etc.
-                </p>
-        </section>
+        %foreach my $article_type( sort { $a cmp $b } keys %{ $response_data } ) {
+            %my ( $id, $name ) = split /\_/, $article_type; 
+            <section id="<%= $id%>a">
+                <div class="page-header">
+                    <h4><%= $name%></h4>
+                </div>
+                %foreach my $article ( @{ $response_data->{$article_type} } ) {
+                    <p>
+                       <%= $article%>
+                    </p>
+                %}
+            </section>
+        %}  
       </div>
 </div>
 
