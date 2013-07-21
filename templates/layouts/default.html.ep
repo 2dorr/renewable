@@ -24,10 +24,10 @@
               <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/activity"><span itemprop="name">Activity</span></a></li>
               <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/photogallery"><span itemprop="name">Photo Gallery</span></a></li>
               <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/contact"><span itemprop="name">Contact</span></a></li>
-              <li class="separate-login" itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url">
+<!--              <li class="separate-login" itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url">
                     <a itemprop="url" href="/login"><span itemprop="name">Login</span></a>
                     <a itemprop="url" href="/signup"><span itemprop="name">Sign Up</span></a>
-              </li>
+              </li>-->
             </ul>
           </div>
           </div>

@@ -17,7 +17,7 @@ sub startup {
     return Models::Schema->connect(
           $self->{config}->{database}->{dsn},
           $self->{config}->{database}->{user},
-          $self->{config}->{password}
+          $self->{config}->{database}->{password},
     );
   };
   

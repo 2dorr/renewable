@@ -10,7 +10,7 @@ sub index {
   my @articles = $self->app->schema->resultset('Article')->all;
  
   my $response_data = {};
-  push @{ $response_data->{$_->type->id.'_'.encode( 'iso-8859-1', $_->type->type_name) } }, encode( 'iso-8859-1',$_->text ) foreach ( @articles );
+  push @{ $response_data->{$_->type->id.'_'.decode( 'UTF-8', $_->type->type_name) } }, decode( 'UTF-8',$_->text ) foreach ( @articles );
  
  
  use Data::Dumper;

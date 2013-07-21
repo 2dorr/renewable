@@ -13,6 +13,6 @@ make_schema_at(
     [
      'dbi:mysql:Renewable_Energy_Lab:localhost',
      'root',
-     '',
+     'tudor',
     ],
 );
