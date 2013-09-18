@@ -35135,3 +35135,226 @@ BEGIN failed--compilation aborted at template views/photogallery.html.ep line 5.
 [Mon Sep 16 17:47:33 2013] [debug] Rendering template "views/activity.html.ep".
 [Mon Sep 16 17:47:33 2013] [debug] Rendering template "layouts/default.html.ep".
 [Mon Sep 16 17:47:33 2013] [debug] 200 OK (0.226412s, 4.417/s).
+[Wed Sep 18 22:44:47 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:44:47 2013] [info] Listening at "http://*:3000".
+[Wed Sep 18 22:45:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 22:45:01 2013] [debug] GET "/".
+[Wed Sep 18 22:45:01 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 22:45:01 2013] [debug] Rendering template "views/home.html.ep".
+[Wed Sep 18 22:45:01 2013] [error] Global symbol "$carousel_phtos" requires explicit package name at template views/home.html.ep line 14.
+Global symbol "$carousel_phtos" requires explicit package name at template views/home.html.ep line 21.
+16: % $index++;  
+17: % }
+18:   </ol>
+19:   <!-- Carousel items -->
+20:   <div class="carousel-inner">
+21: % foreach my $carousel_photo ( @{$carousel_phtos} ) {
+22:     <div class="item"><img src="/assets/img/carousel/<%= $carousel_photo%>" alt="Image1"></div>
+23: % }
+24:   </div>
+25:   <!-- Carousel nav -->
+26:   <a class="carousel-control left" href="#carousel" data-slide="prev">&lsaquo;</a>
+
+[Wed Sep 18 22:45:01 2013] [debug] Template "exception.development.html.ep" not found.
+[Wed Sep 18 22:45:01 2013] [debug] Template "exception.html.ep" not found.
+[Wed Sep 18 22:45:01 2013] [debug] Rendering inline template.
+[Wed Sep 18 22:45:01 2013] [debug] Rendering inline template.
+[Wed Sep 18 22:45:01 2013] [debug] 500 Internal Server Error (0.156271s, 6.399/s).
+[Wed Sep 18 22:45:11 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:45:14 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:45:16 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:45:17 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 22:45:17 2013] [debug] GET "/".
+[Wed Sep 18 22:45:17 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 22:45:17 2013] [debug] Rendering template "views/home.html.ep".
+[Wed Sep 18 22:45:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 22:45:17 2013] [debug] 200 OK (0.033387s, 29.952/s).
+[Wed Sep 18 22:45:41 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:45:47 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:45:49 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:45:57 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:45:58 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:45:59 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:46:03 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:46:08 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:46:11 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:46:18 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:46:21 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:46:24 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:46:32 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:46:34 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:46:41 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:46:42 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:46:47 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:47:08 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:47:11 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:47:20 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:47:25 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:47:31 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:47:32 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:47:39 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:47:41 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:47:44 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:47:51 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:47:57 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:02 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:04 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:13 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:14 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:19 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:22 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:24 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:25 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:28 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:30 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:34 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:39 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:41 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:46 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:49 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:51 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:53 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:48:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 22:48:57 2013] [debug] GET "/".
+[Wed Sep 18 22:48:57 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 22:48:57 2013] [debug] Rendering template "views/home.html.ep".
+[Wed Sep 18 22:48:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 22:48:57 2013] [debug] 200 OK (0.036018s, 27.764/s).
+[Wed Sep 18 22:48:57 2013] [debug] GET "/assets/img/avr_logo.png".
+[Wed Sep 18 22:48:57 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 22:48:57 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 22:48:57 2013] [debug] Rendering inline template.
+[Wed Sep 18 22:48:57 2013] [debug] Rendering inline template.
+[Wed Sep 18 22:48:57 2013] [debug] 404 Not Found (0.020159s, 49.606/s).
+[Wed Sep 18 22:48:58 2013] [debug] GET "/".
+[Wed Sep 18 22:48:58 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 22:48:58 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 22:48:58 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 22:48:58 2013] [debug] 200 OK (0.002484s, 402.576/s).
+[Wed Sep 18 22:48:58 2013] [debug] GET "/assets/img/avr_logo.png".
+[Wed Sep 18 22:48:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 22:48:58 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 22:48:58 2013] [debug] Rendering cached inline template.
+[Wed Sep 18 22:48:58 2013] [debug] Rendering cached inline template.
+[Wed Sep 18 22:48:58 2013] [debug] 404 Not Found (0.008130s, 123.001/s).
+[Wed Sep 18 22:48:59 2013] [debug] GET "/".
+[Wed Sep 18 22:48:59 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 22:48:59 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 22:48:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 22:48:59 2013] [debug] 200 OK (0.004108s, 243.427/s).
+[Wed Sep 18 22:48:59 2013] [debug] GET "/assets/img/avr_logo.png".
+[Wed Sep 18 22:48:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 22:48:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 22:48:59 2013] [debug] Rendering cached inline template.
+[Wed Sep 18 22:48:59 2013] [debug] Rendering cached inline template.
+[Wed Sep 18 22:48:59 2013] [debug] 404 Not Found (0.009828s, 101.750/s).
+[Wed Sep 18 22:48:59 2013] [debug] GET "/".
+[Wed Sep 18 22:48:59 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 22:48:59 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 22:48:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 22:48:59 2013] [debug] 200 OK (0.003079s, 324.781/s).
+[Wed Sep 18 22:48:59 2013] [debug] GET "/assets/img/avr_logo.png".
+[Wed Sep 18 22:48:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 22:48:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 22:48:59 2013] [debug] Rendering cached inline template.
+[Wed Sep 18 22:48:59 2013] [debug] Rendering cached inline template.
+[Wed Sep 18 22:48:59 2013] [debug] 404 Not Found (0.008232s, 121.477/s).
+[Wed Sep 18 22:49:45 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:49:46 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:49:49 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:50:01 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:50:02 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:50:03 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:50:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 22:50:07 2013] [debug] GET "/".
+[Wed Sep 18 22:50:07 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 22:50:07 2013] [debug] Rendering template "views/home.html.ep".
+[Wed Sep 18 22:50:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 22:50:07 2013] [debug] 200 OK (0.033440s, 29.904/s).
+[Wed Sep 18 22:50:07 2013] [debug] GET "/assets/img/avr_logo.png".
+[Wed Sep 18 22:50:07 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 22:50:07 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 22:50:07 2013] [debug] Rendering inline template.
+[Wed Sep 18 22:50:07 2013] [debug] Rendering inline template.
+[Wed Sep 18 22:50:07 2013] [debug] 404 Not Found (0.023432s, 42.677/s).
+[Wed Sep 18 22:51:23 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:51:35 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:51:37 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:51:42 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:51:44 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:51:46 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:05 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:09 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:11 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:12 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:17 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:20 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:25 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:30 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:35 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:39 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:43 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:44 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:49 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:52:51 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:53:58 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:53:59 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:54:13 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:54:16 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:54:18 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:54:20 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:54:22 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:54:29 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:54:30 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:55:25 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:55:34 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:55:35 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:55:36 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:55:39 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:55:44 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:55:50 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:55:54 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:55:56 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:00 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:04 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:07 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:10 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:13 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:16 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:20 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:22 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:32 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:33 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:36 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:37 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:40 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:44 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:46 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:53 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:56:58 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 22:56:58 2013] [debug] GET "/".
+[Wed Sep 18 22:56:58 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 22:56:58 2013] [debug] Rendering template "views/home.html.ep".
+[Wed Sep 18 22:56:58 2013] [error] Global symbol "$logo_phto" requires explicit package name at template views/home.html.ep line 81.
+76: 	<img src="/assets/img/new_partners.png"/>
+77: </div>
+78: <div class="pull-left" style="margin-left:20px;">
+79:     <h4>Parteneri</h4>
+80: %   foreach my $logo_photo ( @{ $logo_photos } ) {
+81: 	<div><img src="/assets/img/partner_logos/<%= $logo_phto%>"/></div>
+82: %   }
+83: </div>
+
+[Wed Sep 18 22:56:58 2013] [debug] Template "exception.development.html.ep" not found.
+[Wed Sep 18 22:56:58 2013] [debug] Template "exception.html.ep" not found.
+[Wed Sep 18 22:56:58 2013] [debug] Rendering inline template.
+[Wed Sep 18 22:56:58 2013] [debug] Rendering inline template.
+[Wed Sep 18 22:56:58 2013] [debug] 500 Internal Server Error (0.058240s, 17.170/s).
+[Wed Sep 18 22:57:09 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:57:10 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 22:57:12 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 22:57:12 2013] [debug] GET "/".
+[Wed Sep 18 22:57:12 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 22:57:12 2013] [debug] Rendering template "views/home.html.ep".
+[Wed Sep 18 22:57:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 22:57:12 2013] [debug] 200 OK (0.032368s, 30.895/s).

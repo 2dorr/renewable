@@ -7,7 +7,7 @@ sub index {
   my $dir = "/home/tudor/projects/renewable/public/assets/img/photo_gallery";
   
   opendir DIR, $dir or die "cannot open dir $dir: $!";
-  my @photo_files = readdir DIR; 
+      my @photo_files = readdir DIR; 
   closedir DIR;
   
   @photo_files = grep { ( $_ ne '.' ) and ( $_ ne '..' ) } @photo_files;
