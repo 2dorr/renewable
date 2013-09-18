@@ -18,6 +18,10 @@ sub startup {
           $self->{config}->{database}->{dsn},
           $self->{config}->{database}->{user},
           $self->{config}->{database}->{password},
+          {
+            quote_names => 1,
+            mysql_enable_utf8 => 1,
+          },
     );
   };
   

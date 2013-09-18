@@ -10,11 +10,8 @@ sub index {
   my @articles = $self->app->schema->resultset('Article')->all;
  
   my $response_data = {};
-  push @{ $response_data->{$_->type->id.'_'.decode( 'UTF-8', $_->type->type_name) } }, decode( 'UTF-8',$_->text ) foreach ( @articles );
+  push @{ $response_data->{$_->type->id.'_'.$_->type->type_name} }, $_->text foreach ( @articles );
  
- 
- use Data::Dumper;
- warn Dumper($response_data);
   $self->render(
       response_data => $response_data,
       template => 'views/activity'
