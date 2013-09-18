@@ -7,16 +7,16 @@
         padding-left: 20px;
     }
 </style>
-<h3>Activitati principale</h3>
+<h3>Activităţi principale</h3>
 
 <div id="notes">
     <span class="label label-success">Energii regenerabile</span>
-    <span class="label label-warning">Electronica de putere</span>
+    <span class="label label-warning">Electronică de putere</span>
     <span class="label label-important">Surse de alimentare</span>
     <span class="label label-inverse">Sisteme cu microcontrolere</span>
-    <span class="label label-success">Electronica de comanda si reglaj</span>   
-    <span class="label label-warning">Electronica industriala</span>
-    <span class="label label-important">Materiale pentru electronica</span>
+    <span class="label label-success">Electronică de comandă şi reglaj</span>   
+    <span class="label label-warning">Electronică industrială</span>
+    <span class="label label-important">Materiale pentru electronică</span>
 </div>
 
 

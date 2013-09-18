@@ -13,17 +13,17 @@
 
 </div>
 <div class="pull-left" style="margin-left:30px;">
-    <h5 style="border-bottom: 1px solid rgb(162, 220, 231);">Adresa principala</h5>
-    <p><small>Universitatea Tehnica Cluj-Napoca</small></p>
+    <h5 style="border-bottom: 1px solid rgb(162, 220, 231);">Adresa principală</h5>
+    <p><small>Universitatea Tehnică Cluj-Napoca</small></p>
     <!--<p><small>Facultatea de Electronica, Telecomunicatii si Tehnologia Informatiei</small></p>-->
     <p><small>Str. George Baritiu nr. 26-28</small></p>
-    <p><small>400027 Cluj-Napoca, Romania</small></p>
+    <p><small>400027 Cluj-Napoca, România</small></p>
     <p><small>Sala 330</small></p>
     <p><small>Telefon: 0264-401415</small></p>
     
     <h5 style="border-bottom: 1px solid rgb(162, 220, 231);">Personal</h5>
     <small>
-        <b>Conducator stiintific</b>
+        <b>Conducător ştiinţific</b>
         <ul>
             <li>dorin.petreus@ael.utcluj.ro</li>
         </ul>

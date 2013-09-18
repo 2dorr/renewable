@@ -43,9 +43,9 @@
 <div class="home-text">
     <h4>Ce facem?</h4>
     <p>
-        Acest laborator de cercetare din cadrul Universitatii Tehnice din Cluj-Napoca
-        se ocupa cu dezvoltarea de proiecte in domeniul electronicii,
-        avand ca centru de interes studiul metodelor alternative de energie.
+        Acest laborator de cercetare din cadrul Universităţii Tehnice din Cluj-Napoca
+        se ocupă cu dezvoltarea de proiecte în domeniul electronicii,
+        având ca centru de interes studiul metodelor alternative de energie.
     </p>
 </div>
 <div class="pull-left">
@@ -53,11 +53,11 @@
 </div>
 <div class="home-text">
     <h4>Cine suntem?</h4>
-    <h5>Conducator stiintific:</h5>
+    <h5>Conducător ştiinţific:</h5>
         <ul>
             <li>prof. dr. ing. Dorin Petreuş</li>
         </ul>
-    <h5>Cercetatori cu experienta:</h5>
+    <h5>Cercetători cu experienţă:</h5>
         <ul>
            <li>conf. dr. ing. Niculaie Palaghiţă</li>
            <li>conf. dr. ing. Cristian Fărcaş</li>
@@ -65,11 +65,11 @@
         </ul>
     <h5>Doctoranzi:</h5>
         <ul>
-           <li>ing. Ionut Ciocan</li>
+           <li>ing. Ionuţ Ciocan</li>
            <li>ing. Adina Rusu</li>
            <li>ing. Toma Pătărău</li>
            <li>ing. Radu Etz</li>
-           <li>ing. Ştefan Daraban</li>
+           <li>ing. Ştefan Dărăban</li>
         </ul>
 </div>
 <div class="pull-left" style="margin-left:20px;">
@@ -81,5 +81,3 @@
 	<div><img src="/assets/img/partner_logos/<%= $logo_photo%>"/></div>
 %   }
 </div>
-
-

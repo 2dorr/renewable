@@ -17,12 +17,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" itemscope="" href="/home">Renewable Energy</a>
+          <a class="brand" itemscope="" href="/home">Energii Regenerabile</a>
           <div class="nav-collapse">
             <ul class="nav nav-pills" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/home"><span itemprop="name">Home</span></a></li>
-              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/activity"><span itemprop="name">Activity</span></a></li>
-              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/photogallery"><span itemprop="name">Photo Gallery</span></a></li>
+              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/home"><span itemprop="name">Acasă</span></a></li>
+              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/activity"><span itemprop="name">Activitate</span></a></li>
+              <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/photogallery"><span itemprop="name">Galerie Foto</span></a></li>
               <li itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url"><a itemprop="url" href="/contact"><span itemprop="name">Contact</span></a></li>
 <!--              <li class="separate-login" itemscope="" itemtype="http://schema.org/SiteNavigationElement/Url">
                     <a itemprop="url" href="/login"><span itemprop="name">Login</span></a>
@@ -45,21 +45,21 @@
 			<div class="container">
 				<div class="row">
 					<div class="span3">
-						<h5>Main Menu</h5>
+						<h5>Meniu</h5>
 						<ul>
-							<li><a href="/home">Home</li>
-							<li><a href="/activity">Activity</a></li>
-							<li><a href="/photo">Photo Gallery</a></li>
+							<li><a href="/home">Acasă</li>
+							<li><a href="/activity">Activitate</a></li>
+							<li><a href="/photo">Galerie Foto</a></li>
 							<li><a href="/contact">Contact</a></li>
 						</ul>
 					</div>
 					<div class="span4">
-						<h5>Connect with us</h5>
+						<h5>Social</h5>
 						<ul>
 							<li>
 								<a href="https://www.facebook.com/ETTI.ClujNapoca">
 									<img src="/assets/img/logo_facebook.png" alt="Facebook Logo" title="Connect with us on facebook"/>
-									<b>Connect with us on</b> facebook
+									<b>Ne puteţi urmări şi pe</b> facebook
 								</a>
 							</li>
 						</ul>

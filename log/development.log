@@ -35398,3 +35398,296 @@ Global symbol "$carousel_phtos" requires explicit package name at template views
 [Wed Sep 18 23:05:16 2013] [debug] Rendering cached template "views/activity.html.ep".
 [Wed Sep 18 23:05:16 2013] [debug] Rendering cached template "layouts/default.html.ep".
 [Wed Sep 18 23:05:16 2013] [debug] 200 OK (0.072038s, 13.882/s).
+[Wed Sep 18 23:09:27 2013] [debug] GET "/activity".
+[Wed Sep 18 23:09:27 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Wed Sep 18 23:09:27 2013] [debug] Rendering cached template "views/activity.html.ep".
+[Wed Sep 18 23:09:27 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:09:27 2013] [debug] 200 OK (0.096288s, 10.386/s).
+[Wed Sep 18 23:09:29 2013] [debug] GET "/activity".
+[Wed Sep 18 23:09:29 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Wed Sep 18 23:09:29 2013] [debug] Rendering cached template "views/activity.html.ep".
+[Wed Sep 18 23:09:29 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:09:29 2013] [debug] 200 OK (0.085223s, 11.734/s).
+[Wed Sep 18 23:09:29 2013] [debug] GET "/assets/img/glyphicons-halflings-white.png".
+[Wed Sep 18 23:09:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 23:09:29 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 23:09:29 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:09:29 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:09:29 2013] [debug] 404 Not Found (0.030488s, 32.800/s).
+[Wed Sep 18 23:17:17 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:17:20 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:17:23 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:17:54 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:18:04 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:18:08 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:18:15 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:18:17 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:18:33 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:18:41 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:18:58 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 23:18:58 2013] [debug] GET "/home".
+[Wed Sep 18 23:18:58 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:18:58 2013] [debug] Rendering template "views/home.html.ep".
+[Wed Sep 18 23:18:58 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:18:58 2013] [debug] 200 OK (0.033552s, 29.804/s).
+[Wed Sep 18 23:19:01 2013] [debug] GET "/home".
+[Wed Sep 18 23:19:01 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:19:01 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:19:01 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:19:01 2013] [debug] 200 OK (0.003213s, 311.236/s).
+[Wed Sep 18 23:19:01 2013] [debug] GET "/home".
+[Wed Sep 18 23:19:01 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:19:01 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:19:01 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:19:01 2013] [debug] 200 OK (0.003073s, 325.415/s).
+[Wed Sep 18 23:19:02 2013] [debug] GET "/home".
+[Wed Sep 18 23:19:02 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:19:02 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:19:02 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:19:02 2013] [debug] 200 OK (0.002872s, 348.189/s).
+[Wed Sep 18 23:19:25 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:19:33 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:19:34 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:19:44 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:19:47 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:19:48 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:19:53 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:20:28 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:20:35 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:20:36 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:20:39 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:20:41 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:20:56 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:20:57 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:21:03 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:21:05 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:21:20 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:21:21 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:21:23 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:21:29 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:21:37 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:21:38 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:21:49 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:21:50 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:22:47 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:22:48 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:22:57 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:23:10 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:23:18 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:23:19 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:23:25 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:23:44 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:23:52 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:24:08 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:24:29 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:24:46 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 23:24:46 2013] [debug] GET "/home".
+[Wed Sep 18 23:24:46 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:24:46 2013] [debug] Rendering template "views/home.html.ep".
+[Wed Sep 18 23:24:46 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:24:46 2013] [debug] 200 OK (0.032560s, 30.713/s).
+[Wed Sep 18 23:26:09 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:26:10 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:26:50 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:26:51 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:26:52 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:29:43 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 23:29:43 2013] [debug] GET "/activity".
+[Wed Sep 18 23:29:43 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Wed Sep 18 23:29:43 2013] [debug] Rendering template "views/activity.html.ep".
+[Wed Sep 18 23:29:43 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:29:43 2013] [debug] 200 OK (0.213707s, 4.679/s).
+[Wed Sep 18 23:29:43 2013] [debug] GET "/assets/img/glyphicons-halflings-white.png".
+[Wed Sep 18 23:29:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 23:29:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 23:29:44 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:29:44 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:29:44 2013] [debug] 404 Not Found (0.028997s, 34.486/s).
+[Wed Sep 18 23:32:00 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:33:10 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 23:33:10 2013] [debug] GET "/assets/img/glyphicons-halflings-white.png".
+[Wed Sep 18 23:33:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 23:33:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 23:33:10 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:33:10 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:33:10 2013] [debug] 404 Not Found (0.023246s, 43.018/s).
+[Wed Sep 18 23:33:14 2013] [debug] GET "/home".
+[Wed Sep 18 23:33:14 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:33:14 2013] [debug] Rendering template "views/home.html.ep".
+[Wed Sep 18 23:33:14 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:33:14 2013] [debug] 200 OK (0.020401s, 49.017/s).
+[Wed Sep 18 23:33:54 2013] [debug] GET "/home".
+[Wed Sep 18 23:33:54 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:33:54 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:33:54 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:33:54 2013] [debug] 200 OK (0.003430s, 291.545/s).
+[Wed Sep 18 23:33:55 2013] [debug] GET "/home".
+[Wed Sep 18 23:33:55 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:33:55 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:33:55 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:33:55 2013] [debug] 200 OK (0.002635s, 379.507/s).
+[Wed Sep 18 23:33:55 2013] [debug] GET "/home".
+[Wed Sep 18 23:33:55 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:33:55 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:33:55 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:33:55 2013] [debug] 200 OK (0.002157s, 463.607/s).
+[Wed Sep 18 23:34:20 2013] [debug] GET "/home".
+[Wed Sep 18 23:34:20 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:34:20 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:34:20 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:34:20 2013] [debug] 200 OK (0.002560s, 390.625/s).
+[Wed Sep 18 23:34:21 2013] [debug] GET "/home".
+[Wed Sep 18 23:34:21 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:34:21 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:34:21 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:34:21 2013] [debug] 200 OK (0.003566s, 280.426/s).
+[Wed Sep 18 23:34:21 2013] [debug] GET "/home".
+[Wed Sep 18 23:34:21 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:34:21 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:34:21 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:34:21 2013] [debug] 200 OK (0.003291s, 303.859/s).
+[Wed Sep 18 23:34:21 2013] [debug] GET "/home".
+[Wed Sep 18 23:34:21 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:34:21 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:34:21 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:34:21 2013] [debug] 200 OK (0.002402s, 416.320/s).
+[Wed Sep 18 23:34:21 2013] [debug] GET "/home".
+[Wed Sep 18 23:34:21 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:34:21 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:34:21 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:34:21 2013] [debug] 200 OK (0.002703s, 369.959/s).
+[Wed Sep 18 23:34:22 2013] [debug] GET "/home".
+[Wed Sep 18 23:34:22 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:34:22 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:34:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:34:22 2013] [debug] 200 OK (0.003211s, 311.429/s).
+[Wed Sep 18 23:34:22 2013] [debug] GET "/home".
+[Wed Sep 18 23:34:22 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:34:22 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:34:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:34:22 2013] [debug] 200 OK (0.003519s, 284.172/s).
+[Wed Sep 18 23:34:22 2013] [debug] GET "/home".
+[Wed Sep 18 23:34:22 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:34:22 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:34:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:34:22 2013] [debug] 200 OK (0.003501s, 285.633/s).
+[Wed Sep 18 23:34:53 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:34:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 23:34:56 2013] [debug] GET "/home".
+[Wed Sep 18 23:34:56 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:34:56 2013] [debug] Rendering template "views/home.html.ep".
+[Wed Sep 18 23:34:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:34:56 2013] [debug] 200 OK (0.034985s, 28.584/s).
+[Wed Sep 18 23:35:36 2013] [debug] GET "/home".
+[Wed Sep 18 23:35:36 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:35:36 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:35:36 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:35:36 2013] [debug] 200 OK (0.002445s, 408.998/s).
+[Wed Sep 18 23:36:09 2013] [debug] GET "/activity".
+[Wed Sep 18 23:36:09 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Wed Sep 18 23:36:09 2013] [debug] Rendering template "views/activity.html.ep".
+[Wed Sep 18 23:36:09 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:36:09 2013] [debug] 200 OK (0.178589s, 5.599/s).
+[Wed Sep 18 23:36:09 2013] [debug] GET "/assets/img/glyphicons-halflings-white.png".
+[Wed Sep 18 23:36:09 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 23:36:09 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 23:36:09 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:36:09 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:36:09 2013] [debug] 404 Not Found (0.023710s, 42.176/s).
+[Wed Sep 18 23:36:41 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:37:10 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:37:16 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:37:18 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:37:21 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:37:24 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:37:28 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:37:58 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:38:08 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:38:23 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:38:24 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:38:25 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:38:30 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:39:00 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:39:04 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:39:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 23:39:08 2013] [debug] GET "/activity".
+[Wed Sep 18 23:39:08 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Wed Sep 18 23:39:08 2013] [debug] Rendering template "views/activity.html.ep".
+[Wed Sep 18 23:39:08 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:39:08 2013] [debug] 200 OK (0.227707s, 4.392/s).
+[Wed Sep 18 23:39:09 2013] [debug] GET "/assets/img/glyphicons-halflings-white.png".
+[Wed Sep 18 23:39:09 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 23:39:09 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 23:39:09 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:39:09 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:39:09 2013] [debug] 404 Not Found (0.029393s, 34.022/s).
+[Wed Sep 18 23:39:17 2013] [debug] GET "/contact".
+[Wed Sep 18 23:39:17 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Wed Sep 18 23:39:17 2013] [debug] Rendering template "views/contact.html.ep".
+[Wed Sep 18 23:39:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:39:17 2013] [debug] 200 OK (0.019533s, 51.195/s).
+[Wed Sep 18 23:39:57 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:40:22 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:40:38 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:41:07 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:42:25 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:42:55 2013] [debug] Reading config file "/home/tudor/projects/renewable/renewable.conf".
+[Wed Sep 18 23:43:02 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Sep 18 23:43:02 2013] [debug] GET "/home".
+[Wed Sep 18 23:43:02 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:43:02 2013] [debug] Rendering template "views/home.html.ep".
+[Wed Sep 18 23:43:02 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:43:02 2013] [debug] 200 OK (0.035375s, 28.269/s).
+[Wed Sep 18 23:43:04 2013] [debug] GET "/home".
+[Wed Sep 18 23:43:04 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:43:04 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:43:04 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:43:04 2013] [debug] 200 OK (0.002125s, 470.588/s).
+[Wed Sep 18 23:43:27 2013] [debug] GET "/activity".
+[Wed Sep 18 23:43:27 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Wed Sep 18 23:43:27 2013] [debug] Rendering template "views/activity.html.ep".
+[Wed Sep 18 23:43:27 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:43:27 2013] [debug] 200 OK (0.210754s, 4.745/s).
+[Wed Sep 18 23:43:27 2013] [debug] GET "/assets/img/glyphicons-halflings-white.png".
+[Wed Sep 18 23:43:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 23:43:27 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 23:43:27 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:43:27 2013] [debug] Rendering inline template.
+[Wed Sep 18 23:43:27 2013] [debug] 404 Not Found (0.026914s, 37.155/s).
+[Wed Sep 18 23:43:37 2013] [debug] GET "/assets/img/glyphicons-halflings-white.png".
+[Wed Sep 18 23:43:37 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 23:43:37 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 23:43:37 2013] [debug] Rendering cached inline template.
+[Wed Sep 18 23:43:37 2013] [debug] Rendering cached inline template.
+[Wed Sep 18 23:43:37 2013] [debug] 404 Not Found (0.013583s, 73.621/s).
+[Wed Sep 18 23:43:58 2013] [debug] GET "/photogallery".
+[Wed Sep 18 23:43:58 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Wed Sep 18 23:43:58 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Wed Sep 18 23:43:58 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:43:58 2013] [debug] 200 OK (0.021012s, 47.592/s).
+[Wed Sep 18 23:44:07 2013] [debug] GET "/photogallery".
+[Wed Sep 18 23:44:07 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Wed Sep 18 23:44:07 2013] [debug] Rendering cached template "views/photogallery.html.ep".
+[Wed Sep 18 23:44:07 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:44:07 2013] [debug] 200 OK (0.002991s, 334.336/s).
+[Wed Sep 18 23:44:08 2013] [debug] GET "/activity".
+[Wed Sep 18 23:44:08 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Wed Sep 18 23:44:08 2013] [debug] Rendering cached template "views/activity.html.ep".
+[Wed Sep 18 23:44:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:44:08 2013] [debug] 200 OK (0.084882s, 11.781/s).
+[Wed Sep 18 23:44:08 2013] [debug] GET "/assets/img/glyphicons-halflings-white.png".
+[Wed Sep 18 23:44:08 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Sep 18 23:44:08 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Sep 18 23:44:08 2013] [debug] Rendering cached inline template.
+[Wed Sep 18 23:44:08 2013] [debug] Rendering cached inline template.
+[Wed Sep 18 23:44:08 2013] [debug] 404 Not Found (0.008160s, 122.549/s).
+[Wed Sep 18 23:44:14 2013] [debug] GET "/contact".
+[Wed Sep 18 23:44:14 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Wed Sep 18 23:44:14 2013] [debug] Rendering template "views/contact.html.ep".
+[Wed Sep 18 23:44:14 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:44:14 2013] [debug] 200 OK (0.020133s, 49.670/s).
+[Wed Sep 18 23:44:16 2013] [debug] GET "/home".
+[Wed Sep 18 23:44:16 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:44:16 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:44:16 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:44:16 2013] [debug] 200 OK (0.002253s, 443.853/s).
