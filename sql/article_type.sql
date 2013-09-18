@@ -9,4 +9,4 @@ INSERT INTO article_type VALUES
 ( 3, 'Contracte naţionale-director'),
 ( 4, 'Contracte internaţionale-membru'),
 ( 5, 'Contracte naţionale-membru'),
-( 6, 'Brevete de inventie');
+( 6, 'Brevete de invenţie');

@@ -35358,3 +35358,43 @@ Global symbol "$carousel_phtos" requires explicit package name at template views
 [Wed Sep 18 22:57:12 2013] [debug] Rendering template "views/home.html.ep".
 [Wed Sep 18 22:57:12 2013] [debug] Rendering template "layouts/default.html.ep".
 [Wed Sep 18 22:57:12 2013] [debug] 200 OK (0.032368s, 30.895/s).
+[Wed Sep 18 23:01:30 2013] [debug] GET "/activity".
+[Wed Sep 18 23:01:30 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Wed Sep 18 23:01:30 2013] [debug] Rendering template "views/activity.html.ep".
+[Wed Sep 18 23:01:30 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:01:30 2013] [debug] 200 OK (0.249146s, 4.014/s).
+[Wed Sep 18 23:01:43 2013] [debug] GET "/photogallery".
+[Wed Sep 18 23:01:43 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Wed Sep 18 23:01:43 2013] [debug] Rendering template "views/photogallery.html.ep".
+[Wed Sep 18 23:01:43 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:01:43 2013] [debug] 200 OK (0.019707s, 50.743/s).
+[Wed Sep 18 23:01:48 2013] [debug] GET "/contact".
+[Wed Sep 18 23:01:48 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Wed Sep 18 23:01:48 2013] [debug] Rendering template "views/contact.html.ep".
+[Wed Sep 18 23:01:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Sep 18 23:01:48 2013] [debug] 200 OK (0.026879s, 37.204/s).
+[Wed Sep 18 23:01:52 2013] [debug] GET "/home".
+[Wed Sep 18 23:01:52 2013] [debug] Routing to controller "Renewable::Controllers::Home" and action "welcome".
+[Wed Sep 18 23:01:52 2013] [debug] Rendering cached template "views/home.html.ep".
+[Wed Sep 18 23:01:52 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:01:52 2013] [debug] 200 OK (0.004522s, 221.141/s).
+[Wed Sep 18 23:05:11 2013] [debug] GET "/photogallery".
+[Wed Sep 18 23:05:11 2013] [debug] Routing to controller "Renewable::Controllers::PhotoGallery" and action "index".
+[Wed Sep 18 23:05:11 2013] [debug] Rendering cached template "views/photogallery.html.ep".
+[Wed Sep 18 23:05:11 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:05:11 2013] [debug] 200 OK (0.002643s, 378.358/s).
+[Wed Sep 18 23:05:12 2013] [debug] GET "/activity".
+[Wed Sep 18 23:05:12 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Wed Sep 18 23:05:12 2013] [debug] Rendering cached template "views/activity.html.ep".
+[Wed Sep 18 23:05:12 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:05:12 2013] [debug] 200 OK (0.065211s, 15.335/s).
+[Wed Sep 18 23:05:13 2013] [debug] GET "/contact".
+[Wed Sep 18 23:05:13 2013] [debug] Routing to controller "Renewable::Controllers::Contact" and action "index".
+[Wed Sep 18 23:05:13 2013] [debug] Rendering cached template "views/contact.html.ep".
+[Wed Sep 18 23:05:13 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:05:13 2013] [debug] 200 OK (0.003351s, 298.418/s).
+[Wed Sep 18 23:05:16 2013] [debug] GET "/activity".
+[Wed Sep 18 23:05:16 2013] [debug] Routing to controller "Renewable::Controllers::Activity" and action "index".
+[Wed Sep 18 23:05:16 2013] [debug] Rendering cached template "views/activity.html.ep".
+[Wed Sep 18 23:05:16 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Sep 18 23:05:16 2013] [debug] 200 OK (0.072038s, 13.882/s).
